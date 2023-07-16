@@ -1,0 +1,23 @@
+.Search {
+  display: flex;
+  justify-content: center;
+
+  max-width: 100%;
+  margin-top: 30px;
+}
+
+input {
+  border: none;
+  outline: unset;
+
+  width: 80%;
+  height: 50px;
+  padding: 10px 20px;
+
+  font-size: 0.9em;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+
+  color: rgb(238, 238, 238);
+  background-color: rgba(58, 58, 58, 0.3);
+}

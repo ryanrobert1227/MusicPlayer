@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: #6a6363 solid 1px;
+
+  height: 10vh;
+  padding: 0 32px;
+}
+
+header img {
+  width: 220px;
+  height: auto;
+}
+
+header h1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  font-family: "Roboto";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  color: #fff;
+}
+
+header h1 img {
+  border-radius: 50%;
+
+  width: 32px;
+  height: 32px;
+}

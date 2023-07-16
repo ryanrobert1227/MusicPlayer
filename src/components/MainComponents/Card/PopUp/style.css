@@ -1,0 +1,220 @@
+.page-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background-color: rgba(0, 0, 0, 0.8);
+
+  z-index: 1;
+}
+
+.popup {
+  display: flex;
+  position: fixed;
+  top: 10vh;
+  left: 15vw;
+
+  width: 70vw;
+  height: 80vh;
+  padding: 20px;
+
+  background: linear-gradient(180deg, #0c0505 0%, #3a3535 47.92%, #5e5858 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 2;
+}
+
+.popup .column-one {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+
+  max-width: 25vw;
+}
+
+.popup .column-one img {
+  width: 80%;
+  height: auto;
+}
+
+.popup .column-one h3 {
+  border-top: 1px solid #5e5858;
+
+  width: 100%;
+  padding-top: 5px;
+
+  font-size: 1.3em;
+  font-family: "rubik", sans-serif;
+  font-weight: 700;
+
+  text-align: center;
+
+  color: #ccc3c3;
+}
+
+.popup .column-one h4 {
+  border-bottom: 1px solid #5e5858;
+
+  width: 100%;
+  padding-bottom: 5px;
+
+  font-size: 1em;
+  font-family: "rubik", sans-serif;
+  font-weight: 700;
+
+  text-align: center;
+
+  color: #ccc3c3;
+}
+
+.popup .column-one .center {
+  display: flex;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+
+  overflow-y: scroll;
+}
+
+.popup .column-one .center::-webkit-scrollbar {
+  width: 6px;
+  height: 6px; /* A altura só é vista quando a rolagem é horizontal */
+}
+
+.popup .column-one .center::-webkit-scrollbar-track {
+  border-radius: 20px;
+
+  padding: 2px;
+
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.popup .column-one .center::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+
+  background-color: #e5007ad7;
+}
+
+.popup .column-one .center p {
+  display: block;
+
+  width: 95%;
+  margin-top: 15px;
+
+  text-align: justify;
+  font-family: Rubik;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+
+  color: #ccc3c3;
+}
+
+.popup .column-one .buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+  width: 100%;
+
+  cursor: pointer;
+}
+
+.popup .column-one .buttons .mask {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  opacity: 0;
+}
+
+.popup .column-one .buttons:hover .mask {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  transition: all 400ms ease-in-out;
+  opacity: 1;
+}
+
+.popup .column-one .buttons button .play {
+  position: absolute;
+  left: calc(50% - 25px);
+  top: calc(50% - 25px);
+
+  width: 50px;
+  height: auto;
+
+  color: #fff;
+}
+
+.popup .column-one .buttons:hover button .play {
+  position: absolute;
+  left: calc(50% - 25px);
+  top: calc(50% - 25px);
+
+  width: 50px;
+  height: auto;
+
+  color: #e5007a;
+}
+
+.popup .column-two {
+  display: flex;
+  justify-content: center;
+
+  width: 55vw;
+  max-height: 100%;
+  padding: 20px 30px;
+
+  overflow-y: scroll;
+
+  scrollbar-width: thin;
+  scrollbar-color: black transparent;
+}
+
+.popup .column-two::-webkit-scrollbar {
+  width: 6px;
+  height: 6px; /* A altura só é vista quando a rolagem é horizontal */
+}
+
+.popup .column-two::-webkit-scrollbar-track {
+  border-radius: 20px;
+
+  padding: 2px;
+
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.popup .column-two::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+
+  background-color: #e5007ad7;
+}
+
+.popup .column-two p {
+  display: block;
+
+  text-align: center;
+  font-family: "Rubik";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  color: #ccc3c3;
+}

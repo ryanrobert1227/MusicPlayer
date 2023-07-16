@@ -1,0 +1,86 @@
+main {
+  display: flex;
+  flex-direction: column;
+
+  height: fit-content;
+  padding: 20px 159px 150px 159px;
+}
+
+main h1 {
+  margin-top: 40px;
+  padding-bottom: 20px;
+
+  border-bottom: #6a6363 solid 1px;
+
+  font-family: "Roboto";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  color: #fff;
+}
+
+main .container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, auto));
+  gap: 50px 25px;
+  flex-wrap: wrap;
+
+  max-width: 100%;
+  height: fit-content;
+  margin-top: 40px;
+}
+
+.btn-pagination-container {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 40px;
+}
+
+.btn-pagination {
+  all: unset;
+
+  border: 1px solid black;
+  border-radius: 5px;
+
+  padding: 5px 10px;
+  margin: 0 5px;
+
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+
+  background-color: rgba(50, 50, 50, 0.6);
+  color: white;
+
+  cursor: pointer;
+}
+
+.btn-pagination:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.btn-pagination:active {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.active_button {
+  all: unset;
+
+  border: 1px solid black;
+  border-radius: 5px;
+
+  padding: 5px 10px;
+  margin: 0 5px;
+
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+
+  background-color: rgba(20, 20, 20, 1);
+  color: #e5007b;
+
+  cursor: pointer;
+}

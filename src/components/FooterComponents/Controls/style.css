@@ -1,0 +1,38 @@
+.buttons {
+  display: flex;
+  gap: 0 30px;
+}
+
+.buttons button {
+  all: unset;
+
+  cursor: pointer;
+}
+
+.buttons button svg {
+  width: 40px;
+  height: auto;
+  color: #ccc3c3;
+}
+
+.buttons button svg:hover {
+  width: 40px;
+  height: auto;
+  color: #e5007a;
+}
+
+.buttons button .play {
+  width: 48px;
+  height: auto;
+}
+
+.buttons button .play:hover {
+  width: 48px;
+  height: auto;
+  color: #e5007a;
+}
+
+.buttons .diferent {
+  width: 37px;
+  height: auto;
+}
