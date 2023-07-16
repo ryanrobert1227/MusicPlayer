@@ -114,7 +114,7 @@ import legendsNeverDieImage from "./assets/Capas/legendsNeverDie.jpg";
 import royaltyImage from "./assets/Capas/royalty.jpg";
 import unholyImage from "./assets/Capas/Unholy.png";
 import unstoppableImage from "./assets/Capas/Unstoppable.jpg";
-import WithoutMeImage from "./assets/Capas/WithoutMe.jpg";
+import WithoutMeImage from "./assets/Capas/Withoutme.jpg";
 import YKWIMImage from "./assets/Capas/YKWIM.jpg";
 
 const data = [
