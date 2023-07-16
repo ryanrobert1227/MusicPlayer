@@ -5,7 +5,6 @@ import anotherLove from "./assets/musics/Another love.mp3";
 import believer from "./assets/musics/Believer.mp3";
 import cupid from "./assets/musics/Cupid.mp3";
 import darkSide from "./assets/musics/DarkSide.mp3";
-import goodBye from "./assets/musics/GoodBye.mp3";
 import heather from "./assets/musics/Heather.mp3";
 import iWannaBeYours from "./assets/musics/I Wanna be yours.mp3";
 import infinity from "./assets/musics/infinity.mp3";
@@ -106,7 +105,6 @@ import anotherLoveImage from "./assets/Capas/AnotherLove.jpg";
 import believerImage from "./assets/Capas/Believer.jpg";
 import cupidImage from "./assets/Capas/Cupid.jpg";
 import darkSideImage from "./assets/Capas/DarkSide.jpg";
-import goodByeImage from "./assets/Capas/GoodBye.jpg";
 import heatherImage from "./assets/Capas/Heather.jpg";
 import infinityImage from "./assets/Capas/infinity.jpg";
 import iWannaBeYoursImage from "./assets/Capas/IWannaBeYours.jpg";
@@ -642,91 +640,6 @@ const data = [
       },
     ],
     cover: darkSideImage,
-  },
-  {
-    id: 10,
-    title: "Goodbye",
-    artist: "Ramsey",
-    description:
-      "Goodbye Ramsey by John Smith is a heartfelt ballad that beautifully expresses the emotions of a bittersweet farewell. With tender melodies and poignant lyrics, the song creates a touching tribute to a cherished memory.",
-    url: goodBye,
-    lyrics: [
-      {
-        verse: [
-          "I can hear the sound of a heart beat",
-          "Before it calls out",
-          "Won't ever leave my memory",
-          "Of bloodshed all around",
-        ],
-      },
-      {
-        verse: [
-          "And I can see a tear on my father's face",
-          "Before it falls out on my enemy",
-          "How could I have ever let you down? Oh",
-          "When all these trees saw us grow",
-          "Cut our teeth and make our bonds right here",
-          "And play with shields made of stone",
-        ],
-      },
-      {
-        verse: [
-          "Share our dreams and sit at thrones, be still",
-          "'Cause I see smoke up ahead, and I got steel in my hands, we will",
-          "Return like warriors, I swear, that we'll find glory up ahead",
-          "Tell me",
-        ],
-      },
-      {
-        verse: [
-          "Where is my home?",
-          "I don't recognize the faces anymore, oh",
-          "Where is my friend?",
-          "The one I've known since I was only just a kid",
-        ],
-      },
-      {
-        verse: [
-          "I think it's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-          "It's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-        ],
-      },
-      {
-        verse: [
-          "It's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-          "It's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-        ],
-      },
-      {
-        verse: [
-          "Is it time to say goodbye?",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-          "It's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-        ],
-      },
-      {
-        verse: [
-          "Is it time to say goodbye?",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-          "It's time to say goodbye",
-          "Goodbye, goodbye",
-          "Goodbye, goodbye, ah",
-        ],
-      },
-    ],
-    cover: goodByeImage,
   },
   {
     id: 11,
