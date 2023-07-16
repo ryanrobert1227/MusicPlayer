@@ -5,54 +5,55 @@ import anotherLove from "./assets/musics/Another love.mp3";
 import believer from "./assets/musics/Believer.mp3";
 import cupid from "./assets/musics/Cupid.mp3";
 import darkSide from "./assets/musics/DarkSide.mp3";
+import goodBye from "./assets/musics/Goodbye.mp3";
 import heather from "./assets/musics/Heather.mp3";
-import iWannaBeYours from "./assets/musics/I Wanna be yours.mp3";
+import iWannaBeYours from "./assets/musics/Iwannabeyours.mp3";
 import infinity from "./assets/musics/infinity.mp3";
-import legendsNeverDie from "./assets/musics/Legends never die.mp3";
-import likeYouDo from "./assets/musics/Like you do.mp3";
+import legendsNeverDie from "./assets/musics/Legendsneverdie.mp3";
+import likeYouDo from "./assets/musics/Likeyoudo.mp3";
 import royalty from "./assets/musics/Royalty.mp3";
 import unholy from "./assets/musics/Unholy.mp3";
 import unstoppable from "./assets/musics/Unstoppable.mp3";
-import withoutMe from "./assets/musics/Without me.mp3";
-import YKWIM from "./assets/musics/YKWIM.mp3";
+import withoutMe from "./assets/musics/Withoutme.mp3";
+import YKWIM from "./assets/musics/Ykwim.mp3";
 
 // newMusics
 
-import theresNothingHoldinMeBack from "./assets/musics/newMusics/There's Nothing Holding Me Back.mp3";
-import shapeOfYou from "./assets/musics/newMusics/Shape of You.mp3";
-import rise from "./assets/musics/newMusics/RISE.mp3";
-import houseOfMemories from "./assets/musics/newMusics/House of Memories.mp3";
-import senorita from "./assets/musics/newMusics/Señorita.mp3";
-import howToBeFriends from "./assets/musics/newMusics/How To Be Friends.mp3";
-import youDontFeelTheSame from "./assets/musics/newMusics/you don't feel the same.mp3";
-import goodbyeToHoneymoon from "./assets/musics/newMusics/Goodbye To Honeymoon.mp3";
-import countingStars from "./assets/musics/newMusics/Counting Stars.mp3";
-import oFlyOn from "./assets/musics/newMusics/O Fly On.mp3";
-import deepDown from "./assets/musics/newMusics/Deep Down.mp3";
-import babyOneMoreTime from "./assets/musics/newMusics/Baby One More Time.mp3";
-import highsAndLows from "./assets/musics/newMusics/HighsAndLows.mp3";
-import aThousandYears from "./assets/musics/newMusics/A Thousand Years.mp3";
+import theresNothingHoldinMeBack from "./assets/musics/newMusics/Theresnothingholdingmeback.mp3";
+import shapeOfYou from "./assets/musics/newMusics/Shapeofyou.mp3";
+import rise from "./assets/musics/newMusics/Rise.mp3";
+import houseOfMemories from "./assets/musics/newMusics/Houseofmemories.mp3";
+import senorita from "./assets/musics/newMusics/Senorita.mp3";
+import howToBeFriends from "./assets/musics/newMusics/Howtobefriends.mp3";
+import youDontFeelTheSame from "./assets/musics/newMusics/youdontfeelthesame.mp3";
+import goodbyeToHoneymoon from "./assets/musics/newMusics/Goodbyetohoneymoon.mp3";
+import countingStars from "./assets/musics/newMusics/Countingstars.mp3";
+import oFlyOn from "./assets/musics/newMusics/Oflyon.mp3";
+import deepDown from "./assets/musics/newMusics/Deepdown.mp3";
+import babyOneMoreTime from "./assets/musics/newMusics/Babyonemoretime.mp3";
+import highsAndLows from "./assets/musics/newMusics/Highsandlows.mp3";
+import aThousandYears from "./assets/musics/newMusics/Athousandyears.mp3";
 import attention from "./assets/musics/newMusics/Attention.mp3";
-import unavailable from "./assets/musics/newMusics/UNAVAILABLE.mp3";
-import whatItIs from "./assets/musics/newMusics/What It Is.mp3";
-import seeYouAgain from "./assets/musics/newMusics/See You Again.mp3";
-import danceTheNight from "./assets/musics/newMusics/Dance The Night.mp3";
-import lastNight from "./assets/musics/newMusics/Last Night.mp3";
-import sayYesToHeaven from "./assets/musics/newMusics/Say Yes To Heaven.mp3";
-import whatUWant from "./assets/musics/newMusics/What U Want.mp3";
-import thatsMyGirl from "./assets/musics/newMusics/That's My Girl.mp3";
-import allMyLife from "./assets/musics/newMusics/All My Life.mp3";
+import unavailable from "./assets/musics/newMusics/Unavailable.mp3";
+import whatItIs from "./assets/musics/newMusics/Whatitis.mp3";
+import seeYouAgain from "./assets/musics/newMusics/Seeyouagain.mp3";
+import danceTheNight from "./assets/musics/newMusics/Dancethenight.mp3";
+import lastNight from "./assets/musics/newMusics/Lastnight.mp3";
+import sayYesToHeaven from "./assets/musics/newMusics/Sayyestoheaven.mp3";
+import whatUWant from "./assets/musics/newMusics/Whatuwant.mp3";
+import thatsMyGirl from "./assets/musics/newMusics/Thatsmygirl.mp3";
+import allMyLife from "./assets/musics/newMusics/Allmylife.mp3";
 import always from "./assets/musics/newMusics/Always.mp3";
 import everything from "./assets/musics/newMusics/Everything.mp3";
-import favoriteSong from "./assets/musics/newMusics/Favorite Song.mp3";
-import wishYouTheBest from "./assets/musics/newMusics/Wish You The Best.mp3";
+import favoriteSong from "./assets/musics/newMusics/Favoritesong.mp3";
+import wishYouTheBest from "./assets/musics/newMusics/Wishyouthebest.mp3";
 import wrong from "./assets/musics/newMusics/Wrong.mp3";
-import soWhat from "./assets/musics/newMusics/So What.mp3";
-import untilIFoundYou from "./assets/musics/newMusics/Until I Found You.mp3";
+import soWhat from "./assets/musics/newMusics/Sowhat.mp3";
+import untilIFoundYou from "./assets/musics/newMusics/Untilifoundyou.mp3";
 import clouds from "./assets/musics/newMusics/Clouds.mp3";
-import telepatia from "./assets/musics/newMusics/telepatía.mp3";
-import eyesClosed from "./assets/musics/newMusics/Eyes Closed.mp3";
-import stayAsYouAre from "./assets/musics/newMusics/Stay As You Are.mp3";
+import telepatia from "./assets/musics/newMusics/telepatia.mp3";
+import eyesClosed from "./assets/musics/newMusics/Eyesclosed.mp3";
+import stayAsYouAre from "./assets/musics/newMusics/Stayasyouare.mp3";
 import miracle from "./assets/musics/newMusics/Miracle.mp3";
 import mother from "./assets/musics/newMusics/Mother.mp3";
 import river from "./assets/musics/newMusics/River.mp3";
@@ -63,38 +64,38 @@ import wrecked from "./assets/musics/newMusics/Wrecked.mp3";
 import natural from "./assets/musics/newMusics/Natural.mp3";
 import thunder from "./assets/musics/newMusics/Thunder.mp3";
 import enemy from "./assets/musics/newMusics/Enemy.mp3";
-import whateverItTakes from "./assets/musics/newMusics/Whatever It Takes.mp3";
+import whateverItTakes from "./assets/musics/newMusics/Whateverittakes.mp3";
 import radioactive from "./assets/musics/newMusics/Radioactive.mp3";
 import crushed from "./assets/musics/newMusics/Crushed.mp3";
 import playground from "./assets/musics/newMusics/Playground.mp3";
-import queen from "./assets/musics/newMusics/QUEEN.mp3";
-import queenOfBrokenHearts from "./assets/musics/newMusics/queen of broken hearts.mp3";
-import theHills from "./assets/musics/newMusics/The Hills.mp3";
+import queen from "./assets/musics/newMusics/Queen.mp3";
+import queenOfBrokenHearts from "./assets/musics/newMusics/queenofbrokenhearts.mp3";
+import theHills from "./assets/musics/newMusics/Thehills.mp3";
 import habits from "./assets/musics/newMusics/Habits.mp3";
-import callMeByYourName from "./assets/musics/newMusics/Call Me By Your Name.mp3";
+import callMeByYourName from "./assets/musics/newMusics/Callmebyyourname.mp3";
 import youngblood from "./assets/musics/newMusics/Youngblood.mp3";
-import angryToo from "./assets/musics/newMusics/Angry Too.mp3";
-import angelsLikeYou from "./assets/musics/newMusics/Angels Like You.mp3";
-import breakMyHeart from "./assets/musics/newMusics/Break My Heart.mp3";
+import angryToo from "./assets/musics/newMusics/Angrytoo.mp3";
+import angelsLikeYou from "./assets/musics/newMusics/Angelslikeyou.mp3";
+import breakMyHeart from "./assets/musics/newMusics/Breakmyheart.mp3";
 import sorry from "./assets/musics/newMusics/Sorry.mp3";
 import teeth from "./assets/musics/newMusics/Teeth.mp3";
-import myOhMy from "./assets/musics/newMusics/My Oh My.mp3";
-import pokerFace from "./assets/musics/newMusics/Poker Face.mp3";
-import wallsCouldTalk from "./assets/musics/newMusics/Walls Could Talk.mp3";
+import myOhMy from "./assets/musics/newMusics/Myohmy.mp3";
+import pokerFace from "./assets/musics/newMusics/Pokerface.mp3";
+import wallsCouldTalk from "./assets/musics/newMusics/Wallscouldtalk.mp3";
 import control from "./assets/musics/newMusics/Control.mp3";
-import badBitch from "./assets/musics/newMusics/Bad Bitch.mp3";
+import badBitch from "./assets/musics/newMusics/Badbitch.mp3";
 import savage from "./assets/musics/newMusics/Savage.mp3";
-import badGuy from "./assets/musics/newMusics/Bad Guy.mp3";
+import badGuy from "./assets/musics/newMusics/Badguy.mp3";
 import toxic from "./assets/musics/newMusics/Toxic.mp3";
-import useMe from "./assets/musics/newMusics/Use Me.mp3";
+import useMe from "./assets/musics/newMusics/Useme.mp3";
 import gasoline from "./assets/musics/newMusics/Gasoline.mp3";
-import copycat from "./assets/musics/newMusics/Copy Cat.mp3";
-import happierThanEver from "./assets/musics/newMusics/Happier Than Ever.mp3";
+import copycat from "./assets/musics/newMusics/Copycat.mp3";
+import happierThanEver from "./assets/musics/newMusics/Happierthanever.mp3";
 import bellyache from "./assets/musics/newMusics/Bellyache.mp3";
-import oceanEyes from "./assets/musics/newMusics/Ocean Eyes.mp3";
+import oceanEyes from "./assets/musics/newMusics/Oceaneyes.mp3";
 import genius from "./assets/musics/newMusics/Genius.mp3";
-import noTimeToDie from "./assets/musics/newMusics/No Time To Die.mp3";
-import playWithFire from "./assets/musics/newMusics/Play With Fire.mp3";
+import noTimeToDie from "./assets/musics/newMusics/Notimetodie.mp3";
+import playWithFire from "./assets/musics/newMusics/Playwithfire.mp3";
 import wellerman from "./assets/musics/newMusics/Wellerman.mp3";
 import valhallaCalling from "./assets/musics/newMusics/Valhalla Calling.mp3";
 
@@ -105,6 +106,7 @@ import anotherLoveImage from "./assets/Capas/AnotherLove.jpg";
 import believerImage from "./assets/Capas/Believer.jpg";
 import cupidImage from "./assets/Capas/Cupid.jpg";
 import darkSideImage from "./assets/Capas/DarkSide.jpg";
+import goodByeImage from "./assets/Capas/GoodBye.jpg";
 import heatherImage from "./assets/Capas/Heather.jpg";
 import infinityImage from "./assets/Capas/infinity.jpg";
 import iWannaBeYoursImage from "./assets/Capas/IWannaBeYours.jpg";
@@ -640,6 +642,91 @@ const data = [
       },
     ],
     cover: darkSideImage,
+  },
+  {
+    id: 10,
+    title: "Goodbye",
+    artist: "Ramsey",
+    description:
+      "Goodbye Ramsey by John Smith is a heartfelt ballad that beautifully expresses the emotions of a bittersweet farewell. With tender melodies and poignant lyrics, the song creates a touching tribute to a cherished memory.",
+    url: goodBye,
+    lyrics: [
+      {
+        verse: [
+          "I can hear the sound of a heart beat",
+          "Before it calls out",
+          "Won't ever leave my memory",
+          "Of bloodshed all around",
+        ],
+      },
+      {
+        verse: [
+          "And I can see a tear on my father's face",
+          "Before it falls out on my enemy",
+          "How could I have ever let you down? Oh",
+          "When all these trees saw us grow",
+          "Cut our teeth and make our bonds right here",
+          "And play with shields made of stone",
+        ],
+      },
+      {
+        verse: [
+          "Share our dreams and sit at thrones, be still",
+          "'Cause I see smoke up ahead, and I got steel in my hands, we will",
+          "Return like warriors, I swear, that we'll find glory up ahead",
+          "Tell me",
+        ],
+      },
+      {
+        verse: [
+          "Where is my home?",
+          "I don't recognize the faces anymore, oh",
+          "Where is my friend?",
+          "The one I've known since I was only just a kid",
+        ],
+      },
+      {
+        verse: [
+          "I think it's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+          "It's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+        ],
+      },
+      {
+        verse: [
+          "It's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+          "It's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+        ],
+      },
+      {
+        verse: [
+          "Is it time to say goodbye?",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+          "It's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+        ],
+      },
+      {
+        verse: [
+          "Is it time to say goodbye?",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+          "It's time to say goodbye",
+          "Goodbye, goodbye",
+          "Goodbye, goodbye, ah",
+        ],
+      },
+    ],
+    cover: goodByeImage,
   },
   {
     id: 11,
