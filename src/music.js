@@ -7,7 +7,6 @@ import cupid from "./assets/musics/Cupid.mp3";
 import goodBye from "./assets/musics/Goodbye.mp3";
 import heather from "./assets/musics/Heather.mp3";
 import iWannaBeYours from "./assets/musics/Iwannabeyours.mp3";
-import infinity from "./assets/musics/Infinity.mp3";
 import legendsNeverDie from "./assets/musics/Legendsneverdie.mp3";
 import likeYouDo from "./assets/musics/Likeyoudo.mp3";
 import royalty from "./assets/musics/Royalty.mp3";
@@ -53,7 +52,6 @@ import believerImage from "./assets/Capas/Believer.jpg";
 import cupidImage from "./assets/Capas/Cupid.jpg";
 import goodByeImage from "./assets/Capas/GoodBye.jpg";
 import heatherImage from "./assets/Capas/Heather.jpg";
-import infinityImage from "./assets/Capas/Infinity.jpg";
 import iWannaBeYoursImage from "./assets/Capas/IWannaBeYours.jpg";
 import legendsNeverDieImage from "./assets/Capas/legendsNeverDie.jpg";
 import royaltyImage from "./assets/Capas/royalty.jpg";
@@ -746,82 +744,6 @@ const data = [
       },
     ],
     cover: iWannaBeYoursImage,
-  },
-  {
-    id: 13,
-    title: "Infinity",
-    artist: "Jaymes Young",
-    description:
-      "Infinity is a captivating indie pop track by the talented artist Jaymes Young. Released in 2017, this song enchants listeners with its dreamy melodies and introspective lyrics. Jaymes Young's soulful vocals perfectly complement the atmospheric production, creating a mesmerizing sonic experience. Infinity is a testament to Jaymes Young's artistry and his ability to evoke deep emotions through his music.",
-    url: infinity,
-    lyrics: [
-      {
-        verse: [
-          "Baby, this love",
-          "I'll never let it die",
-          "Can't be touched by no one",
-          "I'd like to see 'em try",
-        ],
-      },
-      {
-        verse: [
-          "I'm a mad man for your touch, girl, I've lost control",
-          "I'm gonna make this last forever, don't tell me it's impossible",
-        ],
-      },
-      {
-        verse: [
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (oh-oh-oh)",
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (oh-oh-oh)",
-        ],
-      },
-      {
-        verse: [
-          "Oh, darling, my soul",
-          "You know it aches for yours",
-          "And you've been filling this hole",
-          "Since you were born, oh",
-        ],
-      },
-      {
-        verse: [
-          "'Cause you're the reason I believe in fate, you're my paradise",
-          "And I'll do anything to be your love or be your sacrifice",
-        ],
-      },
-      {
-        verse: [
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (oh-oh-oh)",
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (yeah-eh, oh-oh-oh)",
-        ],
-      },
-      {
-        verse: ["Meet me at the bottom of the ocean"],
-      },
-      {
-        verse: [
-          "Where the time is frozen",
-          "Where all the universe is open",
-          "Love isn't random, we are chosen",
-          "And we could wear the same crown",
-          "Keep slowing your heart down",
-          "We are the gods now",
-        ],
-      },
-      {
-        verse: [
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (oh-oh-oh)",
-          "'Cause I love you for infinity (oh-oh-oh)",
-          "I love you for infinity (oh-oh-oh)",
-        ],
-      },
-    ],
-    cover: infinityImage,
   },
   {
     id: 14,
