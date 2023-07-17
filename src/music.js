@@ -4,7 +4,6 @@ import alone from "./assets/musics/Alone.mp3";
 import anotherLove from "./assets/musics/Another love.mp3";
 import believer from "./assets/musics/Believer.mp3";
 import cupid from "./assets/musics/Cupid.mp3";
-import darkSide from "./assets/musics/DarkSide.mp3";
 import goodBye from "./assets/musics/Goodbye.mp3";
 import heather from "./assets/musics/Heather.mp3";
 import iWannaBeYours from "./assets/musics/Iwannabeyours.mp3";
@@ -52,7 +51,6 @@ import aloneImage from "./assets/Capas/Alone.png";
 import anotherLoveImage from "./assets/Capas/AnotherLove.jpg";
 import believerImage from "./assets/Capas/Believer.jpg";
 import cupidImage from "./assets/Capas/Cupid.jpg";
-import darkSideImage from "./assets/Capas/DarkSide.jpg";
 import goodByeImage from "./assets/Capas/GoodBye.jpg";
 import heatherImage from "./assets/Capas/Heather.jpg";
 import infinityImage from "./assets/Capas/Infinity.jpg";
@@ -497,97 +495,6 @@ const data = [
       },
     ],
     cover: cupidImage,
-  },
-  {
-    id: 9,
-    title: "Dark Side",
-    artist: "Alan Walker",
-    description:
-      "Dark Side is a captivating electronic track by the renowned artist Alan Walker. Released in 2023, this song takes listeners on a mesmerizing journey with its enchanting melodies and atmospheric soundscapes.",
-    url: darkSide,
-    lyrics: [
-      {
-        verse: [
-          "We're not in love",
-          "We share no stories",
-          "Just something in your eyes",
-          "Don't be afraid",
-          "The shadows know me",
-          "Let's leave the world behind",
-        ],
-      },
-      {
-        verse: [
-          "Take me through the night",
-          "Fall into the dark side",
-          "We don't need the light",
-          "We'll live on the dark side",
-          "I see it, let's feel it",
-          "While we're still young and fearless",
-          "Let go of the light",
-          "Fall into the dark side",
-        ],
-      },
-      {
-        verse: [
-          "Fall into the dark side",
-          "Give into the dark side",
-          "Let go of the light",
-          "Fall into the dark side",
-        ],
-      },
-      {
-        verse: [
-          "Beneath the sky",
-          "As black as diamonds",
-          "We're running out of time (time, time)",
-          "Don't wait for truth",
-          "To come and blind us",
-          "Let's just believe their lies",
-        ],
-      },
-      {
-        verse: [
-          "Believe it, I see it",
-          "I know that you can feel it",
-          "No secrets worth keeping",
-          "So fool me like I'm dreaming",
-        ],
-      },
-      {
-        verse: [
-          "Take me through the night",
-          "Fall into the dark side",
-          "We don't need the light",
-          "We'll live on the dark side",
-          "I see it, let's feel it",
-          "While we're still young and fearless",
-          "Let go of the light",
-          "Fall into the dark side",
-        ],
-      },
-      {
-        verse: [
-          "Fall into the dark side",
-          "Give into the dark side",
-          "Let go of the light",
-          "Fall into the dark side",
-        ],
-      },
-      {
-        verse: [
-          "Take me through the night",
-          "Fall into the dark side",
-          "We don't need the light",
-          "We'll live on the dark side",
-          "I see it, let's feel it",
-          "While we're still young and fearless",
-          "Let go of the light",
-          "Fall into the dark side",
-        ],
-      },
-    ],
-    cover: darkSideImage,
   },
   {
     id: 10,
