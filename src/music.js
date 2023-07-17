@@ -31,7 +31,6 @@ import deepDown from "./assets/musics/newMusics/Deepdown.mp3";
 import babyOneMoreTime from "./assets/musics/newMusics/Babyonemoretime.mp3";
 import aThousandYears from "./assets/musics/newMusics/Athousandyears.mp3";
 import attention from "./assets/musics/newMusics/Attention.mp3";
-import unavailable from "./assets/musics/newMusics/Unavailable.mp3";
 import whatItIs from "./assets/musics/newMusics/Whatitis.mp3";
 import seeYouAgain from "./assets/musics/newMusics/Seeyouagain.mp3";
 import danceTheNight from "./assets/musics/newMusics/Dancethenight.mp3";
@@ -2875,112 +2874,6 @@ const data = [
     ],
     cover:
       "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Doja_Cat_-_Attention.png/220px-Doja_Cat_-_Attention.png",
-  },
-  {
-    id: 36,
-    title: "UNAVAILABLE",
-    artist: "Davido",
-    description:
-      "UNAVAILABLE is an energetic Afrobeat track by Davido. Released in 2022, it combines infectious rhythms, vibrant instrumentation, and Davido's captivating vocals, creating an irresistible dancefloor anthem.",
-    url: unavailable,
-    lyrics: [
-      {
-        verse: [
-          "Baddest",
-          "You know",
-          "Eh, eh, eh, eh",
-          "Tune into the king of sounds and blues",
-          "Initiating rage process",
-        ],
-      },
-      {
-        verse: [
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-        ],
-      },
-      {
-        verse: [
-          "And I sorry for who wan, who wan",
-          "Who wan gbe my matter s'ori",
-          "I'm only human (Human)",
-          "So make no body para oh",
-          "Say I carry woman (Woman)",
-          "Shey na man wey I for carry?",
-          "Fuck all the rumours",
-          "Abi e get when I talk sey I be pastor",
-          "Hmm, ye, ye",
-          "If you know, you oh",
-          "The kind work",
-          "If it's not owo oh",
-          "I can't talk",
-          "'Cause, owo ni koko (Koko)",
-          "Oga ade, dey your dey",
-          "Me I dey for the dey",
-          "Girl I'm unavailable",
-          "You might also like",
-          "GODFATHER",
-          "Davido",
-          "E PAIN ME",
-          "Davido",
-          "IN THE GARDEN",
-          "Davido",
-        ],
-      },
-      {
-        verse: [
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-        ],
-      },
-      {
-        verse: [
-          "Don’t dim ma life",
-          "I don't have no time, Soniya",
-          "Come see me shining",
-          "Got too many birds on my IG",
-          "I'm changing my life oh",
-          "I got my mama proud innit",
-          "She kept me going",
-          "This fame took all my freedom",
-          "'Cause I'm a big propeller, save the rumors",
-          "Girl go jealous, got a big Banana",
-          "I'm a big propeller, save the rumors",
-          "Girl go jealous, got a big Banana",
-          "'Cause I'm a big propeller, save the rumours",
-          "Girl go jealous, got a big Banana",
-          "I'm a big propeller, save the chedda",
-          "Fuck their father",
-          "Chiki-chi-chiki-chi-chi",
-        ],
-      },
-      {
-        verse: [
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-          "I'm unavailable (Unavailable)",
-          "Dem no dey see me (Dem no dey see)",
-        ],
-      },
-    ],
-    cover:
-      "https://i1.sndcdn.com/artworks-07D9AYlbBZazVUre-1uRu6A-t500x500.jpg",
   },
   {
     id: 37,
