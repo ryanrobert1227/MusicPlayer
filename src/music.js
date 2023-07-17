@@ -3332,6 +3332,591 @@ const data = [
     cover:
       "https://t2.genius.com/unsafe/601x0/https%3A%2F%2Fimages.genius.com%2F1d9d47a7b4e881ef85e906b51b9e1419.999x999x1.png",
   },
+  {
+    id: 45,
+    title: "Always",
+    artist: "Daniel Caesar",
+    description:
+      "Always is a soulful R&B track by Daniel Caesar. Released in 2017, it showcases Caesar's smooth vocals and heartfelt lyrics, capturing the emotions of love and devotion.",
+    url: always,
+    lyrics: [
+      {
+        verse: [
+          "Baby, baby",
+          "There will always be space for you and me",
+          "Right where you left it",
+          "And just maybe",
+          "Enough time will pass",
+          "We'll look back and laugh",
+          "Just don't forget it",
+        ],
+      },
+      {
+        verse: [
+          "And maybe I'm wrong",
+          "For writing this song",
+          "Losing my head over you",
+        ],
+      },
+      {
+        verse: [
+          "And I'll be here",
+          "'Cause we both know how it goes",
+          "I don't want things to change",
+          "I pray they stay the same, always",
+          "And I don't care",
+          "If you're with somebody else",
+          "I'll give you time and space",
+          "Just know I'm not a phase",
+          "I'm always, ways, ways",
+          "Always, ways, ways",
+          "Always, ways, ways",
+        ],
+      },
+      {
+        verse: [
+          "Pretty lady, used to walk with me",
+          "Down bloor street, oh, what a time",
+          "And I still remember the fuss and thе fight and the fuckin' the line",
+          "So finе, you'll always be mine",
+        ],
+      },
+      {
+        verse: [
+          "And maybe I'm wrong (hey, babe, you could)",
+          "For writing this song (write me a song)",
+          "Losing my head over you",
+        ],
+      },
+      {
+        verse: [
+          "And I'll be here",
+          "'Cause we both know how it goes",
+          "I don't want things to change",
+          "I pray they stay the same, always",
+          "And I don't care",
+          "If you're with somebody else",
+          "I'll give you time and space",
+          "Just know I'm not a phase",
+          "I'm always, ways, ways",
+          "Always, ways, ways",
+          "Always, ways, ways",
+        ],
+      },
+      {
+        verse: [
+          "Always, count unsure are the stars in the sky",
+          "Always, you can on the sure that the Sun will rise",
+          "Always, my love for you will go with no man",
+          "Always, I will be here",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-xF0WP4tocxVIE1GR-Y0eQKg-t500x500.jpg",
+  },
+  {
+    id: 46,
+    title: "Everything",
+    artist: "Lucas Larvenz",
+    description:
+      "Everything is a mesmerizing pop track by Lucas Larvenz. Released in 2022, it combines lush melodies, atmospheric production, and Larvenz's captivating vocals, creating a sonic journey that envelops the listener.",
+    url: everything,
+    lyrics: [
+      {
+        verse: [
+          "We meet less than a week ago",
+          "I want to see where we can go",
+          "We try so hard to take it slow ",
+          "But i’ve been yours since you said hello",
+          "I already care I already know",
+          "That your the first boy that’s felt like home",
+          "Don’t think I can take it If you hit the brakes",
+          "Tell you how I feel but I bet you know",
+        ],
+      },
+      {
+        verse: [
+          "Fell in love at the first text ",
+          "Been dreaming of you since we meet",
+          "Looking for someone my type",
+          "Someone to make me feel alright",
+          "And baby I know it’s you",
+          "I need this to last through June",
+          "No this ain’t a summer fling",
+          "To me you are everything",
+        ],
+      },
+      {
+        verse: [
+          "I fall fast and then I get bored",
+          "So I backtrack and they get ignored",
+          "I’ve been waiting for someone so fascinating",
+          "Someone I can be thankful for",
+          "Everyday with you is a honeymoon ",
+          "Didn’t know I’d feel so strong so soon",
+          "The look in your eyes takes me to paradise",
+          "And when you smile and you kiss me too ",
+        ],
+      },
+      {
+        verse: [
+          "Fell in love at the first text ",
+          "Been dreaming of you since we meet",
+          "Looking for someone my type",
+          "Someone to make me feel alright",
+          "And baby I know it’s you",
+          "I need this to last through June",
+          "No this ain’t a summer fling",
+          "To me you are everything",
+        ],
+      },
+    ],
+    cover: "https://i.scdn.co/image/ab67616d00001e021e4f3d3b4ccf54c2bb3c6d3d",
+  },
+  {
+    id: 47,
+    title: "Favorite Song",
+    artist: "Toosii",
+    description:
+      "Favorite Song is an infectious hip-hop track by Toosii. Released in 2021, it combines catchy melodies, smooth flows, and relatable lyrics, making it a perfect choice for your playlist.",
+    url: favoriteSong,
+    lyrics: [
+      {
+        verse: [
+          "But nobody's",
+          "Gonna make you change what you probably",
+          "Don't like anyway 'bout you darlin'",
+          "So you might as well",
+          "Hmm-mmm",
+          "Be somebody",
+          "Who can make you face what you're guardin'",
+          "Open up the gates where your heart is",
+          "And just be yourself (ADELSO on this)",
+          "Yeah",
+        ],
+      },
+      {
+        verse: [
+          "I'm on the stage right now, singin' your favorite song",
+          "Look in the crowd, and you're nowhere to be found as they sing along",
+          'I say, "You look good without no make-up, no lashes, even better when you wake up" (Oh, oh, oh)',
+        ],
+      },
+      {
+        verse: [
+          "I see the look on your face, I see you're hidin' the hate",
+          "I see you're lookin' for someone to scoop you right off of your feet",
+          "You want to ride in the Wraith",
+          "You want to go out on dates",
+          "You want somebody to come bring you flowers",
+          "Someone to talk to for hours",
+          "Wash your back while y'all sit in the shower (Yeah)",
+          "Someone to tell you you're beautiful",
+          "Someone to tell you and mean it",
+          `Someone to tell you, "I love you" everyday and don't got a reason`,
+          "Talkin' 'bout someone to bring you peace (Uh)",
+          "Someone to help you sleep (Yeah)",
+          "Someone to pick you up when you're feelin' down, feelin' lonely",
+        ],
+      },
+      {
+        verse: [
+          "Need somebody who can make it better",
+          "Somebody who can open up those gates",
+          "Open up those gates to your heart",
+          "Only if you'll let me",
+        ],
+      },
+      {
+        verse: [
+          "I'm on the stage right now, singin' your favorite song",
+          "Look in the crowd, and you're nowhere to be found as they sing along",
+          'I say, "You look good without no make-up, no lashes, even better when you wake up" (Oh, oh, oh)',
+        ],
+      },
+      {
+        verse: [
+          "I see the look on your face, I see you're lookin' for peace",
+          "I see you're tired of the hurt, tired of the pain, tired of the nights where you can't get no sleep",
+          "I see you're tired thinkin' 'bout if he cheat",
+          "See you tired thinkin' 'bout if you're leavin'",
+          "See you tired of bein' so tired",
+          "And you're damn sure ain't gettin' even",
+        ],
+      },
+      {
+        verse: [
+          "Need somebody who can make it better",
+          "Somebody who can open up those gates",
+          "Open up those gates to your heart",
+          "Only if you'll let me",
+        ],
+      },
+      {
+        verse: [
+          "I'm on the stage right now, singin' your favorite song",
+          "Look in the crowd, and you're nowhere to be found as they sing along",
+          'I say, "You look good without no make-up, no lashes, even better when you wake up" (Oh, oh, oh)',
+        ],
+      },
+      {
+        verse: [
+          "Gonna make you change what you probably",
+          "Don't like anyway 'bout you darlin'",
+          "So you might as well",
+          "Be somebody",
+          "Who can make you face what you're guardin'",
+          "Open up the gates where your heart is",
+          "And just be yourself",
+          "Hmm",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/c/c3/Toosii_-_Favorite_Song.jpeg",
+  },
+  {
+    id: 48,
+    title: "Wish You The Best",
+    artist: "Lewis Capaldi",
+    description:
+      "Wish You The Best is an emotional ballad by Lewis Capaldi. Released in 2019, it showcases Capaldi's powerful vocals and heartfelt lyrics, conveying the emotions of love and longing.",
+    url: wishYouTheBest,
+    lyrics: [
+      {
+        verse: [
+          "I miss knowing what you're thinking",
+          "And hearing how your day has been",
+          "Do you think you could tell me everything, darling",
+          "But leave out every part about him?",
+          "Right now, you're probably by the ocean",
+          "While I'm still out here in the rain",
+          "With every day that passes by since we've spoken",
+          "It's like Glasgow gets farther from LA",
+        ],
+      },
+      { verse: ["Maybe it's supposed to be this way"] },
+      {
+        verse: [
+          "But, oh, my love",
+          "I wanna say: I miss the green in your eyes",
+          "And when I said we could be friends, guess I lied",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+      {
+        verse: [
+          "I wanna say: Without you, everything's wrong",
+          "And you were everything I need all along",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+      {
+        verse: [
+          "Well, I can't help but notice",
+          "You seem happier than ever now",
+          "And I guess that I should tell you: I'm sorry",
+          "It seems I was the problem, somehow",
+        ],
+      },
+      { verse: ["Maybe I only brought you down"] },
+      {
+        verse: [
+          "But, oh, my love",
+          "I wanna say: I miss the green in your eyes",
+          "And when I said we could be friends, guess I lied",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+      {
+        verse: [
+          "I wanna say: Without you, everything's wrong",
+          "And you were everything I need all along",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+      { verse: ["But, oh, my love", "Ooh", "Oh, my love", "Ooh"] },
+      {
+        verse: [
+          "Wish I could say it's something I really mean",
+          "But I want you happy whether or not it's with me",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+      {
+        verse: [
+          "I wanna say: Without you, everything's wrong",
+          "And you were everything I need all along",
+          "I wanna say: I wish that you never left",
+          "Oh, but instead: I only wish you the best",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/4/4c/Lewis_Capaldi_-_Wish_You_the_Best.png",
+  },
+  {
+    id: 49,
+    title: "Wrong",
+    artist: "Lucas Larvenz",
+    description:
+      "Wrong is a captivating pop track by Lucas Larvenz. Released in 2021, it explores the complexities of relationships and the struggle of finding one's place, with its catchy hooks and introspective lyrics.",
+    url: wrong,
+    lyrics: [
+      {
+        verse: [
+          "Saturday and i’m all alone",
+          "A quiet comfort of my four walls",
+          "If I had it in me I would run to you",
+          "But my body’s numb I swear it’s not you",
+        ],
+      },
+      {
+        verse: [
+          "And you scream again blowing up my phone",
+          "The constant fighting is getting old",
+          "And you count my sins in yet another song",
+          "But I swear to god you got it all wrong",
+        ],
+      },
+      {
+        verse: [
+          "You got it all wrong",
+          "You got it all wrong",
+          "You got it all wrong",
+        ],
+      },
+      {
+        verse: [
+          "I swear to god you got it all wrong",
+          "You ask if there are others",
+          "I say that I would never",
+        ],
+      },
+      {
+        verse: [
+          "Cause sometimes even silence is too much of a companion",
+          "And I swear that I love you",
+          "Or at least I think that I do",
+          "But I forgotten what it feels like",
+          "To ever love myself too",
+        ],
+      },
+      {
+        verse: [
+          "But one phone call and there goes all your trust",
+          "And now all you see is ghost of my past",
+          "Now all I hear is ticking of our clock ",
+          "and the awful silence of your morbid thoughts",
+        ],
+      },
+      {
+        verse: [
+          "You got it all wrong",
+          "You got it all wrong",
+          "You got it all wrong",
+        ],
+      },
+      { verse: ["I swear to god you got it all wrong"] },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/0495bc300c32b2bb9773ea912d77ff51/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 50,
+    title: "So What",
+    artist: "P!NK",
+    description:
+      "So What is an empowering pop-rock anthem by P!NK. Released in 2008, it features catchy melodies, energetic guitars, and P!NK's bold and rebellious attitude.",
+    url: soWhat,
+    lyrics: [
+      {
+        verse: [
+          "Na-na-na-na-na-na-na",
+          "Na-na-na-na-na-na",
+          "Na-na-na-na-na-na-na",
+          "Na-na-na-na-na-na",
+        ],
+      },
+      {
+        verse: [
+          "I guess I just lost my husband",
+          "I don't know where he went",
+          "So I'm gonna drink my money",
+          "I'm not gonna pay his rent (nope)",
+        ],
+      },
+      {
+        verse: [
+          "I got a brand new attitude",
+          "And I'm gonna wear it tonight",
+          "I wanna get in trouble",
+          "I wanna start a fight",
+        ],
+      },
+      {
+        verse: [
+          "Na-na-na-na-na-na-na",
+          "I wanna start a fight",
+          "Na-na-na-na-na-na-na",
+          "I wanna start a fight!",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I'm still a rockstar",
+          "I got my rock moves",
+          "And I don't need you",
+        ],
+      },
+      {
+        verse: [
+          "And guess what?",
+          "I'm having more fun",
+          "And now that we're done",
+          "I'm gonna show you tonight",
+          "I'm alright",
+          "I'm just fine",
+          "And you're a tool",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I am a rockstar",
+          "I got my rock moves",
+          "And I don't want you tonight",
+        ],
+      },
+      { verse: ["(Uh, check my flow, uh)"] },
+      {
+        verse: [
+          "The waiter just took my table",
+          "And gave it to Jessica Simps (shit)",
+          "I guess I'll go sit with drum boy",
+          "At least he'll know how to hit (oops)",
+        ],
+      },
+      {
+        verse: [
+          "What if this song's on the radio?",
+          "Then somebody's gonna die",
+          "I'm gonna get in trouble",
+          "My ex will start a fight",
+        ],
+      },
+      {
+        verse: [
+          "Na-na-na-na-na-na-na",
+          "He's gonna start a fight",
+          "Na-na-na-na-na-na-na",
+          "We're all gonna get in a fight!",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I'm still a rockstar",
+          "I got my rock moves",
+          "And I don't need you",
+        ],
+      },
+      {
+        verse: [
+          "And guess what?",
+          "I'm having more fun",
+          "And now that we're done",
+          "I'm gonna show you tonight",
+          "I'm alright (I'm alright)",
+          "I'm just fine",
+          "And you're a tool",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I am a rockstar",
+          "I got my rock moves",
+          "And I don't want you tonight",
+        ],
+      },
+      {
+        verse: [
+          "You weren't there",
+          "You never were",
+          "You want it all, but that's not fair",
+        ],
+      },
+      {
+        verse: [
+          "I gave you life",
+          "I gave my all",
+          "You weren't there",
+          "You let me fall",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I'm still a rockstar",
+          "I got my rock moves",
+          "And I don't need you",
+        ],
+      },
+      {
+        verse: [
+          "And guess what?",
+          "I'm having more fun",
+          "And now that we're done (we're done)",
+          "I'm gonna show you tonight",
+          "I'm alright (I'm alright)",
+          "I'm just fine (I'm just fine)",
+          "And you're a tool",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I am a rockstar (oh)",
+          "I got my rock moves",
+          "And I don't want you tonight (I don't want you tonight)",
+        ],
+      },
+      {
+        verse: [
+          "No, no",
+          "No, no",
+          "I don't want you tonight",
+          "You weren't there",
+        ],
+      },
+      {
+        verse: [
+          "I'm gonna show you tonight (I'm gonna show you tonight)",
+          "I'm alright (I'm alright)",
+          "I'm just fine",
+          "And you're a tool",
+        ],
+      },
+      {
+        verse: [
+          "So, so what?",
+          "I am a rockstar",
+          "I got my rock moves",
+          "And I don't want you tonight (I don't want you tonight)",
+        ],
+      },
+      { verse: ["Ba-da-da-da-da-da"] },
+    ],
+    cover: "https://upload.wikimedia.org/wikipedia/pt/f/f3/Pinksowhatcover.jpg",
+  },
 ];
 
 export default data;
