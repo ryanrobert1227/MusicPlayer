@@ -15,7 +15,7 @@ import royalty from "./assets/musics/Royalty.mp3";
 import unholy from "./assets/musics/Unholy.mp3";
 import unstoppable from "./assets/musics/Unstoppable.mp3";
 import withoutMe from "./assets/musics/Withoutme.mp3";
-import YKWIM from "./assets/musics/Ykwim.mp3";
+// import YKWIM from "./assets/musics/Ykwim.mp3";
 
 // newMusics
 
@@ -97,7 +97,7 @@ import genius from "./assets/musics/newMusics/Genius.mp3";
 import noTimeToDie from "./assets/musics/newMusics/Notimetodie.mp3";
 import playWithFire from "./assets/musics/newMusics/Playwithfire.mp3";
 import wellerman from "./assets/musics/newMusics/Wellerman.mp3";
-import valhallaCalling from "./assets/musics/newMusics/Valhalla Calling.mp3";
+import valhallaCalling from "./assets/musics/newMusics/Valhallacalling.mp3";
 
 // cartazes
 
@@ -115,7 +115,7 @@ import royaltyImage from "./assets/Capas/royalty.jpg";
 import unholyImage from "./assets/Capas/Unholy.png";
 import unstoppableImage from "./assets/Capas/Unstoppable.jpg";
 import WithoutMeImage from "./assets/Capas/Withoutme.jpg";
-import YKWIMImage from "./assets/Capas/YKWIM.jpg";
+// import YKWIMImage from "./assets/Capas/YKWIM.jpg";
 
 const data = [
   {
@@ -1573,144 +1573,144 @@ const data = [
     ],
     cover: WithoutMeImage,
   },
-  {
-    id: 20,
-    title: "YKWIM",
-    artist: "Peach Tree Rascals",
-    description:
-      "YKWIM is an infectious indie pop song by Peach Tree Rascals. It was released in 2021 and is known for its catchy hooks and upbeat vibe.",
-    url: YKWIM,
-    lyrics: [
-      {
-        verse: [
-          "Hey",
-          "It's not like you've ever tried to stay",
-          "Sometimes it seems like I'm in your way",
-          "Well, that's how it seems",
-          "Hey",
-          "You know what I mean?",
-        ],
-      },
-      {
-        verse: [
-          "It seems like I care too much",
-          "When I'm all alone, oh no",
-          "I feel like I care too much",
-          "When no one's at home for me",
-          "Feel like I'm fallin' out",
-          "Well, that's how it seems",
-          "I think that I'm fallin' out",
-          "You know what I mean?",
-        ],
-      },
-      {
-        verse: [
-          "It seems like I care too much",
-          "When I'm all alone, oh no",
-          "She said that I care too much",
-          "When no one's at home for me, ah",
-        ],
-      },
-    ],
-    cover: YKWIMImage,
-  },
-  {
-    id: 21,
-    title: "There's Nothing Holdin' Me Back",
-    artist: "Shawn Mendes",
-    description:
-      "There's Nothing Holdin' Me Back is an energetic pop-rock track by Shawn Mendes. Released in 2017, this song showcases Mendes' powerful vocals and catchy melodies, capturing the feeling of freedom and youthful exuberance.",
-    url: theresNothingHoldinMeBack,
-    lyrics: [
-      {
-        verse: [
-          "I wanna follow where she goes",
-          "I think about her and she knows it",
-          "I wanna let her take control",
-          "'Cause every time that she gets close, yeah",
-        ],
-      },
-      { verse: ["She pulls me in enough to keep me guessin', hmm"] },
-      {
-        verse: [
-          "And maybe I should stop and start confessin'",
-          "Confessin', yeah",
-        ],
-      },
-      {
-        verse: [
-          "Oh, I've been shakin'",
-          "I love it when you go crazy",
-          "You take all my inhibitions",
-          "Baby, there's nothing holdin' me back",
-          "You take me places that tear up my reputation",
-          "Manipulate my decisions",
-          "Baby, there's nothing holdin' me back",
-        ],
-      },
-      { verse: ["There's nothing holdin' me back"] },
-      { verse: ["There's nothing holdin' me back"] },
-      {
-        verse: [
-          "She says that she's never afraid",
-          "Just picture everybody naked",
-          "She really doesn't like to wait",
-          "Not really into hesitation",
-        ],
-      },
-      {
-        verse: [
-          "Pulls me in enough to keep me guessin', whoa-oh",
-          "And maybe I should stop and start confessin'",
-          "Confessin', yeah",
-        ],
-      },
-      {
-        verse: [
-          "Oh, I've been shakin'",
-          "I love it when you go crazy",
-          "You take all my inhibitions",
-          "Baby, there's nothing holdin' me back",
-          "You take me places that tear up my reputation",
-          "Manipulate my decisions",
-          "Baby, there's nothing holdin' me back",
-        ],
-      },
-      { verse: ["There's nothing holdin' me back"] },
-      {
-        verse: [
-          "'Cause if we lost our minds and we took it way too far",
-          "I know we'd be alright, I know we would be alright",
-          "If you were by my side and we stumbled in the dark",
-          "I know we'd be alright, I know we would be alright",
-          "'Cause if we lost our minds and we took it way too far",
-          "I know we'd be alright, I know we would be alright",
-          "If you were by my side and we stumbled in the dark",
-          "I know we'd be alright, we would be alright",
-        ],
-      },
-      {
-        verse: [
-          "Oh, I've been shakin'",
-          "I love it when you go crazy",
-          "You take all my inhibitions",
-          "Baby, there's nothing holdin' me back",
-          "You take me places that tear up my reputation",
-          "Manipulate my decisions",
-          "Baby, there's nothing holdin' me back, oh-whoa",
-        ],
-      },
-      {
-        verse: [
-          "There's nothing holdin' me back",
-          "I feel so free when you're with me, baby",
-          "Baby, there's nothing holdin' me back",
-        ],
-      },
-    ],
-    cover:
-      "https://e-cdn-images.dzcdn.net/images/cover/35d5f7dd0b398bb37287b3454f0b05b9/264x264-000000-80-0-0.jpg",
-  },
+  // {
+  //   id: 20,
+  //   title: "YKWIM",
+  //   artist: "Peach Tree Rascals",
+  //   description:
+  //     "YKWIM is an infectious indie pop song by Peach Tree Rascals. It was released in 2021 and is known for its catchy hooks and upbeat vibe.",
+  //   url: YKWIM,
+  //   lyrics: [
+  //     {
+  //       verse: [
+  //         "Hey",
+  //         "It's not like you've ever tried to stay",
+  //         "Sometimes it seems like I'm in your way",
+  //         "Well, that's how it seems",
+  //         "Hey",
+  //         "You know what I mean?",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "It seems like I care too much",
+  //         "When I'm all alone, oh no",
+  //         "I feel like I care too much",
+  //         "When no one's at home for me",
+  //         "Feel like I'm fallin' out",
+  //         "Well, that's how it seems",
+  //         "I think that I'm fallin' out",
+  //         "You know what I mean?",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "It seems like I care too much",
+  //         "When I'm all alone, oh no",
+  //         "She said that I care too much",
+  //         "When no one's at home for me, ah",
+  //       ],
+  //     },
+  //   ],
+  //   cover: YKWIMImage,
+  // },
+  // {
+  //   id: 21,
+  //   title: "There's Nothing Holdin' Me Back",
+  //   artist: "Shawn Mendes",
+  //   description:
+  //     "There's Nothing Holdin' Me Back is an energetic pop-rock track by Shawn Mendes. Released in 2017, this song showcases Mendes' powerful vocals and catchy melodies, capturing the feeling of freedom and youthful exuberance.",
+  //   url: theresNothingHoldinMeBack,
+  //   lyrics: [
+  //     {
+  //       verse: [
+  //         "I wanna follow where she goes",
+  //         "I think about her and she knows it",
+  //         "I wanna let her take control",
+  //         "'Cause every time that she gets close, yeah",
+  //       ],
+  //     },
+  //     { verse: ["She pulls me in enough to keep me guessin', hmm"] },
+  //     {
+  //       verse: [
+  //         "And maybe I should stop and start confessin'",
+  //         "Confessin', yeah",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "Oh, I've been shakin'",
+  //         "I love it when you go crazy",
+  //         "You take all my inhibitions",
+  //         "Baby, there's nothing holdin' me back",
+  //         "You take me places that tear up my reputation",
+  //         "Manipulate my decisions",
+  //         "Baby, there's nothing holdin' me back",
+  //       ],
+  //     },
+  //     { verse: ["There's nothing holdin' me back"] },
+  //     { verse: ["There's nothing holdin' me back"] },
+  //     {
+  //       verse: [
+  //         "She says that she's never afraid",
+  //         "Just picture everybody naked",
+  //         "She really doesn't like to wait",
+  //         "Not really into hesitation",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "Pulls me in enough to keep me guessin', whoa-oh",
+  //         "And maybe I should stop and start confessin'",
+  //         "Confessin', yeah",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "Oh, I've been shakin'",
+  //         "I love it when you go crazy",
+  //         "You take all my inhibitions",
+  //         "Baby, there's nothing holdin' me back",
+  //         "You take me places that tear up my reputation",
+  //         "Manipulate my decisions",
+  //         "Baby, there's nothing holdin' me back",
+  //       ],
+  //     },
+  //     { verse: ["There's nothing holdin' me back"] },
+  //     {
+  //       verse: [
+  //         "'Cause if we lost our minds and we took it way too far",
+  //         "I know we'd be alright, I know we would be alright",
+  //         "If you were by my side and we stumbled in the dark",
+  //         "I know we'd be alright, I know we would be alright",
+  //         "'Cause if we lost our minds and we took it way too far",
+  //         "I know we'd be alright, I know we would be alright",
+  //         "If you were by my side and we stumbled in the dark",
+  //         "I know we'd be alright, we would be alright",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "Oh, I've been shakin'",
+  //         "I love it when you go crazy",
+  //         "You take all my inhibitions",
+  //         "Baby, there's nothing holdin' me back",
+  //         "You take me places that tear up my reputation",
+  //         "Manipulate my decisions",
+  //         "Baby, there's nothing holdin' me back, oh-whoa",
+  //       ],
+  //     },
+  //     {
+  //       verse: [
+  //         "There's nothing holdin' me back",
+  //         "I feel so free when you're with me, baby",
+  //         "Baby, there's nothing holdin' me back",
+  //       ],
+  //     },
+  //   ],
+  //   cover:
+  //     "https://e-cdn-images.dzcdn.net/images/cover/35d5f7dd0b398bb37287b3454f0b05b9/264x264-000000-80-0-0.jpg",
+  // },
   {
     id: 22,
     title: "Shape of You",
