@@ -68,10 +68,25 @@ footer .display {
   align-items: center;
   flex-direction: row-reverse;
   position: relative;
-  width: 175px;
+  width: fit-content;
 }
 
 .right .banner {
   width: 85.7px;
   height: auto;
+}
+
+@media only screen and (max-width: 800px) {
+  footer {
+    height: 15vh;
+  }
+
+  .tittle {
+    display: none;
+  }
+
+  .right .banner {
+    width: 70.7px;
+    height: auto;
+  }
 }

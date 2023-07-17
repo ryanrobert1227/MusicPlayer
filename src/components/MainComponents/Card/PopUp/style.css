@@ -179,7 +179,7 @@
 
   width: 55vw;
   max-height: 100%;
-  padding: 20px 30px;
+  padding: 2.2vh 0;
 
   overflow-y: scroll;
 
@@ -217,4 +217,44 @@
   line-height: normal;
 
   color: #ccc3c3;
+}
+
+@media only screen and (max-width: 800px) {
+  .popup {
+    display: block;
+  }
+
+  .popup .column-one {
+    max-width: 100%;
+    height: 40%;
+  }
+
+  .popup .column-one img {
+    height: 100%;
+    width: auto;
+  }
+
+  .popup .column-one .buttons {
+    height: 70%;
+  }
+
+  .popup .column-one .buttons .mask {
+    left: 15%;
+    right: 15%;
+  }
+
+  .popup .column-one .center {
+    display: none;
+  }
+
+  .popup .column-two {
+    width: 100%;
+    height: 60%;
+    padding: 2.2vh 0;
+  }
+
+  .popup .column-two p {
+    font-size: 16px;
+    margin-right: 2vw;
+  }
 }

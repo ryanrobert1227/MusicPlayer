@@ -12,7 +12,6 @@ export default function Header() {
         <img src={logo} alt="" />
         <h1>
           <img src={myImage} alt="" />
-          Welcome, Ryan Robert
         </h1>
       </header>
     </>

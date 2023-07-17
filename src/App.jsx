@@ -18,8 +18,6 @@ function App() {
     localStorage.setItem("lastMusic", music);
   }, [music]);
 
-  console.log(music);
-
   return (
     <>
       <Header />

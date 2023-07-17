@@ -49,3 +49,29 @@
 
   background: #e5007b;
 }
+
+@media only screen and (max-width: 925px) {
+  .time {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .time span {
+    display: none;
+  }
+
+  .time .range {
+    position: relative;
+    top: 0;
+
+    border-radius: 4px;
+
+    width: 100vw;
+    height: 4px;
+
+    background: #ccc3c3;
+
+    cursor: pointer;
+  }
+}
