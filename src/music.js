@@ -2797,6 +2797,541 @@ const data = [
     ],
     cover: "https://f4.bcbits.com/img/a2063368833_10.jpg",
   },
+  {
+    id: 40,
+    title: "Last Night",
+    artist: "Morgan Wallen",
+    description:
+      "Last Night is a country-pop song by Morgan Wallen. Released in 2022, it captures the excitement and nostalgia of a memorable night out, blending catchy melodies with Wallen's smooth vocals.",
+    url: lastNight,
+    lyrics: [
+      {
+        verse: [
+          "Last night we let the liquor talk",
+          "I can't remember everything we said, but we said it all",
+          "You told me that you wish I was somebody you never met",
+          "But baby, baby somethin's tellin' me this ain't over yet",
+          "No way it was our last night",
+        ],
+      },
+      {
+        verse: [
+          "I kiss your lips",
+          "Make you grip the sheets with your fingertips",
+          "Last bottle of Jack we split a fifth",
+          "Just talk about life goin' sip for sip",
+          "You, you know you love to fight",
+          "And I say shit I don't mean",
+          "But I'm still gon' wake up wantin' you and me",
+        ],
+      },
+      {
+        verse: [
+          "I know that last night we let the liquor talk",
+          "I can't remember everything we said, but we said it all",
+          "You told me that you wish I was somebody you never met",
+          "But baby, baby somethin's tellin' me this ain't over yet",
+          "No way it was our last night",
+          "No way it was our last night",
+        ],
+      },
+      {
+        verse: [
+          "No way it was the last night that we break up",
+          "I see your tail lights in the dust",
+          "You call your momma, I call your bluff",
+          "In the middle of the night, pull it right back up",
+          "Yeah my, my friends say let her go",
+          "Your friends say: What the hell",
+          "I wouldn't trade your kind of love for nothin' else",
+        ],
+      },
+      {
+        verse: [
+          "Oh baby, last night we let the liquor talk",
+          "I can't remember everything we said, but we said it all",
+          "You told me that you wish I was somebody you never met",
+          "But baby, baby somethin's tellin' me this ain't over yet",
+        ],
+      },
+      {
+        verse: [
+          "No way it was our last night, we said we'd had enough",
+          "I can’t remember everything we said, but we said too much",
+          "I know you packed your shit and slammed the door right before you left",
+          "But baby, baby somethin’s tellin’ me this ain’t over yet",
+          "No way it was our last night",
+          "No way it was our last night",
+        ],
+      },
+      {
+        verse: [
+          "I know you said this time you really weren’t coming back again",
+          "But baby, baby somethin’s tellin’ me this ain’t over yet",
+          "No way it was our last night",
+          "No way it was our last night",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-zrtaeaesfp26-0-t500x500.jpg",
+  },
+  {
+    id: 41,
+    title: "Say Yes To Heaven",
+    artist: "Lana Del Rey",
+    description:
+      "Say Yes To Heaven is a dreamy pop ballad by Lana Del Rey. Released in 2017, it showcases Del Rey's ethereal vocals and poetic lyrics, creating a mesmerizing and introspective listening experience.",
+    url: sayYesToHeaven,
+    lyrics: [
+      {
+        verse: [
+          "If you dance, I'll dance",
+          "And if you don't, I'll dance anyway",
+          "Give peace a chance",
+          "Let the fear you have fall away",
+        ],
+      },
+      { verse: ["I've got my eye on you", "I've got my eye on you"] },
+      {
+        verse: [
+          "Say yes to heaven",
+          "Say yes to me",
+          "Say yes to heaven",
+          "Say yes to me",
+        ],
+      },
+      {
+        verse: [
+          "If you go, I'll stay",
+          "You come back, I'll be right here",
+          "Like a barge at sea",
+          "In the storm, I stay clear",
+        ],
+      },
+      {
+        verse: ["'Cause I've got my mind on you", "I've got my mind on you"],
+      },
+      {
+        verse: [
+          "Say yes to heaven",
+          "Say yes to me",
+          "Say yes to heaven",
+          "Say yes to me",
+        ],
+      },
+      {
+        verse: [
+          "If you dance, I'll dance",
+          "I'll put my red dress on again",
+          "And if you fight, I'll fight",
+          "It doesn't matter, now it's all gone",
+        ],
+      },
+      { verse: ["I've got my mind on you", "I've got my mind on you"] },
+      {
+        verse: [
+          "Say yes to heaven",
+          "Say yes to me",
+          "Say yes to heaven",
+          "Say yes to me",
+        ],
+      },
+      {
+        verse: [
+          "I've got my eye on you",
+          "I've got my eye on you, mmm",
+          "I've got my eye on you",
+          "I've got my mind on you",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/5/51/Lana_Del_Rey_-_Say_Yes_to_Heaven.png",
+  },
+  {
+    id: 42,
+    title: "What U Want",
+    artist: "Mark Mendy, Jordan Rys, LEØN",
+    description:
+      "What U Want is an infectious pop collaboration between Mark Mendy, Jordan Rys, and LEØN. Released in 2022, it combines catchy melodies, energetic beats, and captivating vocals, creating a feel-good summer anthem.",
+    url: whatUWant,
+    lyrics: [
+      {
+        verse: [
+          "Back and forth",
+          "Bite my tongue",
+          "Still don’t know",
+          "What you want",
+          "Break my back",
+          "Shed my blood",
+          "And I still don’t know what you want",
+        ],
+      },
+      {
+        verse: [
+          "You fuss and fighting over every little detail",
+          "When you got problems you go fix ‘em up with retail",
+          "Girl read the signs yeah sometimes you can’t see clear",
+          "If only I knew what you want",
+        ],
+      },
+      {
+        verse: [
+          "Back and forth",
+          "Bite my tongue",
+          "Still don’t know",
+          "What you want",
+          "Break my back",
+          "Shed my blood",
+          "And I still don’t know what you want",
+        ],
+      },
+      {
+        verse: [
+          "Argue all day then later wanna go and make love",
+          "We don’t watch movies ‘cause you make it hard to pick one",
+          "Could never figure out how you wanted your hair done",
+          "If only you knew what you want",
+          "You might also like",
+          "Superman",
+          "Eminem",
+          "FIFTY FIFTY - Cupid (English Translation)",
+          "Genius English Translations",
+          "Push Up",
+          "Creeds",
+          "Back and forth",
+          "Bite my tongue",
+          "Still don’t know",
+          "What you want",
+          "Break my back",
+          "Shed my blood",
+          "And I still don’t know what you want",
+        ],
+      },
+      {
+        verse: [
+          "I still hold on",
+          "I still hold on",
+          "With you acting up",
+          "And I still don’t know what you want",
+        ],
+      },
+      {
+        verse: [
+          "You’re good at make-up but can’t make up your mind",
+          "Uh, girl you know",
+          "You switch your attitude just like you switch sides",
+          "It drives me wild",
+        ],
+      },
+      {
+        verse: [
+          "Back and forth",
+          "Bite my tongue",
+          "Still don’t know",
+          "What you want",
+          "Break my back",
+          "Shed my blood",
+          "And I still don’t know what you want",
+          "Back and forth",
+          "Bite my tongue",
+          "Still don’t know",
+          "What you want",
+          "Break my back",
+          "Shed my blood",
+          "And I still don’t know what you want",
+          "I still hold on",
+          "I still hold on",
+          "With you acting up",
+          "And I still don’t know what you want",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-ptSCEsHqtx71LQxm-A4eGsg-t500x500.jpg",
+  },
+  {
+    id: 43,
+    title: "That's My Girl",
+    artist: "Fifth Harmony",
+    description:
+      "That's My Girl is an empowering pop track by Fifth Harmony. Released in 2016, it features energetic beats, powerful vocals, and lyrics that celebrate female strength and unity.",
+    url: thatsMyGirl,
+    lyrics: [
+      { verse: ["(That's my girl)"] },
+      {
+        verse: [
+          "Yeah, who's been working so damn hard",
+          "You got that head on overload?",
+          "Got yourself this flawless body",
+          "Aching now from head to toe",
+        ],
+      },
+      {
+        verse: [
+          "Ain't nothing, ain't nothing",
+          "All my ladies 'round the world",
+          "Ain't nothing, ain't nothing",
+          "Good girls better get bad",
+        ],
+      },
+      {
+        verse: [
+          "You've been down before",
+          "You've been hurt before",
+          "You got up before",
+          "You'll be good to go, good to go",
+        ],
+      },
+      {
+        verse: [
+          "Destiny said it: You got to get up and get it",
+          "Get mad independent and don't you ever forget it",
+          "Got some dirt on your shoulder, then let me brush it off for ya",
+          "If you're feeling me, put your five high",
+          "That's my girl",
+        ],
+      },
+      {
+        verse: [
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+          "Get up, what you waiting for?",
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+        ],
+      },
+      { verse: ["(That's my girl)", "Oh, oh"] },
+      {
+        verse: [
+          "Nod if you been played by every boo",
+          "Just tryna show you off",
+          "Thought he was the best you ever had",
+          "Until he cut you off",
+        ],
+      },
+      {
+        verse: [
+          "Ain't nothing, ain't nothing",
+          "Bet you bet you know your worth",
+          "Ain't nothing, ain't nothing",
+          "Good girls better get bad",
+        ],
+      },
+      {
+        verse: [
+          "You've been down before",
+          "You've been hurt before",
+          "You got up before",
+          "You'll be good to go, good to go",
+        ],
+      },
+      {
+        verse: [
+          "Destiny said it: You got to get up and get it (get up and get it)",
+          "Get mad independent and don't you ever forget it (don't you ever forget it)",
+          "Got some dirt on your shoulder, then let me brush it off for ya",
+          "If you're feeling me, put your five high",
+          "That's my girl",
+        ],
+      },
+      {
+        verse: [
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+          "What you wait—, what you wait—",
+          "What you waiting for? (Oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl",
+        ],
+      },
+      {
+        verse: [
+          "You've been down before",
+          "You've been hurt before",
+          "You got up before",
+          "You'll be good to go, good to go",
+          "(Don't ever give up, no, no)",
+        ],
+      },
+      {
+        verse: [
+          "Destiny said it: You got to get up and get it",
+          "Get mad independent and don't you ever forget it",
+          "Got some dirt on your shoulder, then let me brush it off for ya",
+          "If you're feeling me, put your five high",
+          "That's my girl",
+        ],
+      },
+      {
+        verse: [
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+          "What you wait—, what you wait—",
+          "What you waiting for? (Oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl",
+          "(That's my girl, that's my girl, that's my girl)",
+        ],
+      },
+      {
+        verse: [
+          "Ain't nothing, ain't nothing, ain't nothing",
+          "Put your heart and your soul in it",
+          "Ain't nothing, ain't nothing, ain't nothing",
+          "Put your heart and your soul in it",
+        ],
+      },
+      {
+        verse: [
+          "(Oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl (oh, oh)",
+          "That's my girl",
+        ],
+      },
+      {
+        verse: [
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+          "That's my girl",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/b/b2/Fifth_Harmony_-_That%27s_My_Girl.png",
+  },
+  {
+    id: 44,
+    title: "All My Life",
+    artist: "Lil Durk",
+    description:
+      "All My Life is a heartfelt hip-hop track by Lil Durk. Released in 2022, it delves into Durk's personal experiences and reflections, showcasing his emotional depth and introspective storytelling.",
+    url: allMyLife,
+    lyrics: [
+      {
+        verse: [
+          "Durkio told me he been on some positive shit, yeah, yeah",
+          "Lately, I just wanna show up and body some shit, yeah, yeah",
+          "Always been a lil' mathematician, lately, it's cash I'm gettin'",
+          "Got me losin' count of these bags, I've been movin' too fast",
+          "Hard times don't last, 'member when cops harassed",
+          "Talkin' out my ass, boy, you ain't shit but a bitch with a badge",
+        ],
+      },
+      {
+        verse: [
+          "All my life (all my life)",
+          "They been tryin' to keep me down (they been tryna keep me down)",
+          "All this time (all this time)",
+          "Never thought I would make it out (never thought I'd make it out)",
+          "They couldn't break me, they couldn't break me (no, no)",
+          "They couldn't take me, they couldn't take me (no)",
+          "All my life (all my life)",
+          "They been tryin' to keep me down (they been tryna keep me down)",
+        ],
+      },
+      {
+        verse: [
+          "I decided I had to finish",
+          "But the media called me a menace",
+          "I done sat with the mayor and politicians, I'm tryna change the image",
+          "You can't blame my past no more, I come from the trenches",
+          "Some said I'd never be a superstar, but I know I'm different (no, no, no)",
+          "I'm The Voice, but the system ain't give me a choice",
+          "Know some people that's still unemployed",
+          "I know a felon who tryna get FOID",
+          "Child support your only support",
+          "For a visit, I'm goin' through courts",
+          "Went to jail, they was chainin' me up",
+          "And you know that I'm famous as fuck",
+          "See how you gon' joke about stimulus",
+          "But they really had came in the clutch",
+          "I know some kids wanna hurt theyself",
+          "Stop tryna take drugs, I refer to myself",
+          "Tryna better myself, tryna better my health, but",
+        ],
+      },
+      {
+        verse: [
+          "All my life (all my life)",
+          "They been tryin' to keep me down (they been tryna keep me down)",
+          "All this time (all this time)",
+          "Never thought I would make it out (never thought I'd make it out)",
+          "They couldn't break me, they couldn't break me (no, no)",
+          "They couldn't take me, they couldn't take me (no)",
+          "All my life (all my life)",
+          "They been tryin' to keep me down (yeah) (they been tryna keep me down)",
+        ],
+      },
+      {
+        verse: [
+          "First-generation ghetto nigga",
+          "Cole World, hello, niggas",
+          "Made it out the city with my head on straight",
+          "Niggas keep shootin' up the lead out",
+          "Young Jordan Peele, gotta get out",
+          "And the shit that I spit out",
+          "Is a cheat code like I'm facin' a RICO",
+          "And how a nigga put a hit out",
+          "And another one, and, and another one",
+          "I got like a hundred of 'em",
+          "'Bout to lap niggas, so they think they ahead of me",
+          "But I'm really in front of them",
+          "Now some of them fumblin' they bags",
+          "Fuckin' up the little crumbs that they had",
+          "A reminder to humble yourself",
+          "This shit could be gone in an instant",
+          "Me, I'm runnin' long distance, all pistons firin'",
+          "I been stuck between maybe retirin'",
+          "And feelin' like I'm just not hittin' my prime",
+          "These days seein' rappers be dyin'",
+          "Way before they even gettin' they shine",
+          "I never even heard of lil' buddy",
+          "Till somebody murdered lil' buddy",
+          "Now I'm on the phone, searchin' lil' buddy name",
+          "Got to playin' his tunes",
+          "All day in my room, thinkin': Damn",
+          "This shit wicked, to get they names buzzin'",
+          "Some niggas just gotta go lay in a tomb",
+          "And media thirsty for clicks",
+          "I got a new rule",
+          "If you ain't never posted a rapper when he was alive",
+          "You can't post about him after he get hit",
+          "It's simple, it's the principle",
+          "On any tempo, I'm invincible",
+          "Don't even rap, I just vent to you",
+          "I rather that than an interview most days",
+          "Fuck 'em all like I'm goin' through a ho' phase",
+          "Young nigga shoot out the whip like road rage",
+          "I pray all of my dawgs stay so paid",
+          "And the only thing that kill 'em is old age",
+        ],
+      },
+      {
+        verse: [
+          "All my life (all my life)",
+          "They been tryin' to keep me down (they been tryna keep me down)",
+          "All this time (all this time)",
+          "Never thought I would make it out (never thought I'd make it out)",
+          "They couldn't break me, they couldn't break me (no, no)",
+          "They couldn't take me, they couldn't take me (no)",
+          "All my life (all my life)",
+          "They been tryin' to keep me down (they been tryna keep me down)",
+        ],
+      },
+    ],
+    cover:
+      "https://t2.genius.com/unsafe/601x0/https%3A%2F%2Fimages.genius.com%2F1d9d47a7b4e881ef85e906b51b9e1419.999x999x1.png",
+  },
 ];
 
 export default data;
