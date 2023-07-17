@@ -20,7 +20,6 @@ import withoutMe from "./assets/musics/Withoutme.mp3";
 
 import theresNothingHoldinMeBack from "./assets/musics/newMusics/Theresnothingholdingmeback.mp3";
 import shapeOfYou from "./assets/musics/newMusics/Shapeofyou.mp3";
-import rise from "./assets/musics/newMusics/Rise.mp3";
 import houseOfMemories from "./assets/musics/newMusics/Houseofmemories.mp3";
 import senorita from "./assets/musics/newMusics/Senorita.mp3";
 import howToBeFriends from "./assets/musics/newMusics/Howtobefriends.mp3";
@@ -1780,98 +1779,6 @@ const data = [
     ],
     cover:
       "https://upload.wikimedia.org/wikipedia/pt/3/35/Ed_Sheeran_-_Shape_of_You.png",
-  },
-  {
-    id: 23,
-    title: "Rise",
-    artist: "League of Legends Opening 2018",
-    description:
-      "Rise is a powerful anthem that served as the opening theme song for the 2018 League of Legends World Championship. It combines epic orchestral elements with electrifying vocals by The Glitch Mob, Mako, and The Word Alive, creating an intense and inspiring musical experience.",
-    url: rise,
-    lyrics: [
-      {
-        verse: [
-          "Welcome to the wild, no heroes and villains",
-          "Welcome to the war, we've only begun, so",
-          "Pick up your weapon and face it",
-          "There's blood on the crown go and take it",
-          "You get one shot to make it out alive, so",
-          "Higher and higher you chase it",
-          "It’s deep in your bones, go and take it",
-          "This is your moment, now is your time, so",
-        ],
-      },
-      {
-        verse: [
-          "Prove yourself and",
-          "Rise, rise",
-          "Make 'em remember you",
-          "Rise",
-          "Push through hell and",
-          "Rise, rise",
-          "They will remember you",
-          "Rise",
-        ],
-      },
-      {
-        verse: [
-          "Welcome to the climb up, reach for the summit",
-          "Visions pray that one false step lead the end, so",
-          "Higher and higher you chase it",
-          "It's deep in your blood, go and take it",
-          "This is your moment, take to the skies, go",
-        ],
-      },
-      {
-        verse: [
-          "Prove yourself and",
-          "Rise, rise",
-          "Make 'em remember you",
-          "Rise",
-          "Push through hell and",
-          "Rise, rise",
-          "They will remember you",
-          "Rise",
-        ],
-      },
-      {
-        verse: [
-          "So get along, so get along, go",
-          "Get along 'long get a move on up",
-          "So get along, so get along, go",
-          "Get along 'long get a move on up",
-          "And as you fight among the death",
-          "Beneath the dirt",
-          "Do you know yet?",
-          "Do you want it?",
-          "And when the giants call",
-          "To ask you what you're worth",
-          "Do you know if",
-          "Win or die, you'll",
-        ],
-      },
-      {
-        verse: [
-          "Prove yourself and",
-          "Rise, rise",
-          "Make 'em remember you",
-          "Rise",
-          "Push through hell and",
-          "Rise, rise",
-          "They will remember you",
-          "Rise",
-          "Prove yourself and rise, rise",
-          "(Pick up your weapon and face it)",
-          "Rise",
-          "(It’s deep in your blood, go and take it)",
-          "Rise, rise",
-          "(Higher and higher you chase it)",
-          "Rise, rise",
-        ],
-      },
-    ],
-    cover:
-      "https://e-cdn-images.dzcdn.net/images/cover/4349e2eedfe96be5c76b5ad7fa13727f/264x264-000000-80-0-0.jpg",
   },
   {
     id: 24,
