@@ -7,7 +7,6 @@ import cupid from "./assets/musics/Cupid.mp3";
 import goodBye from "./assets/musics/Goodbye.mp3";
 import heather from "./assets/musics/Heather.mp3";
 import iWannaBeYours from "./assets/musics/Iwannabeyours.mp3";
-import legendsNeverDie from "./assets/musics/Legendsneverdie.mp3";
 import likeYouDo from "./assets/musics/Likeyoudo.mp3";
 import royalty from "./assets/musics/Royalty.mp3";
 import unholy from "./assets/musics/Unholy.mp3";
@@ -53,7 +52,6 @@ import cupidImage from "./assets/Capas/Cupid.jpg";
 import goodByeImage from "./assets/Capas/GoodBye.jpg";
 import heatherImage from "./assets/Capas/Heather.jpg";
 import iWannaBeYoursImage from "./assets/Capas/IWannaBeYours.jpg";
-import legendsNeverDieImage from "./assets/Capas/legendsNeverDie.jpg";
 import royaltyImage from "./assets/Capas/royalty.jpg";
 import unholyImage from "./assets/Capas/Unholy.png";
 import unstoppableImage from "./assets/Capas/Unstoppable.jpg";
@@ -744,95 +742,6 @@ const data = [
       },
     ],
     cover: iWannaBeYoursImage,
-  },
-  {
-    id: 14,
-    title: "Legends Never Die",
-    artist: "League of Legends, Against The Current",
-    description:
-      "Legends Never Die is an epic collaboration between League of Legends and Against The Current. It was released in 2017 and has become an anthem for gamers and fans of the game.",
-    url: legendsNeverDie,
-    lyrics: [
-      {
-        verse: [
-          "Legends never die",
-          "When the world is calling you",
-          "Can you hear them screaming out your name?",
-          "Legends never die",
-          "They become a part of you",
-          "Every time you bleed for reaching greatness",
-          "Relentless you survive",
-        ],
-      },
-      {
-        verse: [
-          "They never lose hope when everything's cold",
-          "And the fighting's near",
-          "It's deep in their bones, they'll run into smoke",
-          "When the fire is fierce",
-          "Oh, pick yourself up, 'cause",
-        ],
-      },
-      {
-        verse: [
-          "Legends never die",
-          "When the world is calling you (the world is calling you)",
-          "Can you hear them screaming out your name?",
-          "Legends never die",
-          "They become a part of you (they become a part of you)",
-          "Every time you bleed for reaching greatness",
-          "Legends never die",
-        ],
-      },
-      {
-        verse: [
-          "They're written down in eternity",
-          "But you'll never see the price it costs",
-          "The scars collected all of their lives",
-        ],
-      },
-      {
-        verse: [
-          "When everything's lost, they pick up their hearts",
-          "And avenge defeat",
-          "Before it all starts, they suffer through harm",
-          "Just to touch a dream",
-          "Oh, pick yourself up, 'cause",
-        ],
-      },
-      {
-        verse: [
-          "Legends never die",
-          "When the world is calling you (when the world is calling you)",
-          "Can you hear them screaming out your name?",
-          "Legends never die",
-          "They become a part of you (they become a part of you)",
-          "Every time you bleed for reaching greatness",
-          "Legends never die",
-        ],
-      },
-      {
-        verse: [
-          "When the world is calling out your name",
-          "Begging you to fight",
-        ],
-      },
-      {
-        verse: ["Pick yourself up once more", "Pick yourself up, 'cause"],
-      },
-      {
-        verse: [
-          "Legends never die",
-          "When the world is calling you (when the world is calling you)",
-          "Can you hear them screaming out your name?",
-          "Legends never die",
-          "They become a part of you (they become a part of you)",
-          "Every time you bleed for reaching greatness",
-          "Legends never die",
-        ],
-      },
-    ],
-    cover: legendsNeverDieImage,
   },
   {
     id: 15,
