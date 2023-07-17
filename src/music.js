@@ -2063,6 +2063,740 @@ const data = [
     cover:
       "https://geo-media.beatsource.com/image_size/500x500/f/a/f/faf201e8-5a67-4bd1-bc85-07f8bb077151.jpg",
   },
+  {
+    id: 31,
+    title: "Deep Down",
+    artist: "Alok, Ella Eyre",
+    description:
+      "Deep Down is an infectious dance-pop collaboration between Alok and Ella Eyre. Released in 2021, it features catchy hooks, energetic beats, and powerful vocals, making it a perfect track for the dancefloor.",
+    url: deepDown,
+    lyrics: [
+      {
+        verse: [
+          "(Street sounds swirling through my mind)",
+          "(Street sounds swirling through my mind)",
+        ],
+      },
+      {
+        verse: [
+          "I can get down, I can get lonely",
+          "Every time I think about the highs, yeah",
+          "Messed me around and now you keep callin'",
+          "Wonderin' if you can make it right",
+        ],
+      },
+      {
+        verse: [
+          "I told you it's the end for you and I",
+          "Swear this time we're through, but it's a lie",
+          "When you call my name, yeah, ooh, yeah",
+          "It sounds so right, so right, so right",
+        ],
+      },
+      {
+        verse: [
+          "Deep down, wishing you were mine",
+          "Deep down, miss you all the time",
+          "Dream 'bout what we could've been if we tried",
+          "Oh, but deep down, wishing you were mine, were mine",
+        ],
+      },
+      {
+        verse: [
+          "Deep down, you got me so",
+          "Deep down, I wanna go",
+          "Deep down, you got me so, yeah",
+          "Deep down, you got me so",
+          "Deep down, I wanna go",
+          "Deep down, you got me so, yeah",
+        ],
+      },
+      { verse: ["Yeah"] },
+      {
+        verse: [
+          "Need to be strong",
+          "As soon as I see ya, you can turn my tables back around",
+          "So easy",
+          "You got the control",
+          "Just hearin' you speak just gets me kinda crazy",
+          "Kinda foolish, foolish, yeah",
+        ],
+      },
+      {
+        verse: [
+          "I told you it's the end for you and I",
+          "Swear this time we're through, but it's a lie",
+          "When you call my name, yeah, ooh, yeah",
+          "It sounds so right, so right, so right",
+        ],
+      },
+      {
+        verse: [
+          "Deep down, wishing you were mine",
+          "Deep down, miss you all the time",
+          "Dream 'bout what we could've been if we tried",
+          "Oh, but deep down, wishing you were mine, were mine",
+        ],
+      },
+      {
+        verse: [
+          "Deep down, miss you all the time",
+          "Dream 'bout what we could've been if we tried",
+          "Oh, 'cause deep down, wishing you were mine, were mine",
+        ],
+      },
+      { verse: ["Deep down, you got me so"] },
+      {
+        verse: [
+          "Deep down, wishing you were mine",
+          "Deep down, miss you all the time",
+          "Dream 'bout what we could've been if we tried",
+          "Oh, but deep down, wishing you were mine, were mine",
+        ],
+      },
+      {
+        verse: [
+          "(Street sounds swirling through my mind) you got me so",
+          "(Street sounds swirling through my mind) I wanna go",
+          "(Street sounds swirling through my mind) you got me so",
+          "(Street sounds swirling through my mind)",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/43402430bf3ac81e442c287277ded4c8/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 32,
+    title: "Baby One More Time",
+    artist: "Britney Spears",
+    description:
+      "Baby One More Time is a pop classic by Britney Spears. Released in 1998, it became an instant hit and solidified Spears' status as a pop icon, with its catchy chorus and iconic music video.",
+    url: babyOneMoreTime,
+    lyrics: [
+      { verse: ["(Oh, baby, baby)", "(Oh, baby, baby)"] },
+      {
+        verse: [
+          "Oh, baby, baby",
+          "How was I supposed to know",
+          "That something wasn't right here?",
+        ],
+      },
+      {
+        verse: [
+          "Oh, baby, baby",
+          "I shouldn't have let you go",
+          "And now you're out of sight, yeah",
+        ],
+      },
+      {
+        verse: [
+          "Show me how you want it to be",
+          "Tell me, baby, 'cause I need to know now",
+          "Oh, because",
+        ],
+      },
+      {
+        verse: [
+          "My loneliness is killing me (and I)",
+          "I must confess, I still believe (still believe)",
+          "When I'm not with you, I lose my mind",
+          "Give me a sign",
+          "Hit me, baby, one more time",
+        ],
+      },
+      {
+        verse: [
+          "Oh, baby, baby",
+          "The reason I breathe is you",
+          "Boy, you got me blinded",
+        ],
+      },
+      {
+        verse: [
+          "Oh, pretty baby",
+          "There's nothing that I wouldn't do",
+          "That's not the way I planned it",
+        ],
+      },
+      {
+        verse: [
+          "Show me how you want it to be",
+          "Tell me, baby, 'cause I need to know now",
+          "Oh, because",
+        ],
+      },
+      {
+        verse: [
+          "My loneliness is killing me (and I)",
+          "I must confess, I still believe (still believe)",
+          "When I'm not with you, I lose my mind",
+          "Give me a sign",
+          "Hit me, baby, one more time",
+        ],
+      },
+      { verse: ["(Oh, baby, baby)", "Oh (oh, baby, baby) yeah"] },
+      {
+        verse: [
+          "Oh, baby, baby",
+          "How was I supposed to know?",
+          "Oh, pretty baby",
+          "I shouldn't have let you go",
+        ],
+      },
+      {
+        verse: [
+          "I must confess",
+          "That my loneliness",
+          "Is killing me now",
+          "Don't you know I still believe?",
+          "That you will be here",
+          "And give me a sign",
+          "Hit me, baby, one more time",
+        ],
+      },
+      {
+        verse: [
+          "My loneliness is killing me (and I)",
+          "I must confess, I still believe (still believe)",
+          "When I'm not with you, I lose my mind",
+          "Give me a sign",
+          "Hit me, baby, one more time",
+        ],
+      },
+      {
+        verse: [
+          "I must confess (my loneliness)",
+          "That my loneliness (is killing me)",
+          "Is killing me now (I must confess)",
+          "Don't you know I still believe? (I still believe)",
+          "That you will be here (when I'm not with you I lose my mind)",
+          "And give me a sign",
+          "Hit me, baby, one more time",
+        ],
+      },
+    ],
+    cover: "https://m.media-amazon.com/images/I/81tjVNc+-yL._AC_SX679_.jpg",
+  },
+  {
+    id: 34,
+    title: "A Thousand Years",
+    artist: "James Arthur",
+    description:
+      "A Thousand Years is a heartfelt ballad by James Arthur. Originally released by Christina Perri, Arthur's rendition adds his soulful touch, creating a beautiful rendition of this romantic song.",
+    url: aThousandYears,
+    lyrics: [
+      {
+        verse: [
+          "Heart beats fast",
+          "Colors and promises",
+          "How to be brave?",
+          "How can I love when I'm",
+          "Afraid to fall?",
+          "Watching you stand alone",
+          "All of my doubt",
+          "Suddenly goes away somehow",
+        ],
+      },
+      { verse: ["One step closer"] },
+      {
+        verse: [
+          "I have died every night waiting for you",
+          "Darling, don't be afraid, I have loved you",
+          "For a thousand years",
+          "I'll love you for a thousand more",
+        ],
+      },
+      {
+        verse: [
+          "Time stands still",
+          "Beauty in all she is",
+          "I will be brave",
+          "I will not let anything",
+          "Take away",
+          "What's standing in front of me",
+          "Every breath",
+          "Every hour has come to this",
+        ],
+      },
+      { verse: ["One step closer"] },
+      {
+        verse: [
+          "I have died evеry night waiting for you",
+          "Darling, don't be afraid",
+          "I have loved you for a thousand yеars",
+          "I'll love you for a thousand more",
+          "And all along I believed I would find you",
+          "Time has brought your heart to me",
+          "I have loved you for a thousand years",
+          "I'll love you for a thousand more",
+        ],
+      },
+      {
+        verse: [
+          "I love you",
+          "I'll love you for a thousand",
+          "I'll love you for a thousand years",
+          "So in love",
+          "So in love",
+        ],
+      },
+      { verse: ["One step closer", "One step closer"] },
+      {
+        verse: [
+          "I have died every day waiting for you",
+          "Darling, don't be afraid",
+          "I have loved you for a thousand years",
+          "I'll love you for a thousand more",
+          "And all along I believed I would find you",
+          "Time has brought your heart to me",
+          "I have loved you for a thousand years",
+          "I'll love you for a thousand more",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/4a6bc53592ec08d5c17322eaf4418b9c/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 35,
+    title: "Attention",
+    artist: "Doja Cat",
+    description:
+      "Attention is a catchy pop track by Doja Cat. Released in 2021, it showcases Doja Cat's playful and confident style, with its infectious hooks and irresistible charm.",
+    url: attention,
+    lyrics: [
+      {
+        verse: [
+          "Baby, if you like it, just reach out and pet it",
+          "This one doesn't bite, it doesn't get aggressive",
+          "Show you how to touch it, hold it like it's precious",
+          "It don't need your lovin', it just needs attention",
+          "Love me, it needs, it seeks affection (so sweet)",
+          "Hungry, it fiends attention (help me)",
+          "It needs, it seeks affection (baby)",
+          "Hungry (yeah), it fiends (yeah)",
+        ],
+      },
+      {
+        verse: [
+          "Look at me, look at me, you lookin'?",
+          "My taste good, but I just had to redirect my cookin'",
+          "I could've been an opener, I redirect the bookin'",
+          "I read it all, the comments sayin': D, I'm really shooketh",
+          "Do you need to see a therapist, is you lookin?",
+          "Yes, the one I got, they really are the best",
+          "Now I feel like I can see you bitches is depressed",
+          "I am not afraid to finally say shit with my chest",
+          "Lost a lil' weight, but I ain't never lost a tushy",
+          "Lookin' good, but now my bald head match my",
+          "Lookin' good, but now they all sayin' that I'm ugly",
+          "Boo-hoo, my nigga, I ain't sad you won't fuck me",
+          "I'm sad that you really thought your ass was above me",
+          "You're lucky, 'cause I just paid your bill with a reply",
+          "I just made your money pile knee high",
+          "I just made your stats peak, now you got a blue check",
+          "Now you can afford to go and reinstall a new wig",
+          "Now you can afford to not be lousy, go and do shit",
+          "Talk your shit about me, I can easily disprove it, it's stupid",
+          "You follow me, but you don't really care about the music",
+        ],
+      },
+      {
+        verse: [
+          "Baby, if you like it, just reach out and pet it",
+          "This one doesn't bite, it doesn't get aggressive",
+          "Show you how to touch it, hold it like it's precious",
+          "It don't need your lovin', it just needs attention",
+          "Love me, it needs, it seeks affection (so sweet)",
+          "Hungry, it fiends attention (help me)",
+          "It needs, it seeks affection (baby)",
+          "Hungry, it fiends (yeah)",
+        ],
+      },
+      {
+        verse: [
+          "Look at me, look at me, I'm naked",
+          "Vulnerability earned me a lot of bacon",
+          "I put a thong all in my ass and taught you how to shake it",
+          "I paid all my respect to those who taught me how to make it",
+          "And now I reap the benefits with no confrontation",
+          "Y'all fall in the beef but that's another conversation",
+          "I'm sorry, but we all find it really entertainin'",
+          "'Cause we all wanna see them steppin' forward on their faces",
+          "And we all wanna be the one that see the devastation",
+          "Nothin' in it, but ain't the bad press good?",
+          "The disrespect's real, how this Patek look?",
+          "Pull out the checkbook, now why your neck crooked?",
+          "I never learned a superstar from a textbook",
+          "Talkin' 'bout she fallin' off, why she get booked?",
+          "Man, I been humble, I'm tired of all the deprecation",
+          "Just let me flex, bro, just let me pop shit?",
+          "Why she think she Nicki M? She think she hot shit, hmm",
+          "I never gave a F, go start a pod, bitch",
+          "I got your head all in the dirt just like an ostrich",
+          "Of course you bitches comparin' Doja to who the hottest",
+        ],
+      },
+      {
+        verse: [
+          "Baby, if you like it, just reach out and pet it",
+          "This one doesn't bite, it doesn't get aggressive",
+          "Show you how to touch it, hold it like it's precious",
+          "It don't need your lovin', it just needs attention",
+          "Love me, it needs, it seeks affection (so sweet)",
+          "Hungry, it fiends attention (help me)",
+          "It needs, it seeks affection (baby)",
+          "Hungry, it fiends",
+        ],
+      },
+      { verse: ["Okay, cute"] },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Doja_Cat_-_Attention.png/220px-Doja_Cat_-_Attention.png",
+  },
+  {
+    id: 37,
+    title: "What It Is",
+    artist: "Doechii",
+    description:
+      "What It Is is a captivating hip-hop track by Doechii. Released in 2021, it showcases Doechii's unique style, combining confident verses with melodic hooks, and serves as an introduction to her artistry.",
+    url: whatItIs,
+    lyrics: [
+      {
+        verse: [
+          "What it is, ho? What's up?",
+          "Every good girl needs a little thug",
+          "Every block boy needs a little love",
+          "If you put it down, I'ma pick it up, up, up",
+        ],
+      },
+      {
+        verse: [
+          "Can't you just see, it's just me and you?",
+          "Panoramic view, that's my point of view, bae",
+          "All about me, that's the energy",
+          "That's that lemon pepper thing, I'm a ten-piece, baby",
+        ],
+      },
+      {
+        verse: [
+          "Bedroom bully in the bando",
+          "He gon' make it flip, do it with no handles",
+          "Never switchin' sides, only switchin' angles",
+          "Ooh, we go crazy like Rambo",
+        ],
+      },
+      {
+        verse: [
+          "What it is, ho? (What it is?) What's up? (What's up?)",
+          "Every good girl needs a little thug (Thug)",
+          "Every block boy needs a little love (Love)",
+          "If you put it down, I'ma pick it up, up (Ayy), up (Ayy)",
+          "What it is, ho? (What it is?) What's up? (What's up?)",
+          "Every good girl needs a little thug (Thug)",
+          "Every block boy needs a little love (Love)",
+          "If you put it down, I'ma pick it up, up (Ayy), up (Ayy)",
+          "You might also like",
+          "Mahal Pa Rin Kita",
+          "Rockstar",
+          "Hits Different",
+          "Taylor Swift",
+          "GENTO",
+          "SB19",
+        ],
+      },
+      {
+        verse: [
+          "Hit 'еm up, hit 'em up",
+          "In the truck, got it tucked",
+          "Hе get it up, like it's stuck",
+          "All night, I like",
+          "You ain't gotta say it when you know it's on site",
+        ],
+      },
+      {
+        verse: [
+          "Bedroom bully in the bando",
+          "He gon' make it flip, do it with no handles",
+          "Never switchin' sides, only switchin' angles",
+          "Ooh, we go crazy like Rambo",
+        ],
+      },
+      {
+        verse: [
+          "What it is, ho? (What it is?) What's up? (What's up?)",
+          "Every good girl needs a little thug (Thug)",
+          "Every block boy needs a little love (Love)",
+          "If you put it down, I'ma pick it up, up (Ayy), up (Ayy)",
+          "What it is, ho? (What it is?) What's up? (What's up?)",
+          "Every good girl needs a little thug (Thug)",
+          "Every block boy needs a little love (Love)",
+          "If you put it down, I'ma pick it up, up (Ayy), up (Ayy)",
+        ],
+      },
+      {
+        verse: [
+          "I don't care if you run the streets",
+          "Long as you comin' home to me",
+          "I love the way you walk and the way you speak",
+          "He gon' keep it real, that's the deal, that's the reason that I speed down, down (Down, down, down, down)",
+          "I put that all on my name (All on my name)",
+          "Yeah, that's an even exchange (Tell me what it is)",
+          "Stay on your deal, we gon' tell 'em, we gon' tell 'em what, babe",
+          "[Chorus: Doechii]",
+          "What it is, ho? (What it is?) What's up?",
+          "Every good girl needs a little thug (Needs a little thug)",
+          "Every block boy needs a little love (Needs a little love, yeah)",
+          "If you put it down, I'ma pick it up, up, up",
+          "What it is, ho? What's up?",
+          "Every good girl needs a little thug (Needs a little love)",
+          "Every block boy needs a little love (Needs a little love, thug)",
+          "If you put it down, I'ma pick it up, up (Ayy), up (Ayy)",
+        ],
+      },
+      {
+        verse: [
+          "Back it up and do, and do it like that, yeah (What it is? What's up?)",
+          "Back it up and do it like that, yeah (Ho)",
+          "Back it up, back it and do it like that, yeah",
+          "Back it up gon' and do it like that, yeah (Woo)",
+          "Hey, what it is? Hey, what's up?",
+          "J. White Did It (Yup, yup)",
+          "More is on the way (Yup, yup, yeah)",
+          "We need a lil' love, you know what I mean? (Yeah, ayy-ayy, woo)",
+          "Ride out, woah",
+        ],
+      },
+    ],
+    cover:
+      "https://t2.genius.com/unsafe/442x0/https%3A%2F%2Fimages.genius.com%2Ffe8b02df38c67279e5a3781c6d4207c0.1000x1000x1.png",
+  },
+  {
+    id: 38,
+    title: "See You Again",
+    artist: "Wiz Khalifa ft. Charlie Puth",
+    description:
+      "See You Again is a heartfelt tribute song from the soundtrack of the movie 'Furious 7'. It was released in 2015 as a collaboration between Wiz Khalifa and Charlie Puth. The song pays homage to the late actor Paul Walker and captures the emotions of love, loss, and remembrance. With its touching lyrics and soulful melodies, See You Again became a global hit and a symbol of eternal friendship.",
+    url: seeYouAgain,
+    lyrics: [
+      {
+        verse: [
+          "It's been a long day without you, my friend",
+          "And I'll tell you all about it when I see you again",
+          "We've come a long way from where we began",
+          "Oh, I'll tell you all about it when I see you again",
+          "When I see you again",
+        ],
+      },
+      {
+        verse: [
+          "Damn, who knew?",
+          "All the planes we flew",
+          "Good things we've been through",
+          "That I'd be standing right here talking to you",
+          "'Bout another path",
+          "I know we loved to hit the road and laugh",
+          "But something told me that it wouldn't last",
+          "Had to switch up",
+          "Look at things different, see the bigger picture",
+          "Those were the days",
+          "Hard work forever pays",
+          "Now I see you in a better place (see you in a better place)",
+        ],
+      },
+      {
+        verse: [
+          "Uh",
+          "How can we not talk about family",
+          "When family's all that we got?",
+          "Everything I went through",
+          "You were standing there by my side",
+          "And now you gon' be with me for the last ride",
+        ],
+      },
+      {
+        verse: [
+          "It's been a long day without you, my friend",
+          "And I'll tell you all about it when I see you again",
+          "We've come a long way from where we began",
+          "Oh, I'll tell you all about it when I see you again",
+          "When I see you again",
+        ],
+      },
+      { verse: ["Ooh, ooh, ooh, ooh, ooh, ooh"] },
+      {
+        verse: [
+          "First, you both go out your way",
+          "And the vibe is feeling strong",
+          "And what's small turn to a friendship",
+          "A friendship turn to a bond",
+          "And that bond will never be broken",
+          "The love will never get lost",
+        ],
+      },
+      {
+        verse: [
+          "And when brotherhood come first",
+          "Then the line will never be crossed",
+          "Established it on our own",
+          "When that line had to be drawn",
+          "And that line is what we reached",
+          "So remember me when I'm gone",
+        ],
+      },
+      {
+        verse: [
+          "How can we not talk about family",
+          "When family's all that we got?",
+          "Everything I went through",
+          "You were standing there by my side",
+          "And now you gon' be with me for the last ride",
+        ],
+      },
+      {
+        verse: [
+          "So let the light guide your way, yeah",
+          "Hold every memory as you go",
+          "And every road you take",
+          "Will always lead you home",
+          "Home",
+        ],
+      },
+      {
+        verse: [
+          "It's been a long day without you, my friend",
+          "And I'll tell you all about it when I see you again",
+          "We've come a long way from where we began",
+          "Oh, I'll tell you all about it when I see you again",
+          "When I see you again",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, ooh, ooh, ooh, ooh, ooh",
+          "When I see you again",
+          "See you again",
+          "When I see you again",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000122391599-7v21wf-t500x500.jpg",
+  },
+  {
+    id: 39,
+    title: "Dance The Night",
+    artist: "Dua Lipa",
+    description:
+      "Dance The Night is an infectious pop-dance track by Dua Lipa. Released in 2020, it combines catchy hooks, vibrant beats, and Dua Lipa's confident vocals, creating a perfect anthem for the dancefloor.",
+    url: danceTheNight,
+    lyrics: [
+      {
+        verse: [
+          "Baby, you can find me under the lights",
+          "Diamonds under my eyes",
+          "Turn the rhythm up, don't you wanna just",
+          "Come along for the ride?",
+        ],
+      },
+      {
+        verse: [
+          "Pull my outfits up tight",
+          "You can see my heartbeat tonight",
+          "I can take the heat, baby, best believe",
+          "That's the moment I shine",
+        ],
+      },
+      {
+        verse: [
+          "'Cause every romance shakes and it bends",
+          "Don't give a damn",
+          "When the night's here, I don't do tears",
+          "Baby, no chance",
+        ],
+      },
+      { verse: ["I could dance, I could dance, I could dance"] },
+      {
+        verse: [
+          "Watch me dance",
+          "Dance the night away",
+          "My heart could be burning, but you won't see it on my face",
+          "Watch me dance",
+          "Dance the night away",
+          "I still keep the party running, not one hair out of place",
+        ],
+      },
+      {
+        verse: [
+          "Lately, I've been moving close to the edge",
+          "Still be looking my best",
+          "I stay on the beat, you can count on me",
+          "I ain't missing no steps",
+        ],
+      },
+      {
+        verse: [
+          "'Cause every romance shakes and it bends",
+          "Don't give a damn",
+          "When the night's here, I don't do tears",
+          "Baby, no chance",
+        ],
+      },
+      { verse: ["I could dance, I could dance, I could dance"] },
+      {
+        verse: [
+          "Watch me dance",
+          "Dance the night away",
+          "My heart could be burning, but you won't see it on my face",
+          "Watch me dance (dance)",
+          "Dance the night away (uh-huh)",
+          "I still keep the party running, not one hair out of place",
+        ],
+      },
+      {
+        verse: [
+          "When my heart breaks (they'll never see it, never see it)",
+          "When my world shakes (I feel alive, I feel alive)",
+          "I don't play it safe (ooh)",
+          "Don't you know about me? (Uh-huh)",
+        ],
+      },
+      { verse: ["I could dance, I could dance, I could dance"] },
+      {
+        verse: [
+          "Even when the tears are flowing like diamonds on my face",
+          "I still keep the party going, not one hair out of place (yes, I can)",
+          "Even when the tears are flowing like diamonds on my face (yes, I can, yes, I can)",
+          "I still keep the party going, not one hair out of place",
+        ],
+      },
+      {
+        verse: [
+          "Watch me dance",
+          "Dance the night away (uh-huh)",
+          "My heart could be burning, but you won't see it on my face",
+          "Watch me (dance) dance",
+          "Dance the night away (uh-huh)",
+          "I still keep the party running, not one hair out of place",
+        ],
+      },
+      {
+        verse: [
+          "When my heart breaks (they'll never see it, never see it)",
+          "When my world shakes (I feel alive, I feel alive)",
+          "I don't play it safe (ooh)",
+          "Don't you know about me? (Uh-huh)",
+        ],
+      },
+      {
+        verse: [
+          "I could dance, I could dance, I could dance",
+          "Dance the night",
+        ],
+      },
+    ],
+    cover: "https://f4.bcbits.com/img/a2063368833_10.jpg",
+  },
 ];
 
 export default data;
