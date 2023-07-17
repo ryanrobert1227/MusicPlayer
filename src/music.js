@@ -41,6 +41,55 @@ import favoriteSong from "./assets/musics/newMusics/Favoritesong.mp3";
 import wishYouTheBest from "./assets/musics/newMusics/Wishyouthebest.mp3";
 import wrong from "./assets/musics/newMusics/Wrong.mp3";
 import soWhat from "./assets/musics/newMusics/Sowhat.mp3";
+import untilIFoundYou from "./assets/musics/newMusics/Until I Found You.mp3";
+import clouds from "./assets/musics/newMusics/Clouds.mp3";
+import telepatia from "./assets/musics/newMusics/telepatía.mp3";
+import eyesClosed from "./assets/musics/newMusics/Eyes Closed.mp3";
+import stayAsYouAre from "./assets/musics/newMusics/Stay As You Are.mp3";
+import miracle from "./assets/musics/newMusics/Miracle.mp3";
+import mother from "./assets/musics/newMusics/Mother.mp3";
+import river from "./assets/musics/newMusics/River.mp3";
+import flowers from "./assets/musics/newMusics/Flowers.mp3";
+import demons from "./assets/musics/newMusics/Demons.mp3";
+import bones from "./assets/musics/newMusics/Bones.mp3";
+import wrecked from "./assets/musics/newMusics/Wrecked.mp3";
+import natural from "./assets/musics/newMusics/Natural.mp3";
+import thunder from "./assets/musics/newMusics/Thunder.mp3";
+import enemy from "./assets/musics/newMusics/Enemy.mp3";
+import whateverItTakes from "./assets/musics/newMusics/Whatever It Takes.mp3";
+import radioactive from "./assets/musics/newMusics/Radioactive.mp3";
+import crushed from "./assets/musics/newMusics/Crushed.mp3";
+import playground from "./assets/musics/newMusics/Playground.mp3";
+import queen from "./assets/musics/newMusics/QUEEN.mp3";
+import queenOfBrokenHearts from "./assets/musics/newMusics/queen of broken hearts.mp3";
+import theHills from "./assets/musics/newMusics/The Hills.mp3";
+import habits from "./assets/musics/newMusics/Habits.mp3";
+import callMeByYourName from "./assets/musics/newMusics/Call Me By Your Name.mp3";
+import youngblood from "./assets/musics/newMusics/Youngblood.mp3";
+import angryToo from "./assets/musics/newMusics/Angry Too.mp3";
+import angelsLikeYou from "./assets/musics/newMusics/Angels Like You.mp3";
+import breakMyHeart from "./assets/musics/newMusics/Break My Heart.mp3";
+import sorry from "./assets/musics/newMusics/Sorry.mp3";
+import teeth from "./assets/musics/newMusics/Teeth.mp3";
+import myOhMy from "./assets/musics/newMusics/My Oh My.mp3";
+import pokerFace from "./assets/musics/newMusics/Poker Face.mp3";
+import wallsCouldTalk from "./assets/musics/newMusics/Walls Could Talk.mp3";
+import control from "./assets/musics/newMusics/Control.mp3";
+import badBitch from "./assets/musics/newMusics/Bad Bitch.mp3";
+import savage from "./assets/musics/newMusics/Savage.mp3";
+import badGuy from "./assets/musics/newMusics/Bad Guy.mp3";
+import toxic from "./assets/musics/newMusics/Toxic.mp3";
+import useMe from "./assets/musics/newMusics/Use Me.mp3";
+import gasoline from "./assets/musics/newMusics/Gasoline.mp3";
+import copycat from "./assets/musics/newMusics/Copy Cat.mp3";
+import happierThanEver from "./assets/musics/newMusics/Happier Than Ever.mp3";
+import bellyache from "./assets/musics/newMusics/Bellyache.mp3";
+import oceanEyes from "./assets/musics/newMusics/Ocean Eyes.mp3";
+import genius from "./assets/musics/newMusics/Genius.mp3";
+import noTimeToDie from "./assets/musics/newMusics/No Time To Die.mp3";
+import playWithFire from "./assets/musics/newMusics/Play With Fire.mp3";
+import wellerman from "./assets/musics/newMusics/Wellerman.mp3";
+import valhallaCalling from "./assets/musics/newMusics/Valhalla Calling.mp3";
 
 // cartazes
 
@@ -3916,6 +3965,4882 @@ const data = [
       { verse: ["Ba-da-da-da-da-da"] },
     ],
     cover: "https://upload.wikimedia.org/wikipedia/pt/f/f3/Pinksowhatcover.jpg",
+  },
+  {
+    id: 51,
+    title: "Until I Found You",
+    artist: "Stephen Sanchez",
+    description:
+      "Until I Found You is a heartfelt pop ballad by Stephen Sanchez. Released in 2022, it combines heartfelt lyrics, emotive vocals, and a soaring chorus, capturing the emotions of love and gratitude.",
+    url: untilIFoundYou,
+    lyrics: [
+      {
+        verse: [
+          "Georgia",
+          "Wrap me up in all your, I want ya",
+          "In my arms, oh, let me hold ya",
+          "I'll never let you go again like I did",
+          "Oh, I used to say",
+        ],
+      },
+      {
+        verse: [
+          "I would never fall in love again until I found her",
+          "I said I would never fall unless it's you I fall into",
+          "I was lost within the darkness, but then I found her",
+          "I found you",
+        ],
+      },
+      {
+        verse: [
+          "Georgia",
+          "Pulled me in, I asked to love her",
+          "Once again you fell, I caught ya",
+          "I'll never let you go again like I did",
+          "Oh, I used to say",
+        ],
+      },
+      {
+        verse: [
+          "I would never fall in love again until I found her",
+          "I said I would never fall unless it's you I fall into",
+          "I was lost within the darkness, but then I found her",
+          "I found you",
+        ],
+      },
+      {
+        verse: [
+          "I would never fall in love again until I found her",
+          "I said I would never fall unless it's you I fall into",
+          "I was lost within the darkness, but then I found her",
+          "I found you",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/8a6477b222dac17081d9b9b1729a1ca4/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 52,
+    title: "Clouds",
+    artist: "Mandrazo & Tommy Rage",
+    description:
+      "Clouds is an atmospheric electronic track by Mandrazo and Tommy Rage. Released in 2022, it combines ethereal melodies, pulsating beats, and hypnotic textures, creating a sonic landscape that transports the listener.",
+    url: clouds,
+    lyrics: [
+      {
+        verse: [
+          "No need to face the reality",
+          "Close your eyes and come with me",
+          "She so sexy bada.. b...h",
+          "I wanna make you mine",
+          "On the bed she tied",
+          "So hot but shes cold outside",
+          "Right now i",
+          "Wanna hear you screamin loud",
+        ],
+      },
+      {
+        verse: [
+          "Come on sexy b...h",
+          "Make me fly above the clouds",
+          "I’ll make you feel what you never felt before",
+        ],
+      },
+      {
+        verse: [
+          "Tight dress red lips",
+          "Tonight she wanna be my mistress",
+          "Red wine she wanna ride",
+          "There is no place where you can hide",
+          "I wanna taste you on my tongue",
+          "Beg me to f..k you all night long",
+          "She think i’m fallin’ deep in love",
+          "Im a sinner baby i don’t go to church",
+          "Rit:",
+          "Come on sexy b...h",
+          "Make me fly above the clouds",
+          "I’ll make you feel what you never felt before",
+          "Bridge:",
+          "When she’s alone i’m the one to call",
+          "She needs a man to protect her soul",
+          "When i’m alone she the one i call",
+          "I want you next to me",
+        ],
+      },
+      { verse: ["Next to me"] },
+      {
+        verse: [
+          "Come on sexy b...h",
+          "Make me fly above the clouds",
+          "I’ll make you feel what you never felt before",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/885e481ab6f1e91465e12215dd15058b/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 53,
+    title: "telepatía",
+    artist: "Kali Uchis",
+    description:
+      "telepatía is a captivating Latin pop song by Kali Uchis. Released in 2020, it combines infectious rhythms, dreamy melodies, and Uchis' sultry vocals, creating an irresistible and hypnotic listening experience.",
+    url: telepatia,
+    lyrics: [
+      {
+        verse: [
+          "Quién lo diría",
+          "Que se podía hacer el amor",
+          "Por telepatía",
+          "La Luna está llena, mi cama, vacía",
+        ],
+      },
+      {
+        verse: [
+          "Lo que yo te haría",
+          "Si te tuviera de frente",
+          "La mente te la volaría",
+          "De noche y de día, de noche y de día",
+        ],
+      },
+      {
+        verse: [
+          "You know I'm just a flight away",
+          "If you want it, you can take a private plane",
+          "A kilómetros estamos conectando",
+          "Y me prendes, aunque no me estés tocando",
+        ],
+      },
+      {
+        verse: [
+          "You know I got a lot to say",
+          "All these voices in the background of my brain",
+          "Y me dicen todo lo que estás pensando",
+          "Me imagino lo que ya estás maquinando",
+        ],
+      },
+      {
+        verse: [
+          "Quién lo diría",
+          "Que se podía hacer el amor",
+          "Por telepatía",
+          "La Luna está llena, mi cama, vacía",
+        ],
+      },
+      {
+        verse: [
+          "Lo que yo te haría",
+          "Si te tuviera de frente",
+          "La mente te la volaría",
+          "De noche y de día, de noche y de día",
+        ],
+      },
+      {
+        verse: [
+          "You know that I can see right through you",
+          "I can read your mind, I can read your mind",
+          "What you want to do",
+          "It's written all over your face times two",
+          "'Cause I can read your mind, I can read your mind",
+        ],
+      },
+      {
+        verse: [
+          "I can hear your thoughts like a melody",
+          "Listen while you talk when you're fast asleep",
+          "You stay on the phone just to hear me breathe",
+          "(On repeat)",
+        ],
+      },
+      {
+        verse: [
+          "Quién lo diría",
+          "Que se podía hacer el amor",
+          "Por telepatía",
+          "La Luna está llena, mi cama, vacía",
+        ],
+      },
+      {
+        verse: [
+          "Lo que yo te haría",
+          "Si te tuviera de frente",
+          "La mente te la volaría",
+          "De noche y de día, de noche y de día",
+        ],
+      },
+      {
+        verse: [
+          "(You know I got a lot to say)",
+          "(All these voices in the background of my brain)",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/3/37/Kali_Uchis_-_Sin_Miedo.png",
+  },
+  {
+    id: 54,
+    title: "Eyes Closed",
+    artist: "Ed Sheeran",
+    description:
+      "Eyes Closed is a heartfelt acoustic track by Ed Sheeran. Released in 2017, it showcases Sheeran's emotive songwriting and soulful vocals, creating an intimate and introspective listening experience.",
+    url: eyesClosed,
+    lyrics: [
+      {
+        verse: [
+          "I know it's a bad idea",
+          "But how can I help myself?",
+          "Been inside for most this year",
+          "And I thought a few drinks, they might help",
+        ],
+      },
+      {
+        verse: [
+          "It's been a while, my dear",
+          "Dealing with the cards life dealt",
+          "I'm still holding back these tears",
+          "While my friends are somewhere else",
+        ],
+      },
+      {
+        verse: [
+          "I pictured this year a little bit different when it hit February",
+          "I stepped in the bar, it hit me so hard",
+          "Oh, how can it be this heavy?",
+          "Every song reminds me you're gone",
+          "And I feel the lump form in my throat",
+          "'Cause I'm here alone",
+        ],
+      },
+      {
+        verse: [
+          "Just dancing with my eyes closed",
+          "'Cause everywhere I look I still see you",
+          "Time is moving so slow",
+          "And I don't know what else that I can do",
+          "So I'll keep dancing with my",
+          "Ey-ey-ey-eyes, ey-ey-ey-eyes closed",
+          "Ey-ey-ey-eyes",
+          "So I'll keep dancing with my",
+        ],
+      },
+      {
+        verse: [
+          "Delusion is here again",
+          "And I think you'll come home soon",
+          "A word brings me right back in",
+          "Then it's only me that's in this room",
+          "I guess I could just pretend",
+          "The colours are more than blue",
+          "But I lost more than my friend",
+          "I can't help but missing you",
+        ],
+      },
+      {
+        verse: [
+          "I pictured this month a little bit different, no one is ever ready",
+          "And when it unfolds you get in a hole",
+          "Oh, how can it be this heavy?",
+          "Everything changes, nothing's the same",
+          "Except the truth is, now you're gone",
+          "And life just goes on",
+        ],
+      },
+      {
+        verse: [
+          "So I'm dancing with my eyes closed",
+          "'Cause everywhere I look I still see you",
+          "Time is moving so slow",
+          "And I don't know what else that I can do",
+          "So I'll keep dancing with my",
+          "Ey-ey-ey-eyes, ey-ey-ey-eyes closed",
+          "Ey-ey-ey-eyes",
+        ],
+      },
+      {
+        verse: [
+          "So I'll keep dancing with my",
+          "Ey-ey-ey-eyes, ey-ey-ey-eyes closed",
+          "Ey-ey-ey-eyes",
+          "Oh, I keep dancing with my",
+        ],
+      },
+      {
+        verse: [
+          "They're shutting the bar",
+          "They're cleaning the floor",
+          "And everyone is already home",
+          "But I'm on my own",
+        ],
+      },
+      {
+        verse: [
+          "Still dancing with my eyes closed",
+          "'Cause everywhere I look I still see you",
+          "Time is moving so slow",
+          "And I don't know what else that I can do",
+          "So I'll keep dancing with my",
+          "Ey-ey-ey-eyes, ey-ey-ey-eyes closed",
+          "Ey-ey-ey-eyes",
+        ],
+      },
+      {
+        verse: [
+          "Oh, I keep dancing with my",
+          "Ey-ey-ey-eyes, ey-ey-ey-eyes closed",
+          "Ey-ey-ey-eyes",
+        ],
+      },
+      { verse: ["Oh, I keep dancing with my"] },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/c/c8/Ed_Sheeran_-_Eyes_Closed.png",
+  },
+  {
+    id: 55,
+    title: "Stay As You Are",
+    artist: "Rachel Lorin",
+    description:
+      "Stay As You Are is an uplifting pop-rock song by Rachel Lorin. Released in 2021, it combines anthemic melodies, empowering lyrics, and Lorin's powerful vocals, inspiring listeners to embrace their true selves.",
+    url: stayAsYouAre,
+    lyrics: [
+      {
+        verse: [
+          "Stay",
+          "I love the way that you walk",
+          "I love the way that you talk",
+          "I love the way I’m all you see",
+          "I love the way you’re all for me",
+          "Shh",
+        ],
+      },
+      {
+        verse: [
+          "I know it's selfish and I can't help it",
+          "You making me feel like no one else’s",
+          "So please",
+        ],
+      },
+      {
+        verse: [
+          "Stay as you are",
+          "I don’t want a thing to change about you",
+          "Stay as you are",
+          "I don’t want a thing to change",
+          "I don’t want a thing to change about you",
+        ],
+      },
+      {
+        verse: [
+          "I always find something I hate",
+          "bout the people that I date",
+          "But not you",
+          "Something about the way you feel",
+          "Makes me know that it's for real",
+          "I want you",
+        ],
+      },
+      {
+        verse: [
+          "I know it’s selfish and I cant help it",
+          "You makin me feel like no one else’s",
+          "So please",
+        ],
+      },
+      {
+        verse: [
+          "Stay as you are",
+          "I don’t want a thing to change about you",
+          "Stay as you are",
+          "I don’t want a thing to change",
+          "I don’t want a thing to change about you",
+        ],
+      },
+      { verse: ["Ahhh ahhha ahhhh", "Ahhh ahhha ahhhh"] },
+      {
+        verse: [
+          "Late nights",
+          "long drives",
+          "Can we just",
+          "Street lights",
+          "no fights",
+          "Can we just",
+          "Stay",
+        ],
+      },
+      {
+        verse: [
+          "Stay as you are",
+          "I don’t want a thing to change about you",
+          "Stay as you are",
+          "I don’t want a thing to change",
+          "I don’t want a thing to change about you",
+          "Ahhh ahhha ahhhh",
+          "Ahhh ahhha ahhhh  ",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-NGB4zrnIrjFprBAf-TPMhOA-t500x500.jpg",
+  },
+  {
+    id: 56,
+    title: "Miracle",
+    artist: "Calvin Harris, Ellie Goulding",
+    description:
+      "Miracle is an electrifying collaboration between Calvin Harris and Ellie Goulding. Released in 2013, it combines infectious beats, anthemic choruses, and Goulding's mesmerizing vocals, creating a euphoric dance-pop experience.",
+    url: miracle,
+    lyrics: [
+      {
+        verse: [
+          "When you hold me",
+          "There's a place I go",
+          "It's a different high",
+          "Oh no",
+          "When you touch me",
+          "I get vulnerable",
+          "In a different light",
+          "Oh no",
+        ],
+      },
+      {
+        verse: [
+          "Are you too cynical",
+          "To believe in a miracle",
+          "That just slipped through my hands?",
+          "But could you take a chance on me?",
+          "Can you forgive it all",
+          "To believe in a miracle?",
+          "Yeah, I put you through hell",
+          "But I'm asking you to believe",
+          "To believe in a miracle",
+        ],
+      },
+      {
+        verse: [
+          "To believe in a miracle",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah",
+        ],
+      },
+      {
+        verse: [
+          "When you hold mе",
+          "There's a place I go",
+          "It's a diffеrent high",
+          "Oh no",
+          "When you touch me (When you touch me)",
+          "I get vulnerable (I get vulnerable)",
+          "In a different light",
+          "Oh no",
+        ],
+      },
+      {
+        verse: [
+          "Are you too cynical",
+          "To believe in a miracle",
+          "That just slipped through my hands?",
+          "But could you take a chance on me?",
+          "Can you forgive it all",
+          "To believe in a miracle?",
+          "Yeah, I put you through hell",
+          "But I'm asking you to believe",
+          "To believe in a miracle",
+        ],
+      },
+      {
+        verse: [
+          "To believe in a miracle",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah",
+          "To believe in a miracle",
+        ],
+      },
+      {
+        verse: [
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+          "Ah, ah-ah-ah-ah-ah, ah, ah-ah-ah-ah-ah",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-2rTlQ9cQ3eBQAayq-nsJ7pw-t500x500.jpg",
+  },
+  {
+    id: 57,
+    title: "Mother",
+    artist: "Meghan Trainor",
+    description:
+      "Mother is a heartwarming pop track by Meghan Trainor. Released in 2020, it pays tribute to the special bond between a mother and child, capturing the emotions of love, gratitude, and appreciation.",
+    url: mother,
+    lyrics: [
+      {
+        verse: ["(The fact that Meghan Trainor is literally mother now)"],
+      },
+      {
+        verse: [
+          "Bum-bum-bum-bum-bum-bum-bum-bum",
+          "Bum-bum-bum-bum-bum-bum-bum-bum",
+          "Bum-bum-bum-bum-bum",
+        ],
+      },
+      {
+        verse: [
+          "I am your mother (I am your mother)",
+          "You listen to me (you listen to me)",
+          "Stop all that mansplainin', no one's listening",
+          "Tell me, who gave you the permission to speak?",
+          "I am your mother (I am your mother)",
+          "You listen to me (you listen to me)",
+        ],
+      },
+      {
+        verse: [
+          "Mister big boy, pulling up in your big toy",
+          "Sayin' all that blah-blah-blah, makin' all that big noise",
+          "'Cause you're so frustrated, emasculated",
+          "'Cause you got your shit called out by this little lady (my baby)",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, your opinion's so strong",
+          "Even when you're wrong",
+          "Bet that feels like power to you",
+          "(That feels like power to you)",
+          "Must'vе forgot who you're talking to",
+        ],
+      },
+      {
+        verse: [
+          "I am your mother (I am your mother)",
+          "You listеn to me (you listen to me)",
+          "Stop all that mansplainin', no one's listening (shh)",
+          "Tell me (ah-ah), who gave you the permission to speak?",
+          "I am your mother (I am your mother)",
+          "You listen to me (you listen to me)",
+        ],
+      },
+      {
+        verse: [
+          "You just a bum-bum-bum-bum-bum-bum",
+          "Bum-bum-bum-bum-bum-bum",
+          "You just a bum-bum-bum-bum-bum-bum (hey)",
+          "Bum-bum-bum-bum-bum-bum",
+        ],
+      },
+      {
+        verse: [
+          "Y'all need a masterclass from my man",
+          "Learn how to satisfy like he can (he can)",
+          "Ain't tryna control me and own me",
+          "Like and old man that sees ban",
+          "Bet you wish you could wife this (mwah)",
+          "Stay mad, that's priceless",
+          "You with your God complex",
+          "But you can't even make life",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, your opinion's so strong",
+          "Even when you're wrong (ooh-ooh-ooh)",
+          "Bet that feels like power to you",
+          "(That feels like power to you)",
+          "Must've forgot who you're talking to",
+        ],
+      },
+      {
+        verse: [
+          "I am your mother (I am your mother)",
+          "You listen to me (you listen to me)",
+          "Stop all that mansplainin' (ayy)",
+          "No one's listening (shh)",
+          "Tell me (ah-ah)",
+          "Who gave you the permission to speak? (Speak)",
+          "I am your mother (I am your mother, yeah)",
+          "You listen to me",
+        ],
+      },
+      {
+        verse: [
+          "You just a bum-bum-bum-bum-bum-bum (hey)",
+          "Bum-bum-bum-bum-bum-bum",
+          "You just a bum-bum-bum-bum-bum-bum (hey)",
+          "Bum-bum-bum-bum-bum-bum",
+        ],
+      },
+      {
+        verse: [
+          "Baby, shake your bum-bum-bum-bum-bum-bum (hey)",
+          "Bum-bum-bum-bum-bum-bum",
+          "Shake that bum-bum-bum-bum-bum-bum",
+          "Bum-bum-bum-bum-bum-bum, bum-bum-bum",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/c/cc/Meghan_Trainor_-_Mother.png",
+  },
+  {
+    id: 58,
+    title: "River",
+    artist: "Miley Cyrus",
+    description:
+      "River is a soulful pop ballad by Miley Cyrus. Released in 2018, it showcases Cyrus' powerful vocals and emotional depth, delivering a poignant and introspective message.",
+    url: river,
+    lyrics: [
+      {
+        verse: [
+          "I got a new dress just to meet you downtown",
+          "Can you walk me through the park just to show it off?",
+          "I can pull my hair back in that tight way that you like",
+          "If you wrap me in your arms and never stop",
+        ],
+      },
+      {
+        verse: [
+          "Heart beats so loud that it's drowning me out",
+          "Living in an April shower",
+          "You're pouring down, baby, drown me out",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, ooh, ooh",
+          "You're just like a river (ooh, ooh, ooh)",
+          "You're just like a river (ooh, ooh, ooh)",
+          "You go on forever",
+          "You're just like a river",
+        ],
+      },
+      {
+        verse: [
+          "Blowing bubbles in the bath, I can't stop from thinking lately",
+          "You could be the one, have the honor of my babies",
+          "Hope they have your eyes and that crooked smile",
+          "Was a desеrt before I met you, I was in a drought",
+        ],
+      },
+      {
+        verse: [
+          "Heart bеats so loud that it's drowning me out",
+          "Living in an April shower",
+          "You're pouring down, baby, drown me out",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, ooh, ooh",
+          "You're just like a river (ooh, ooh, ooh)",
+          "You're just like a river (ooh, ooh, ooh)",
+          "You go on forever",
+          "You're just like a river",
+        ],
+      },
+      { verse: ["You're never running dry"] },
+      {
+        verse: [
+          "I feel you everywhere",
+          "Your face is all in my hair",
+          "Covered up in your sweat",
+          "It turns me on that you care, baby",
+          "Your love, it flows just like a river",
+        ],
+      },
+      {
+        verse: [
+          "You're just like a river (that's what you are)",
+          "You're just like a river (that's what you are)",
+          "You're just like a river (that's what you are)",
+          "You're just like a river",
+        ],
+      },
+      {
+        verse: [
+          "You're just like a river (heart beats so loud that it's drowning me out)",
+          "(You're just like a river) living in an April shower",
+          "(You go on forever) you're pouring down, baby, drown me out",
+          "You're just like a river",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-5AyoOciZzp1fpVRk-14mwoQ-t500x500.jpg",
+  },
+  {
+    id: 59,
+    title: "Flowers",
+    artist: "Miley Cyrus",
+    description:
+      "Flowers is a heartfelt pop track by Miley Cyrus. Released in 2020, it combines poignant lyrics, delicate melodies, and Cyrus' emotive vocals, creating a beautiful and introspective listening experience.",
+    url: flowers,
+    lyrics: [
+      {
+        verse: [
+          "We were good, we were gold",
+          "Kind of dream that can't be sold",
+          "We were right 'til we weren't",
+          "Built a home and watched it burn",
+        ],
+      },
+      {
+        verse: [
+          "Hum, I didn't wanna leave you",
+          "I didn't wanna lie",
+          "Started to cry, but then remembered I",
+        ],
+      },
+      {
+        verse: [
+          "I can buy myself flowers",
+          "Write my name in the sand",
+          "Talk to myself for hours",
+          "Say things you don't understand",
+          "I can take myself dancing",
+          "And I can hold my own hand",
+          "Yeah, I can love me better than you can",
+        ],
+      },
+      {
+        verse: [
+          "Can love me better",
+          "I can love me better, baby",
+          "Can love me better",
+          "I can love me better, baby",
+        ],
+      },
+      {
+        verse: [
+          "Paint my nails cherry-red",
+          "Match the roses that you left",
+          "No remorse, no regret",
+          "I forgive every word you said",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, I didn't wanna leave, baby",
+          "I didn't wanna fight",
+          "Started to cry, but then remembered I",
+        ],
+      },
+      {
+        verse: [
+          "I can buy myself flowers",
+          "Write my name in the sand",
+          "Talk to myself for hours, yeah",
+          "Say things you don't understand",
+          "I can take myself dancing, yeah",
+          "I can hold my own hand",
+          "Yeah, I can love me better than you can",
+        ],
+      },
+      {
+        verse: [
+          "Can love me better",
+          "I can love me better, baby",
+          "Can love me better",
+          "I can love me better, baby",
+          "Can love me better",
+          "I can love me better, baby",
+          "Can love me better, ooh, I",
+        ],
+      },
+      {
+        verse: [
+          "I didn't wanna leave you",
+          "I didn't wanna fight",
+          "Started to cry, but then remembered I",
+        ],
+      },
+      {
+        verse: [
+          "I can buy myself flowers (uh, huh)",
+          "Write my name in the sand (ooh)",
+          "Talk to myself for hours (yeah)",
+          "Say things you don't understand (better than you)",
+          "I can take myself dancing (yeah)",
+          "I can hold my own hand",
+          "Yeah, I can love me better than",
+          "Yeah, I can love me better than you can",
+        ],
+      },
+      {
+        verse: [
+          "Can love me better",
+          "I can love me better, baby (oh)",
+          "Can love me better",
+          "I can love me better, baby (than you can)",
+          "Can love me better",
+          "I can love me better, baby",
+          "Can love me better, I",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/98610629a40996b61b3d24bd5ab8c2e1/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 60,
+    title: "Demons",
+    artist: "Imagine Dragons",
+    description:
+      "Demons is a powerful rock song by Imagine Dragons. Released in 2012, it explores the theme of inner struggles and showcases the band's ability to blend anthemic soundscapes with raw and emotional lyrics.",
+    url: demons,
+    lyrics: [
+      {
+        verse: [
+          "When the days are cold",
+          "And the cards all fold",
+          "And the saints we see",
+          "Are all made of gold",
+        ],
+      },
+      {
+        verse: [
+          "When your dreams all fail",
+          "And the ones we hail",
+          "Are the worst of all",
+          "And the blood's run stale",
+        ],
+      },
+      {
+        verse: [
+          "I wanna hide the truth",
+          "I wanna shelter you",
+          "But with the beast inside",
+          "There's nowhere we can hide",
+        ],
+      },
+      {
+        verse: [
+          "No matter what we breed",
+          "We still are made of greed",
+          "This is my kingdom come",
+          "This is my kingdom come",
+        ],
+      },
+      {
+        verse: [
+          "When you feel my heat",
+          "Look into my eyes",
+          "It's where my demons hide",
+          "It's where my demons hide",
+          "Don't get too close",
+          "It's dark inside",
+          "It's where my demons hide",
+          "It's where my demons hide",
+        ],
+      },
+      {
+        verse: [
+          "At the curtain's call",
+          "Is the last of all",
+          "When the lights fade out",
+          "All the sinners crawl",
+          "So they dug your grave",
+          "And the masquerade",
+          "Will come calling out",
+          "At the mess you made",
+        ],
+      },
+      {
+        verse: [
+          "Don't wanna let you down",
+          "But I am hell bound",
+          "Though this is all for you",
+          "Don't wanna hide the truth",
+        ],
+      },
+      {
+        verse: [
+          "No matter what we breed",
+          "We still are made of greed",
+          "This is my kingdom come",
+          "This is my kingdom come",
+        ],
+      },
+      {
+        verse: [
+          "When you feel my heat",
+          "Look into my eyes",
+          "It's where my demons hide",
+          "It's where my demons hide",
+          "Don't get too close",
+          "It's dark inside",
+          "It's where my demons hide",
+          "It's where my demons hide",
+        ],
+      },
+      {
+        verse: [
+          "They say it's what you make",
+          "I say it's up to fate",
+          "It's woven in my soul",
+          "I need to let you go",
+          "Your eyes, they shine so bright",
+          "I wanna save that light",
+          "I can't escape this now",
+          "Unless you show me how",
+        ],
+      },
+      {
+        verse: [
+          "When you feel my heat",
+          "Look into my eyes",
+          "It's where my demons hide",
+          "It's where my demons hide",
+          "Don't get too close",
+          "It's dark inside",
+          "It's where my demons hide",
+          "It's where my demons hide",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000107753512-jpc97p-t500x500.jpg",
+  },
+  {
+    id: 61,
+    title: "Bones",
+    artist: "Imagine Dragons",
+    description:
+      "Bones is an energetic rock track by Imagine Dragons. Released in 2021, it combines driving guitars, infectious rhythms, and powerful vocals, creating a dynamic and captivating listening experience.",
+    url: bones,
+    lyrics: [
+      {
+        verse: [
+          "Gimme, gimme, gimme some time to think",
+          "I'm in the bathroom looking at me",
+          "Face in the mirror is all I need",
+          "(Ooh)",
+        ],
+      },
+      {
+        verse: [
+          "Wait until the reaper takes my life",
+          "Never gonna get me out alive",
+          "I will live a thousand million lives",
+          "(Ooh)",
+        ],
+      },
+      {
+        verse: [
+          "My patience is waning, is this entertaining?",
+          "Our patience is waning, is this entertaining?",
+        ],
+      },
+      {
+        verse: [
+          "I got this feeling, yeah, you know",
+          "Where I'm losing all control",
+          "'Cause there's magic in my bones",
+          "I got this feeling in my soul",
+          "Go ahead and throw your stones",
+          "'Cause there's magic in my bones",
+        ],
+      },
+      {
+        verse: [
+          "Playing with thе stick of dynamite",
+          "It was never gray in black and whitе",
+          "There was never wrong till there was right",
+          "(Ooh)",
+        ],
+      },
+      {
+        verse: [
+          "Feeling like a boulder hurtling",
+          "Seeing all the vultures circling",
+          "Burning in the flames, I'm working in",
+          "Turning in a bed, that's darkening",
+        ],
+      },
+      {
+        verse: [
+          "My patience is waning, is this entertaining?",
+          "Our patience is waning, is this entertaining?",
+        ],
+      },
+      {
+        verse: [
+          "I got this feeling, yeah, you know",
+          "Where I'm losing all control",
+          "'Cause there's magic in my bones (in my bones)",
+          "I got this feeling in my soul",
+          "Go ahead and throw your stones",
+          "'Cause there's magic in my bones",
+        ],
+      },
+      { verse: ["'Cause there's magic in my bones"] },
+      {
+        verse: [
+          "Look in the mirror of my mind",
+          "Turning the pages of my life",
+          "Walking the path so many paced a million times",
+        ],
+      },
+      {
+        verse: [
+          "Drown out the voices in the air",
+          "Leaving the ones that never cared",
+          "Picking the pieces up and building to the sky",
+        ],
+      },
+      {
+        verse: [
+          "My patience is waning, is this entertaining?",
+          "My patience is waning, is this entertaining?",
+        ],
+      },
+      {
+        verse: [
+          "I got this feeling, yeah, you know",
+          "Where I'm losing all control",
+          "'Cause there's magic in my bones (magic in my bones)",
+          "I got this feeling in my soul (soul)",
+          "Go ahead and throw your stones",
+          "'Cause there's magic in my bones",
+        ],
+      },
+      {
+        verse: [
+          "There goes my mind, (I) don't mind",
+          "There goes my mind (there it goes, there it goes)",
+          "There goes my mind, (I) don't mind",
+          "There goes my mind (there it goes)",
+          "'Cause there's magic in my bones",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/1e70dfe85b51bacc19ff4df6f8726800/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 62,
+    title: "Wrecked",
+    artist: "Imagine Dragons",
+    description:
+      "Wrecked is an emotional rock ballad by Imagine Dragons. Released in 2021, it showcases vulnerable lyrics, soaring melodies, and lead singer Dan Reynolds' heartfelt vocals, creating a deeply moving listening experience.",
+    url: wrecked,
+    lyrics: [
+      {
+        verse: [
+          "Days pass by and my eyes, they dry",
+          "And I think that I'm okay",
+          "'Till I find myself in conversation fading away",
+        ],
+      },
+      {
+        verse: [
+          "The way you smile, the way you walk",
+          "The time you took to teach me",
+          "All that you had taught",
+          "Tell me, how am I supposed to move on?",
+        ],
+      },
+      {
+        verse: [
+          "These days, I'm becoming everything that I hate",
+          "Wishing you were around",
+          "But now it's too late",
+          "My mind is a place that",
+          "I can't escape your ghost",
+        ],
+      },
+      {
+        verse: [
+          "Sometimes I wish that I could wish it all away",
+          "One more rainy day without you",
+          "Sometimes I wish that I could see you one more day",
+          "One more rainy day",
+        ],
+      },
+      {
+        verse: [
+          "Oh, I'm a wreck without you here",
+          "Yeah, I'm a wreck since you've been gone",
+          "I've tried to put this all behind me",
+          "I think I was wrecked all along",
+          "Yeah, I'm a wreck",
+        ],
+      },
+      {
+        verse: [
+          "They say that the time will heal it, the pain will go away",
+          "But everything, it reminds me of you and it comes in waves",
+          "The way you laugh when your shoulders shook",
+          "The time you took to teach me all that you had taught",
+          "Tell me, how am I supposed to move on?",
+        ],
+      },
+      {
+        verse: [
+          "These days, I'm becoming everything that I hate",
+          "Wishing you were around",
+          "But now it's too late",
+          "My mind is a place that",
+          "I can't escape your ghost",
+        ],
+      },
+      {
+        verse: [
+          "Sometimes I wish that I could wish it all away",
+          "One more rainy day without you",
+          "Sometimes I wish that I could see you one more day",
+          "One more rainy day",
+        ],
+      },
+      {
+        verse: [
+          "Oh, I'm a wreck without you here",
+          "Yeah, I'm a wreck since you've been gone",
+          "I've tried to put this all behind me",
+          "I think I was wrecked all along",
+        ],
+      },
+      {
+        verse: [
+          "These days when I'm on the brink of the edge",
+          "I remember the words that you said",
+          "Remember the life you led",
+        ],
+      },
+      {
+        verse: [
+          "You'd say: Oh, suck it all up",
+          "Don't get stuck in the mud",
+          "Thinking of things that you should have done",
+          "I'll see you again, my loved one",
+        ],
+      },
+      {
+        verse: [
+          "I'll see you again, my loved one",
+          "Yeah, I'm a wreck",
+          "I'll see you again, my loved one",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, I'm a wreck without you here",
+          "(I'm a wreck without you here, loved one)",
+          "Yeah, I'm a wreck since you been gone",
+          "(I'm a wreck since you've been gone)",
+        ],
+      },
+      {
+        verse: [
+          "I've tried to put this all behind me",
+          "I think I was wrecked all along",
+          "(I'm a wreck)",
+          "Yeah, I'm a wreck",
+        ],
+      },
+      {
+        verse: [
+          "Sometimes, I wish",
+          "That I could wish it all away",
+          "(But I can't)",
+          "One more rainy day without you",
+        ],
+      },
+      {
+        verse: [
+          "Sometimes I wish that I could see you",
+          "One more day (But I can't)",
+          "One more rainy day",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/b/b2/Wrecked_song_cover.jpg",
+  },
+  {
+    id: 63,
+    title: "Natural",
+    artist: "Imagine Dragons",
+    description:
+      "Natural is an anthemic rock song by Imagine Dragons. Released in 2018, it combines powerful instrumentation, passionate vocals, and empowering lyrics, creating an exhilarating and uplifting listening experience.",
+    url: natural,
+    lyrics: [
+      {
+        verse: [
+          "Will you hold the line",
+          "When every one of them has given up or given in? Tell me",
+          "In this house of mine",
+          "Nothing ever comes without a consequence or cost, tell me",
+          "Will the stars align?",
+          "Will heaven step in? Will it save us from our sin? Will it?",
+          "'Cause this house of mine stands strong",
+        ],
+      },
+      {
+        verse: [
+          "That's the price you pay",
+          "Leave behind your heart and cast away",
+          "Just another product of today",
+          "Rather be the hunter than the prey",
+          "And you're standing on the edge, face up",
+        ],
+      },
+      {
+        verse: [
+          "'Cause you're a natural",
+          "A beating heart of stone",
+          "You gotta be so cold",
+          "To make it in this world",
+          "Yeah, you're a natural",
+          "Living your life cutthroat",
+          "You gotta be so cold",
+          "Yeah, you're a natural",
+        ],
+      },
+      {
+        verse: [
+          "Will somebody",
+          "Let me see the light within the dark trees shadowing?",
+          "What's happening?",
+          "Looking through the glass, find the wrong within the past, knowing",
+          "Oh, we are the youth",
+          "Cut until it bleeds inside a world without the peace, face it",
+          "A bit of the truth, the truth",
+        ],
+      },
+      {
+        verse: [
+          "That's the price you pay",
+          "Leave behind your heart and cast away",
+          "Just another product of today",
+          "Rather be the hunter than the prey",
+          "And you're standing on the edge, face up",
+        ],
+      },
+      {
+        verse: [
+          "'Cause you're a natural",
+          "A beating heart of stone",
+          "You gotta be so cold",
+          "To make it in this world",
+          "Yeah, you're a natural",
+          "Living your life cutthroat",
+          "You gotta be so cold",
+          "Yeah, you're a natural",
+        ],
+      },
+      {
+        verse: [
+          "Deep inside me, I'm fading to black, I'm fading",
+          "Took an oath by the blood of my hand, won't break it",
+          "I can taste it, the end is upon us, I swear",
+          "Gonna make it",
+          "I'm gonna make it",
+        ],
+      },
+      {
+        verse: [
+          "Natural",
+          "A beating heart of stone",
+          "You gotta be so cold",
+          "To make it in this world",
+          "Yeah, you're a natural",
+          "Living your life cutthroat",
+          "You gotta be so cold",
+          "Yeah, you're a natural",
+        ],
+      },
+      { verse: ["Natural", "Yeah, you're a natural"] },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/1/10/Imagine_Dragons_Natural.png",
+  },
+  {
+    id: 64,
+    title: "Thunder",
+    artist: "Imagine Dragons",
+    description:
+      "Thunder is a catchy pop-rock track by Imagine Dragons. Released in 2017, it features energetic beats, infectious hooks, and lyrics that celebrate self-belief and empowerment.",
+    url: thunder,
+    lyrics: [
+      {
+        verse: [
+          "Just a young gun with a quick fuse",
+          "I was uptight, wanna let loose",
+          "I was dreaming of bigger things",
+          "And wanna leave my own life behind",
+        ],
+      },
+      {
+        verse: [
+          "Not a: Yes sir, not a follower",
+          "Fit the box, fit the mold",
+          "Have a seat in the foyer, take a number",
+          "I was lightning before the thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, thunder",
+          "Thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder, thunder",
+          "Thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, feel the thunder",
+          "Lightning then the thunder",
+          "Thunder, feel the thunder",
+          "Lightning then the thunder",
+          "Thunder, thunder",
+          "Thunder",
+        ],
+      },
+      {
+        verse: [
+          "Kids were laughing in my classes",
+          "While I was scheming for the masses",
+          "Who do you think you are?",
+          "Dreaming 'bout being a big star",
+        ],
+      },
+      {
+        verse: [
+          "They say you're basic, they say you're easy",
+          "You're always riding in the back seat",
+          "Now I'm smiling from the stage while",
+          "You were clapping in the nosebleeds",
+        ],
+      },
+      {
+        verse: [
+          "Thunder",
+          "Thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder, thunder",
+          "Thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, feel the thunder",
+          "Lightning then the thunder",
+          "Thunder, feel the thunder",
+          "Lightning then the thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, feel the thunder",
+          "Lightning then the thunder, thunder",
+          "Thunder, feel the thunder",
+          "Lightning then the thunder, thunder",
+          "Thunder, feel the thunder",
+          "Lightning then the thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, feel the thunder (feel the)",
+          "Lightning then the thunder, thunder",
+          "Thunder, feel the thunder (feel the)",
+          "Lightning then the thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+          "Thunder, thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+        ],
+      },
+      {
+        verse: [
+          "Thunder, thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+          "Thunder, thunder, thun-, thunder",
+          "Thun-thun-thunder, thunder",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/6/68/Imagine_Dragons_Thunder.png",
+  },
+  {
+    id: 65,
+    title: "Enemy",
+    artist: "Imagine Dragons",
+    description:
+      "Enemy is a dynamic rock song by Imagine Dragons. Released in 2021, it combines gritty guitars, pulsating rhythms, and powerful vocals, capturing the intensity of inner conflicts and overcoming obstacles.",
+    url: enemy,
+    lyrics: [
+      {
+        verse: [
+          "(Look out for yourself)",
+          "I wake up to the sounds of the silence that allows",
+          "For my mind to run around, with my ear up to the ground",
+          "I'm searching to behold the stories that are told",
+          "When my back is to the world that was smiling when I turned",
+        ],
+      },
+      {
+        verse: [
+          "Tell you: You're the greatest",
+          "But once you turn, they hate us",
+        ],
+      },
+      {
+        verse: [
+          "Oh, the misery",
+          "Everybody wants to be my enemy",
+          "Spare the sympathy",
+          "Everybody wants to be my enemy-y-y-y-y",
+          "(Look out for yourself)",
+          "My enemy-y-y-y-y",
+          "(Look out for yourself)",
+          "But I'm ready",
+        ],
+      },
+      {
+        verse: [
+          "Your words up on the wall as you'rе praying for my fall",
+          "And the laughter in thе halls",
+          "And the names that I've been called",
+          "I stack it in my mind and I'm waiting for the time",
+          "When I show you what it's like to be words spit in a mic",
+        ],
+      },
+      {
+        verse: [
+          "Tell you: You're the greatest",
+          "But once you turn, they hate us",
+        ],
+      },
+      {
+        verse: [
+          "Oh, the misery",
+          "Everybody wants to be my enemy",
+          "Spare the sympathy",
+          "Everybody wants to be my enemy-y-y-y-y",
+          "(Look out for yourself)",
+          "My enemy-y-y-y-y (yeah)",
+          "(Look out for yourself)",
+        ],
+      },
+      {
+        verse: [
+          "Uh, look, okay",
+          "I'm hoping that somebody pray for me",
+          "I'm praying that somebody hope for me",
+          "I'm staying where nobody 'posed to be",
+          "P-p-posted, being a wreck of emotions",
+          "Ready to go whenever just let me know",
+          "The road is long so put the pedal into the floor",
+          "The enemy's on my trail, my energy unavailable",
+          "I'ma tell 'em: Hasta luego",
+          "They wanna plot on my trot to the top",
+          "I've been outta shape, thinking out the box I'm an astronaut",
+          "I blasted off the planet rock to cause catastrophe",
+          "And it matters more because I had it not",
+          "Had I thought about wreaking havoc on an opposition",
+          "Kinda shockin' they wanted a static with precision I'm automatic quaterback",
+          "I ain't talking sacking, pack it, pack it up, I don't panic",
+          "Batter, batter up, who the baddest?",
+          "It don't matter 'cause we at ya throat",
+        ],
+      },
+      {
+        verse: [
+          "Everybody wants to be my enemy",
+          "Spare the sympathy",
+          "Everybody wants to be my enemy",
+          "Oh, the misery",
+          "Everybody wants to be my enemy",
+          "Spare the sympathy",
+          "Everybody wants to be my enemy",
+        ],
+      },
+      {
+        verse: [
+          "Pray it away, I swear",
+          "I'll never be a saint, no way",
+          "My enemy",
+          "Pray it away, I swear",
+          "I'll never be a saint",
+          "(Look out for yourself)",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/59e97030824a55b87304485e549a2451/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 66,
+    title: "Whatever It Takes",
+    artist: "Imagine Dragons",
+    description:
+      "Whatever It Takes is an empowering anthem by Imagine Dragons. Released in 2017, it showcases the band's signature sound, blending energetic beats, anthemic choruses, and powerful vocals.",
+    url: whateverItTakes,
+    lyrics: [
+      {
+        verse: [
+          "Falling too fast to prepare for this",
+          "Tripping in the world could be dangerous",
+          "Everybody circling, it's vulturous",
+          "Negative, nepotist",
+        ],
+      },
+      {
+        verse: [
+          "Everybody waiting for the fall of man",
+          "Everybody praying for the end of times",
+          "Everybody hoping they could be the one",
+          "I was born to run, I was born for this",
+        ],
+      },
+      {
+        verse: [
+          "Whip, whip",
+          "Run me like a race horse",
+          "Pull me like a ripcord",
+          "Break me down and build me up",
+        ],
+      },
+      {
+        verse: [
+          "I wanna be the slip, slip",
+          "Word upon your lip, lip",
+          "Letter that you rip, rip",
+          "Break me down and build me up",
+        ],
+      },
+      {
+        verse: [
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do whatever it takes",
+          "'Cause I love how it feels when I break the chains",
+        ],
+      },
+      {
+        verse: [
+          "Whatever it takes",
+          "You take me to the top, I'm ready for",
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do what it takes",
+        ],
+      },
+      {
+        verse: [
+          "Always had a fear of being typical",
+          "Looking at my body feeling miserable",
+          "Always hanging on to the visual",
+          "I wanna be invisible",
+        ],
+      },
+      {
+        verse: [
+          "Looking at my years like a martyrdom",
+          "Everybody needs to be a part of 'em",
+          "Never be enough, I'm the prodigal son",
+          "I was born to run, I was born for this",
+        ],
+      },
+      {
+        verse: [
+          "Whip, whip",
+          "Run me like a race horse",
+          "Pull me like a ripcord",
+          "Break me down and build me up",
+        ],
+      },
+      {
+        verse: [
+          "I wanna be the slip, slip",
+          "Word upon your lip, lip",
+          "Letter that you rip, rip",
+          "Break me down and build me up",
+        ],
+      },
+      {
+        verse: [
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do whatever it takes",
+          "'Cause I love how it feels when I break the chains",
+        ],
+      },
+      {
+        verse: [
+          "Whatever it takes",
+          "You take me to the top, I'm ready for",
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do what it takes",
+        ],
+      },
+      {
+        verse: [
+          "Hypocritical, egotistical",
+          "Don't wanna be the parenthetical, hypothetical",
+          "Working onto something that I'm proud of, out of the box",
+          "An epoxy to the world and the vision we've lost",
+          "I'm an apostrophe",
+          "I'm just a symbol to remind you that there's more to see",
+          "I'm just a product of the system, a catastrophe",
+          "And yet a masterpiece, and yet I'm half-diseased",
+          "And when I am deceased",
+          "At least I go down to the grave and die happily",
+          "Leave the body of my soul to be a part of me",
+        ],
+      },
+      { verse: ["I do what it takes"] },
+      {
+        verse: [
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do whatever it takes",
+          "'Cause I love how it feels when I break the chains",
+        ],
+      },
+      {
+        verse: [
+          "Whatever it takes",
+          "You take me to the top, I'm ready for",
+          "Whatever it takes",
+          "'Cause I love the adrenaline in my veins",
+          "I do what it takes",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/2/20/Whatever_It_Takes_Imagine_Dragons.jpg",
+  },
+  {
+    id: 67,
+    title: "Radioactive",
+    artist: "Imagine Dragons",
+    description:
+      "Radioactive is a breakthrough hit by Imagine Dragons. Released in 2012, it combines electronic and rock elements, creating a distinctive sound that propelled the band to worldwide success.",
+    url: radioactive,
+    lyrics: [
+      { verse: ["Oh, oh, oh", "Oh, oh, oh", "Oh, oh, oh", "Oh"] },
+      {
+        verse: [
+          "I'm waking up to ash and dust",
+          "I wipe my brow and I sweat my rust",
+          "I'm breathing in the chemicals",
+        ],
+      },
+      {
+        verse: [
+          "I'm breaking in, shaping up",
+          "Then checking out on the prison bus",
+          "This is it, the apocalypse, ooh",
+        ],
+      },
+      {
+        verse: [
+          "I'm waking up",
+          "I feel it in my bones",
+          "Enough to make my system blow",
+          "Welcome to the new age, to the new age",
+          "Welcome to the new age, to the new age",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+        ],
+      },
+      {
+        verse: [
+          "I raise my flag and dye my clothes",
+          "It's a revolution, I suppose",
+          "We're painted red to fit right in, ooh",
+        ],
+      },
+      {
+        verse: [
+          "I'm breaking in, shaping up",
+          "Then checking out on the prison bus",
+          "This is it, the apocalypse, ooh",
+        ],
+      },
+      {
+        verse: [
+          "I'm waking up",
+          "I feel it in my bones",
+          "Enough to make my system blow",
+          "Welcome to the new age, to the new age",
+          "Welcome to the new age, to the new age",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+        ],
+      },
+      {
+        verse: [
+          "All systems go",
+          "The Sun hasn't died",
+          "Deep in my bones",
+          "Straight from inside",
+        ],
+      },
+      {
+        verse: [
+          "I'm waking up",
+          "I feel it in my bones",
+          "Enough to make my system blow",
+          "Welcome to the new age, to the new age",
+          "Welcome to the new age, to the new age",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh",
+          "I'm radioactive, radioactive",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000062217542-4r6wur-t500x500.jpg",
+  },
+  {
+    id: 68,
+    title: "Crushed",
+    artist: "Imagine Dragons",
+    description:
+      "Crushed is an intense rock track by Imagine Dragons. Released in 2021, it features heavy guitars, powerful drums, and passionate vocals, expressing the emotions of pain, resilience, and triumph.",
+    url: crushed,
+    lyrics: [
+      {
+        verse: [
+          "I suppose she's supposed to be",
+          "Exactly what they want her to be",
+          "So pretty and pink, necklace and ring",
+          "Don't be heard, just be seen",
+          "But that's not who I am",
+        ],
+      },
+      {
+        verse: [
+          "She said: I can feel, I can feel too much",
+          "And I wish they'd go away, go away",
+          "'Cause it's crushing me",
+          "It's crushing me",
+        ],
+      },
+      {
+        verse: [
+          "Don't you know that you don't have a say?",
+          "And the scarlet A on your neck, so pretty in red",
+          "Eyes are all dead",
+          "What they haven't said",
+          "Gets stuck in your head",
+        ],
+      },
+      {
+        verse: [
+          "The silence is deafening",
+          "And your heart is bleeding out",
+          "But they don't care, no, they never cared at all",
+          "They never cared at all",
+          "That's not who I am",
+        ],
+      },
+      {
+        verse: [
+          "She said: I can feel, I can feel too much",
+          "And I wish they'd go away, go away",
+          "'Cause it's crushing me",
+          "It's crushing me",
+          "It's crushing me",
+          "It's crushing me",
+        ],
+      },
+      {
+        verse: [
+          "She just wants to be free",
+          "Take it or leave it",
+          "Eyes like the sunrise",
+          "Colorful rainbow",
+        ],
+      },
+      {
+        verse: [
+          "She said: I can feel, I can feel too much",
+          "And I wish it'd go away, go away",
+          "'Cause they're crushing me",
+          "They're crushing me, oh",
+        ],
+      },
+      {
+        verse: [
+          "(I can feel, I can feel too much)",
+          "They're crushing me",
+          "(I can feel, I can feel too much) oh, they're crushing me",
+          "(I can feel, I can feel) crushing me",
+        ],
+      },
+      { verse: ["Crash down on me", "Crash down on me"] },
+    ],
+    cover:
+      "https://preview.redd.it/6a3dt4mxlld91.jpg?width=1080&crop=smart&auto=webp&s=97f75210b84b3e99cb793911b505ff889b9485d6",
+  },
+  {
+    id: 69,
+    title: "Playground",
+    artist: "Bea Miller",
+    description:
+      "Playground is an energetic pop track by Bea Miller. Released in 2019, it combines catchy hooks, playful lyrics, and Miller's dynamic vocals, creating a fun and empowering listening experience.",
+    url: playground,
+    lyrics: [
+      {
+        verse: [
+          "Who told you what was down here?",
+          "Come along if you wanted a peak",
+          "I've seen your face around here",
+          "Come alone, tell me under the table",
+          "What do you seek?",
+        ],
+      },
+      {
+        verse: [
+          "Welcome to the playground, follow me",
+          "Tell me your nightmares and fantasies",
+          "Sink into the wasteland underneath",
+          "Stay for the night, I'll sell you a dream",
+        ],
+      },
+      { verse: ["Oh-oh, woah", "Welcome to the playground"] },
+      {
+        verse: [
+          "What brings you to the lost and found, dear?",
+          "Won't you pull up a seat?",
+          "Everybody got a price 'round here to play",
+          "Make me an offer, what will it be?",
+          "Oh, what will it be?",
+        ],
+      },
+      {
+        verse: [
+          "Welcome to the playground, follow me",
+          "Tell me your nightmares and fantasies",
+          "Sink into the wasteland underneath",
+          "Stay for the night, I'll sell you a dream",
+        ],
+      },
+      {
+        verse: [
+          "Oh-oh, woah",
+          "Welcome to the playground",
+          "Oh-oh, woah",
+          "Welcome to the playground",
+        ],
+      },
+      {
+        verse: [
+          "Oh",
+          "Ah, mm",
+          "Welcome to the playground",
+          "Ooh-woah",
+          "Welcome to the playground",
+        ],
+      },
+      {
+        verse: [
+          "Welcome to the playground, follow me",
+          "Tell me your nightmares and fantasies (tell me your nightmares)",
+          "Sink into the wasteland underneath",
+          "Stay for the night, I'll sell you a dream",
+        ],
+      },
+    ],
+    cover:
+      "https://static.wikia.nocookie.net/beamiller8740/images/e/e6/Playground.jpeg",
+  },
+  {
+    id: 70,
+    title: "QUEEN",
+    artist: "Loren Gray",
+    description:
+      "QUEEN is an empowering pop track by Loren Gray. Released in 2018, it celebrates self-confidence, inner strength, and embracing one's individuality.",
+    url: queen,
+    lyrics: [
+      {
+        verse: [
+          "Cross my heart and hope to die",
+          "I don't need another guy",
+          "To fight my battles, to overshadow me",
+          "Don't ya know I'm dangerous?",
+          "Fire burnin' in my blood",
+          "I got this handled, I don't need rescuin'",
+        ],
+      },
+      {
+        verse: [
+          "You can call me a princess all you like",
+          "'Cause you love to keep me helpless by your side",
+          "But it ain't what I want, I'ma show you",
+          "I'ma show you",
+        ],
+      },
+      {
+        verse: [
+          "How to treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+          "So treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+        ],
+      },
+      {
+        verse: [
+          "Eyes on me like I'm a prize",
+          "But you better recognize",
+          "I'm not your angel 'cause I belong to me",
+        ],
+      },
+      {
+        verse: [
+          "You can call me a princess all you like",
+          "'Cause you love to keep me helpless, by your side",
+          "But it ain't what I want, I'ma show you",
+          "I'ma show you",
+        ],
+      },
+      {
+        verse: [
+          "How to treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+          "So treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+        ],
+      },
+      {
+        verse: [
+          "You can call me a princess all you like",
+          "'Cause you love to keep me helpless, by your side",
+          "But it ain't what I want, I'ma show you",
+        ],
+      },
+      {
+        verse: [
+          "How to treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+          "So treat me like a queen (yeah, yeah, yeah, yeah)",
+          "(Yeah, yeah, yeah, yeah, yeah)",
+          "Boy, you better bow down on your knees",
+          "Can I get a: Yes, your majesty?",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/1b948581013d2e69ea1b1bce846df221/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 71,
+    title: "queen of broken hearts",
+    artist: "Blackbear",
+    description:
+      "queen of broken hearts is a moody pop track by Blackbear. Released in 2020, it delves into themes of heartbreak, resilience, and self-reflection, with Blackbear's introspective lyrics and atmospheric production.",
+    url: queenOfBrokenHearts,
+    lyrics: [
+      {
+        verse: [
+          "I'm the queen of broken hearts",
+          "Break you in a thousand parts",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, you need to chill, girl, don't play me",
+          "I'm too far gone, you can't save me",
+          "And I don't care, fucking hate me",
+          "I popped a pill and I'm faded",
+          "Take anything, make it about me",
+          "It's a heavy crown, it might drown me",
+          "I know it sucks bein' around me",
+          "So does life, don't me, don't doubt me",
+        ],
+      },
+      {
+        verse: [
+          "I'm the queen of broken hearts",
+          "Break you in a thousand parts",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+          "I'm the queen of broken hearts",
+          "Break you in a thousand parts",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+          "I'm the queen of broken hearts",
+          "Left you with a thousand scars",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+        ],
+      },
+      {
+        verse: [
+          "Blocked my post and my story",
+          "I'm sorry, I can be annoying",
+          "I go ghost without warning",
+          "Popped a pill, now I'm snoring",
+          "Material girl, you can't afford me",
+          "This conversation got boring",
+          "You're so two thousand before me",
+          "You're in the past, you're yesterday morning",
+        ],
+      },
+      {
+        verse: [
+          "I'm the queen of broken hearts",
+          "Break you in a thousand parts",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+          "I'm the queen of broken hearts",
+          "Break you in a thousand parts",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+          "I'm the queen of broken hearts",
+          "Left you with a thousand scars",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+        ],
+      },
+      {
+        verse: [
+          "Tell me, tell me I'm the worst",
+          "Make you cry and make you hurt",
+          "I'm the queen, bow down to me",
+          "I will leave you out to bleed",
+          "Tell me, tell me I'm the worst",
+          "Make you cry and make you hurt",
+          "I'm the queen, bow down to me",
+          "I will leave you out to bleed",
+        ],
+      },
+      {
+        verse: [
+          "I'm the queen of broken hearts (yeah)",
+          "Break you in a thousand parts (a thousand parts)",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+          "I'm the queen of broken hearts (of broken hearts)",
+          "Left you with a thousand scars",
+          "Used to be a shooting star",
+          "When did I become so dark?",
+        ],
+      },
+      {
+        verse: [
+          "(When did I, when did I become so dark?)",
+          "(When did I, when did I become so dark?)",
+          "(When did I, when did I become so dark?)",
+          "(When did I, when did I become so dark?)",
+          "(Used to be a shooting star)",
+          "When did I become so dark?",
+        ],
+      },
+    ],
+    cover:
+      "https://images.universal-music.de/img/assets/500/500060/4/550/queen-of-broken-hearts-cover.png",
+  },
+  {
+    id: 72,
+    title: "The Hills",
+    artist: "The Weeknd",
+    description:
+      "The Hills is a dark and seductive R&B track by The Weeknd. Released in 2015, it features The Weeknd's haunting vocals, atmospheric production, and introspective lyrics, exploring themes of fame, love, and desire.",
+    url: theHills,
+    lyrics: [
+      { verse: ["Yeah", "Yeah", "Yeah"] },
+      {
+        verse: [
+          "Your man on the road, he doin' promo",
+          "You said: Keep our business on the low-low",
+          "I'm just tryna get you out the friend zone",
+          "'Cause you look even better than the photos",
+        ],
+      },
+      {
+        verse: [
+          "I can't find your house, send me the info",
+          "Drivin' through the gated residential",
+          "Found out I was comin', sent your friends home",
+          "Keep on tryna hide it, but your friends know",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time that I'll be by your side",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, yeah",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time I'd ever call you mine",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, babe",
+        ],
+      },
+      {
+        verse: [
+          "I'ma let you know and keep it simple",
+          "Tryna keep it up don't seem so simple",
+          "I just fucked two bitches 'fore I saw you",
+          "And you gon' have to do it at my tempo",
+        ],
+      },
+      {
+        verse: [
+          "Always tryna send me off to rehab",
+          "Drugs started feelin' like it's decaf",
+          "I'm just tryna live life for the moment",
+          "And all these motherfuckers want a relapse",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time that I'll be by your side",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, yeah",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time I'd ever call you mine",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, babe",
+        ],
+      },
+      {
+        verse: [
+          "Hills have eyes, the hills have eyes",
+          "Who are you to judge?",
+          "Who are you to judge?",
+        ],
+      },
+      {
+        verse: [
+          "Hide your lies (hide your lies)",
+          "Girl, hide your lies (hide your lies, oh, baby)",
+          "Only you to trust (only you)",
+          "Only you",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time that I'll be by your side",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, yeah",
+        ],
+      },
+      {
+        verse: [
+          "I only call you when it's half-past five",
+          "The only time I'd ever call you mine",
+          "I only love it when you touch me, not feel me",
+          "When I'm fucked up, that's the real me",
+          "When I'm fucked up, that's the real me, babe",
+        ],
+      },
+      {
+        verse: [
+          "(Ewedihalehu)",
+          "(Yene konjo, ewedihalehu)",
+          "(Yene fikir, fikir, fikir, fikir)",
+          "(Yene fikir, fikir, fikir, fikir)",
+        ],
+      },
+      { verse: ["(Ewedihalehu)", "(Yene konjo, ewedihalehu)"] },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/a/a5/Capa_de_The_Hills.jpg",
+  },
+  {
+    id: 73,
+    title: "Habits",
+    artist: "Tove lo",
+    description:
+      "Habits is a catchy pop track by Tove Lo. Released in 2013, it combines addictive melodies, relatable lyrics, and Tove Lo's captivating vocals, exploring the theme of using vices to cope with heartbreak.",
+    url: habits,
+    lyrics: [
+      { verse: ["Oh, oh", "Oh, oh", "Oh, oh"] },
+      {
+        verse: [
+          "I eat my dinner in my bathtub, then I go to sex clubs",
+          "Watchin' freaky people gettin' it on",
+          "It doesn't make me nervous, if anything, I'm restless",
+          "Yeah, I've been around and I've seen it all",
+        ],
+      },
+      {
+        verse: [
+          "I get home, I got the munchies",
+          "Binge on all my Twinkies",
+          "Throw up in the tub, then I go to sleep",
+          "And I drank up all my money, dazed and kinda lonely",
+        ],
+      },
+      {
+        verse: [
+          "You're gone and I gotta stay high all the time",
+          "To keep you off my mind, ooh, ooh",
+          "High all the time",
+          "To keep you off my mind, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Spend my days locked in a haze",
+          "Tryna forget you, babe, I fall back down",
+          "Gotta stay high all my life to forget I'm missin' you, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Pick up daddies at the playground",
+          "How I spend my daytime",
+          "Loosen up their frown, make 'em feel alive",
+          "I make it fast and greasy",
+          "I'm numb and way too easy",
+        ],
+      },
+      {
+        verse: [
+          "You're gone and I gotta stay high all the time",
+          "To keep you off my mind, ooh, ooh",
+          "High all the time",
+          "To keep you off my mind, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Spend my days locked in a haze",
+          "Tryna forget you, babe, I fall back down",
+          "Gotta stay high all my life to forget I'm missin' you, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Stayin' in my play pretend",
+          "Where the fun ain't got no end, oh",
+          "Can't go home alone again",
+          "Need someone to numb the pain, oh",
+        ],
+      },
+      {
+        verse: [
+          "Stayin' in my play pretend",
+          "Where the fun ain't got no end, oh",
+          "Can't go home alone again",
+          "Need someone to numb the pain",
+        ],
+      },
+      {
+        verse: [
+          "You're gone and I gotta stay high all the time",
+          "To keep you off my mind, ooh, ooh",
+          "High all the time",
+          "To keep you off my mind, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Spend my days locked in a haze",
+          "Tryna forget you, babe, I fall back down",
+          "Gotta stay high all my life, to forget I'm missin' you, ooh, ooh",
+        ],
+      },
+      { verse: ["Oh, oh"] },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000092196403-btp8dq-t500x500.jpg",
+  },
+  {
+    id: 74,
+    title: "Call Me By Your Name",
+    artist: "Lil Nas X",
+    description:
+      "Call Me By Your Name is a genre-blending track by Lil Nas X. Released in 2021, it combines elements of hip-hop and pop, showcasing Lil Nas X's unique style and charismatic delivery.",
+    url: callMeByYourName,
+    lyrics: [
+      {
+        verse: [
+          "I caught it bad yesterday",
+          "You hit me with a call to your place",
+          "Ain't been out in a while anyway",
+          "Was hopin' I could catch you throwin' smiles in my face",
+        ],
+      },
+      {
+        verse: [
+          "Romantic talkin'? You don't even have to try",
+          "You're cute enough to fuck with me tonight",
+          "Lookin' at the table, all I see is weed and white",
+          "Baby, you livin' the life, but nigga, you ain't livin' right",
+        ],
+      },
+      {
+        verse: [
+          "Cocaine and drinkin' with your friends",
+          "You live in the dark, boy, I cannot pretend",
+          "I'm not fazed, only here to sin",
+          "If Eve ain't in your garden, you know that you can",
+        ],
+      },
+      {
+        verse: [
+          "Call me when you want, call me when you need",
+          "Call me in the morning, I'll be on the way",
+          "Call me when you want, call me when you need",
+          "Call me out by your name, I'll be on the way like",
+        ],
+      },
+      { verse: ["Mmm, mmmm, mmm", "Mmm, mmmm, mmm"] },
+      {
+        verse: [
+          "(Ayy, ayy)",
+          "I wanna sell what you're buyin'",
+          "I wanna feel on your ass in Hawaii",
+          "I want that jet lag from fuckin' and flyin'",
+          "Shoot a child in your mouth while I'm ridin'",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, why me?",
+          "A sign of the times every time that I speak",
+          "A dime and a nine, it was mine every week",
+          "What a time, an incline, God was shinin' on me",
+        ],
+      },
+      {
+        verse: [
+          "Now I can't leave",
+          "And now I'm actin' hella elite",
+          "Never want the niggas that's in my league",
+          "I wanna fuck the ones I envy, I envy",
+        ],
+      },
+      {
+        verse: [
+          "Cocaine and drinkin' with your friends",
+          "You live in the dark, boy, I cannot pretend",
+          "I'm not fazed, only here to sin",
+          "If Eve ain't in your garden, you know that you can",
+        ],
+      },
+      {
+        verse: [
+          "Call me when you want, call me when you need",
+          "Call me in the morning, I'll be on the way",
+          "Call me when you want, call me when you need",
+          "Call me out by your name, I'll be on the way like",
+        ],
+      },
+      {
+        verse: [
+          "Oh, call me by your name",
+          "Tell me you love me in private",
+          "Call me by your name",
+          "I do not care if you're lying",
+        ],
+      },
+      {
+        verse: [
+          "If you want me",
+          "Call me, I'll drop everything",
+          "Don't need your name",
+          "'Cause I don't have to say it",
+          "Fuck it, let's try it",
+        ],
+      },
+      { verse: ["Call me when you", "Just call me when you need me"] },
+      {
+        verse: [
+          "Oh, call me by your name",
+          "Tell me you love me in private",
+          "Call me by your name",
+          "I do not care if you're lying",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/e/e6/Montero_%28Call_Me_by_Your_Name%29.png",
+  },
+  {
+    id: 75,
+    title: "Youngblood",
+    artist: "5 Seconds Of Summer",
+    description:
+      "Youngblood is a catchy pop-rock track by 5 Seconds Of Summer. Released in 2018, it features infectious hooks, energetic guitars, and youthful lyrics, capturing the essence of teenage rebellion and love.",
+    url: youngblood,
+    lyrics: [
+      {
+        verse: [
+          "Remember the words you told me",
+          "Love me 'til the day I die",
+          "Surrender my everything",
+          "'Cause you made me believe you're mine",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, you used to call me baby",
+          "Now you're calling me by name",
+          "Takes one to know one, yeah",
+          "You beat me at my own damn game",
+        ],
+      },
+      {
+        verse: [
+          "You push and you push and I’m pulling away",
+          "Pulling away from you",
+          "I give and I give and I give and you take",
+          "Give and you take",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me out of your life",
+          "And I'm just a dead man walking tonight",
+          "But you need it, yeah, you need it all of the time",
+          "Yeah, ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me back in your life",
+          "So I'm just a dead man crawling tonight",
+          "'Cause I need it, yeah, I need it all of time",
+          "Yeah, ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Lately our conversations end",
+          "Like it's the last goodbye",
+          "Then one of us gets too drunk and",
+          "Calls about a hundred times",
+          "So, who you been calling baby?",
+          "Nobody could take my place",
+          "When you're looking at those strangers",
+          "Hope to God you see my face",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me out of your life",
+          "And I’m just a dead man walking tonight",
+          "But you need it, yeah, you need it all of the time",
+          "Yeah ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me back in your life",
+          "So I'm just a dead man crawling tonight",
+          "'Cause I need it, yeah, I need it all of time",
+          "Yeah, ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "You're push and push I’m pulling away",
+          "Pulling away from you",
+          "I'm give and give I'm give and you take",
+          "Give and you take",
+          "You’re running around and running I’m running away",
+          "Running away from you, ooh from you",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me out of your life",
+          "And I’m just a dead man walking tonight",
+          "But you need it, yeah, you need it all of the time",
+          "Yeah ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me back in your life",
+          "So I'm just a dead man crawling tonight",
+          "'Cause I need it, yeah, I need it all of time",
+          "Yeah ooh, ooh, ooh",
+        ],
+      },
+      {
+        verse: [
+          "You're push and push I’m pulling away",
+          "Pulling away from you",
+          "I'm give and give I'm give and you take",
+          "Give and you take",
+        ],
+      },
+      {
+        verse: [
+          "Youngblood",
+          "Say you want me, say you want me out of your life",
+          "And I’m just a dead man walking tonight",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/e/ea/5_Seconds_of_Summer_Youngblood.png",
+  },
+  {
+    id: 76,
+    title: "Angry Too",
+    artist: "Lola Blanc",
+    description:
+      "Angry Too is a powerful pop track by Lola Blanc. Released in 2018, it delves into themes of anger, frustration, and empowerment, with Blanc's passionate vocals and honest lyrics.",
+    url: angryToo,
+    lyrics: [
+      {
+        verse: [
+          "I buried the unseemly urges",
+          "Deep down in the ground with the roots",
+          "But it's all coming up to the surface",
+          "Maybe it's getting ready to bloom",
+        ],
+      },
+      {
+        verse: [
+          "And I don't wanna be a monster in the making",
+          "I don't wanna be more bitter than sweet",
+          "I don't know how to be just standing by blankly",
+          "Not getting angry",
+        ],
+      },
+      {
+        verse: [
+          "'Cause another and another coming up out of the gutter",
+          "Till I'm drowning in an ocean of entitled motherfuckers",
+          "And they're pushing all my buttons",
+          "But they never seem to wonder why",
+          "Another and another, ask each other",
+        ],
+      },
+      {
+        verse: [
+          "Does it get your blood boiling, does it make you see red?",
+          "Do you wanna destroy it, does it get in your head?",
+          "'Cause it gets my blood boiling and I’m coming unglued",
+          "It would hit you like poison if you knew what I knew",
+          "You would be angry too",
+        ],
+      },
+      {
+        verse: [
+          "I'm seeing through crimson sunglasses",
+          "I'm breathing and counting to ten",
+          "I guess I'm out of free passes, they'll pay if it happens again",
+          "And I don't wanna drink the venom they made me",
+          "I don't wanna be controlled by the past",
+          "Boy if you were me, could you really blame me?",
+          "Would make you crazy",
+        ],
+      },
+      {
+        verse: [
+          "'Cause another and another coming up out of the gutter",
+          "Till I'm drowning in an ocean of entitled motherfuckers",
+          "And they're pushing all my buttons",
+          "But they never seem to wonder why",
+          "Another and another, ask each other",
+        ],
+      },
+      {
+        verse: [
+          "Does it get your blood boiling, does it make you see red?",
+          "Do you wanna destroy it, does it get in your head?",
+          "Cause it gets my blood boiling and I’m coming unglued",
+          "It would hit you like poison if you knew what I knew",
+          "You would be angry",
+        ],
+      },
+      {
+        verse: [
+          "Calm down girl, why you so mad?",
+          "Why's your heart gone rotten",
+          "Oh, good girl, why you upset?",
+          "Guess they have forgotten what they did",
+        ],
+      },
+      {
+        verse: [
+          "Does it get your blood boiling?",
+          "Does it make you see red?",
+          "Do you wanna destroy it?",
+          "Does it get in your head?",
+        ],
+      },
+      {
+        verse: [
+          "'Cause it gets my blood boiling and I’m coming unglued",
+          "It would hit you like poison if you knew what I knew",
+          "You would be angry, you would be angry",
+          "You would be angry, you would be angry too",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/ebaacb945076ce08e67973168a2dfade/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 77,
+    title: "Angels Like You",
+    artist: "Miley Cyrus",
+    description:
+      "Angels Like You is a heartfelt pop ballad by Miley Cyrus. Released in 2020, it showcases Cyrus' emotive vocals and vulnerable lyrics, expressing the complexities of love and relationships.",
+    url: angelsLikeYou,
+    lyrics: [
+      { verse: ["Oh, oh, oh"] },
+      {
+        verse: [
+          "Flowers in hand, waiting for me",
+          "Every word in poetry",
+          "Won't call me by name, only baby",
+          "The more that you give, the less that I need",
+        ],
+      },
+      { verse: ["Everyone says I look happy", "When it feels right"] },
+      {
+        verse: [
+          "I know that you're wrong for me",
+          "Gonna wish we never met on the day I leave",
+          "I brought you down to your knees",
+          "'Cause they say that misery loves company",
+          "It's not your fault I ruin everything",
+          "And it's not your fault I can't be what you need",
+          "Baby, angels like you can’t fly down hell with me",
+          "I'm everything they said I would be",
+          "La, la, la",
+          "I'm everything they said I would be",
+        ],
+      },
+      {
+        verse: [
+          "I'll put you down slow, waving goodbye",
+          "Before you let go, just one more time",
+          "Take off your clothes, pretend that it's fine",
+          "A little more hurt won't kill you tonight",
+        ],
+      },
+      { verse: ["Mother says you don't look happy", "Close your eyes"] },
+      {
+        verse: [
+          "I know that you're wrong for me",
+          "Gonna wish we never met on the day I leave",
+          "I brought you down to your knees",
+          "'Cause they say that misery loves company",
+          "And it's not your fault I ruin everything",
+          "It is not your fault I can't be what you need",
+          "Baby, angels like you can’t fly down hell with me",
+          "I'm everything they said I would be",
+          "La la la, la la la la",
+          "La la la",
+        ],
+      },
+      { verse: ["Oh, ah, aah", "Aah, ooh"] },
+      {
+        verse: [
+          "I know that you're wrong for me",
+          "Gonna wish we never met on the day I leave",
+          "I brought you down to your knees",
+          "'Cause they say that misery loves company",
+          "And it's not your fault I ruin everything (everything)",
+          "It is not your fault I can't be what you need",
+          "Baby, angels like you can’t fly down hell with me, oh",
+        ],
+      },
+      { verse: ["Angels like you can’t fly down hell with me"] },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-gxdQwKJslPkt-0-t500x500.jpg",
+  },
+  {
+    id: 78,
+    title: "Break My Heart",
+    artist: "Dua Lipa",
+    description:
+      "Break My Heart is an infectious pop track by Dua Lipa. Released in 2020, it combines catchy hooks, groovy beats, and Dua Lipa's confident vocals, creating a perfect anthem for the dancefloor.",
+    url: breakMyHeart,
+    lyrics: [
+      {
+        verse: [
+          "I've always been the one to say the first goodbye",
+          "Had to love and lose a hundred million times",
+          "Had to get it wrong to know just what I like",
+          "Now I'm falling",
+        ],
+      },
+      {
+        verse: [
+          "You say my name like I have never heard before",
+          "I'm indecisive, but, this time, I know for sure",
+          "I hope I'm not the only one that feels it all",
+          "Are you falling?",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I wonder, when you go, if I stay on your mind",
+          "Two can play that game, but you win me every time",
+          "Everyone before you was a waste of time",
+          "Yeah, you got me",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, break my heart",
+          "Ooh, break my heart",
+          "Ooh",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home (I would've stayed at home 'cause I–)",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no (oh no), I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/5/58/Dua_Lipa_-_Break_My_Heart.png",
+  },
+  {
+    id: 79,
+    title: "Sorry",
+    artist: "Halsey",
+    description:
+      "Sorry is a heartfelt pop ballad by Halsey. Released in 2020, it showcases Halsey's vulnerable side, with introspective lyrics and emotive vocals, capturing the complexities of relationships and apologies.",
+    url: sorry,
+    lyrics: [
+      {
+        verse: [
+          "I've always been the one to say the first goodbye",
+          "Had to love and lose a hundred million times",
+          "Had to get it wrong to know just what I like",
+          "Now I'm falling",
+        ],
+      },
+      {
+        verse: [
+          "You say my name like I have never heard before",
+          "I'm indecisive, but, this time, I know for sure",
+          "I hope I'm not the only one that feels it all",
+          "Are you falling?",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I wonder, when you go, if I stay on your mind",
+          "Two can play that game, but you win me every time",
+          "Everyone before you was a waste of time",
+          "Yeah, you got me",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, break my heart",
+          "Ooh, break my heart",
+          "Ooh",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home (I would've stayed at home 'cause I–)",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no (oh no), I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-tCaVSXAyeb7865QE-RyljYQ-t500x500.jpg",
+  },
+  {
+    id: 80,
+    title: "Teeth",
+    artist: "5 Seconds of Summer",
+    description:
+      "Teeth is a dark and edgy pop-rock track by 5 Seconds of Summer. Released in 2019, it combines gritty guitars, haunting melodies, and raw vocals, exploring themes of desire, obsession, and toxic relationships.",
+    url: teeth,
+    lyrics: [
+      {
+        verse: [
+          "I've always been the one to say the first goodbye",
+          "Had to love and lose a hundred million times",
+          "Had to get it wrong to know just what I like",
+          "Now I'm falling",
+        ],
+      },
+      {
+        verse: [
+          "You say my name like I have never heard before",
+          "I'm indecisive, but, this time, I know for sure",
+          "I hope I'm not the only one that feels it all",
+          "Are you falling?",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I wonder, when you go, if I stay on your mind",
+          "Two can play that game, but you win me every time",
+          "Everyone before you was a waste of time",
+          "Yeah, you got me",
+        ],
+      },
+      {
+        verse: [
+          "Centre of attention",
+          "You know you can get whatever you want from me",
+          "Whenever you want it, baby",
+          "It's you in my reflection",
+          "I'm afraid of all the things you could do to me",
+          "If I would've known it, baby",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no, I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Ooh, break my heart",
+          "Ooh, break my heart",
+          "Ooh",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "I would've stayed at home",
+          "'Cause I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home (I would've stayed at home 'cause I–)",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+      {
+        verse: [
+          "Oh no (oh no), I was doing better alone",
+          "But when you said: Hello",
+          "I knew that was the end of it all",
+          "I should've stayed at home",
+          "'Cause now there ain't no letting you go",
+          "Am I falling in love with the one that could break my heart?",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/d/da/5_Seconds_of_Summer_-_Teeth.png",
+  },
+  {
+    id: 81,
+    title: "My Oh My",
+    artist: "Camila Cabello",
+    description:
+      "My Oh My is a catchy pop track by Camila Cabello. Released in 2019, it features infectious hooks, playful lyrics, and Cabello's charismatic vocals, creating a fun and memorable listening experience.",
+    url: myOhMy,
+    lyrics: [
+      {
+        verse: [
+          "They say he likes a good time (my, oh, my)",
+          "He comes alive at midnight (every night)",
+          "My mama doesn't trust him (my, oh, my)",
+          "He's only here for one thing, but (so am I)",
+        ],
+      },
+      {
+        verse: [
+          "Yeah, a little bit older, a black leather jacket",
+          "A bad reputation, insatiable habits",
+          "He was onto me, one look and I couldn't breathe, yeah",
+          "I said, if he kissed me, I might let it happen (oh)",
+        ],
+      },
+      {
+        verse: [
+          "I swear on my life that I've been a good girl (oh)",
+          "Tonight, I don't wanna be her",
+        ],
+      },
+      {
+        verse: [
+          "They say he likes a good time (my, oh, my)",
+          "He comes alive at midnight (every night)",
+          "My mama doesn't trust him (my, oh, my)",
+          "He's only here for one thing, but (let's go; so am I)",
+        ],
+      },
+      {
+        verse: [
+          "Look, I'm the type to make her turn on her daddy (oh, yeah)",
+          "DaBaby make her forget what she learned from her daddy",
+          "I don't be tripping on lil' shawty, I let her do whatever she please",
+          "I don't be kissing on lil' shawty, she don't be kissing on me either",
+          "She came with you, then left with me",
+          "I went up a point, let's call it even (yeah, yeah)",
+          "Don't like the car she in, gon' end up buyin' her a new Bimmer (let's go)",
+          "That girl know what she want, she make me take it off when she see me (let's go)",
+          "She say I make her wet whenever my face pop up on TV",
+          "I had to say: No disrespect, gotta do it safe or you can keep it",
+          "Pop star, I'm fresh up out the trap and I'm going Bieber",
+          "She know I'm a call away, she can drop a pin and I'd come meet her",
+          "Stand next to me, you gon' end up catchin' a fever (yeah, yeah)",
+          "I'm hot",
+        ],
+      },
+      {
+        verse: [
+          "I swear on my life that I've been a good girl (good girl, good girl)",
+          "Tonight, I don't wanna be her",
+        ],
+      },
+      {
+        verse: [
+          "They say he likes a good time (my, oh, my)",
+          "He comes alive at midnight (every time)",
+          "(He comes alive, oh, every night)",
+          "My mama doesn't trust him (my, oh, my)",
+          "He's only here for one thing, but (so am I)",
+        ],
+      },
+      {
+        verse: [
+          "My, my, my, my, my, oh, my",
+          "My mama doesn't trust you, baby",
+          "My, my, my, my, my, oh, my",
+          "And my daddy doesn't know you, no",
+          "My, my, my, my, my, oh, my (oh, my, my, my, oh, my)",
+          "My, my, my, my, my, oh, my (my, my, my, ooh)",
+        ],
+      },
+      {
+        verse: [
+          "They say he likes a good time (my, oh, my)",
+          "He comes alive at midnight (every night)",
+          "My mama doesn't trust him (my, oh, my)",
+          "He's only here for one thing, but (so am I)",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-GMaoqSPIEwz1KhHz-cyckuw-t500x500.jpg",
+  },
+  {
+    id: 82,
+    title: "Poker Face",
+    artist: "Lady Gaga",
+    description:
+      "Poker Face is a pop classic by Lady Gaga. Released in 2008, it became a global sensation with its infectious hooks, iconic chorus, and Gaga's unique blend of pop and dance music.",
+    url: pokerFace,
+    lyrics: [
+      {
+        verse: [
+          "I wanna hold 'em like they do in Texas, please",
+          "Fold 'em, let 'em hit me, raise it, baby, stay with me (I love it)",
+          "Love game intuition, play the cards with spades to start",
+          "And after he's been hooked, I'll play the one that's on his heart",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh, oh, oh",
+          "I'll get him hot",
+          "Show him what I've got",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh, oh, oh",
+          "I'll get him hot",
+          "Show him what I've got",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "P-p-p-poker face, p-p-p-poker face",
+          "P-p-p-poker face, p-p-p-poker face",
+        ],
+      },
+      {
+        verse: [
+          "I wanna roll with him, a hard pair we will be",
+          "A little gambling is fun when you're with me (I love it)",
+          "Russian roulette is not the same without a gun",
+          "And baby, when it's love, if it's not rough, it isn't fun, fun",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh, oh, oh",
+          "I'll get him hot",
+          "Show him what I've got",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh, oh, oh",
+          "Oh, oh, oh, oh, oh, oh",
+          "I'll get him hot",
+          "Show him what I've got",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "P-p-p-poker face, p-p-p-poker face",
+          "P-p-p-poker face, p-p-p-poker face",
+        ],
+      },
+      {
+        verse: [
+          "I won't tell you that I love you",
+          "Kiss or hug you",
+          "'Cause I'm bluffin' with my muffin",
+          "I'm not lying, I'm just stunnin'",
+          "With my love-glue-gunnin'",
+          "Just like a chick in the casino",
+          "Take your bank before I pay you out",
+          "I promise this, promise this",
+          "Check this hand 'cause I'm marvelous",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "Can't read my, can't read my",
+          "No, he can't read my poker face",
+          "(She’s got me like nobody)",
+        ],
+      },
+      {
+        verse: [
+          "P-p-p-poker face, p-p-p-poker face",
+          "P-p-p-poker face, p-p-p-poker face",
+          "P-p-p-poker face, p-p-p-poker face",
+          "P-p-p-poker face, p-p-p-poker face",
+        ],
+      },
+    ],
+    cover:
+      "https://static.wikia.nocookie.net/ladygaga/images/5/5c/PokerFace%28DigitalCover%29.png",
+  },
+  {
+    id: 83,
+    title: "Walls Could Talk",
+    artist: "Halsey",
+    description:
+      "Walls Could Talk is an introspective pop track by Halsey. Released in 2017, it delves into themes of vulnerability, self-reflection, and the unspoken thoughts and emotions that exist within relationships.",
+    url: wallsCouldTalk,
+    lyrics: [
+      {
+        verse: [
+          "Been about three days and I'm comin' back",
+          "I'm about four minutes from a heart attack",
+          "And I think you make me a maniac",
+          "But you don't know, oh",
+        ],
+      },
+      {
+        verse: [
+          "Two years and we in between",
+          "But we both been here since we seventeen",
+          "Here we go, fist fight in a limousine",
+          "But they don't know",
+        ],
+      },
+      {
+        verse: [
+          "And we both hope there's something",
+          "But we bo-both keep fronting",
+          "And it's a closed discussion",
+          "And I'm thinking: Damn, if these walls could talk",
+        ],
+      },
+      {
+        verse: [
+          "(Oh, oh, oh) well, they'd be like",
+          "(Oh, oh, oh) shit is crazy, right?",
+          "(Oh, oh, oh) I ain't your baby no more",
+        ],
+      },
+      {
+        verse: [
+          "Been about two weeks since you went away",
+          "I'm about halfway through a Cabernet",
+          "There I go, I'm wastin' a Saturday",
+          "Sittin' at home",
+        ],
+      },
+      {
+        verse: [
+          "Told my new roommate not to let you in",
+          "But you're so damn good with a bobby pin",
+          "Now you gon' play me like a violin",
+          "Hittin' these notes",
+        ],
+      },
+      {
+        verse: [
+          "And we both hope there's something",
+          "But we bo-both keep fronting",
+          "And it's a closed discussion",
+          "And I'm thinking: Damn, if these walls could talk",
+        ],
+      },
+      {
+        verse: [
+          "(Oh, oh, oh) well, they'd be like",
+          "(Oh, oh, oh) shit is crazy, right?",
+          "(Oh, oh, oh) I ain't your baby no more",
+          "(Oh, oh, oh) hey",
+          "(Oh, oh, oh) no more",
+          "(Oh, oh, oh) I ain't your baby no more",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000227374166-madf5o-t500x500.jpg",
+  },
+  {
+    id: 84,
+    title: "Control",
+    artist: "Halsey",
+    description:
+      "Control is a powerful alternative pop track by Halsey. Released in 2015, it explores themes of mental health, self-empowerment, and breaking free from societal expectations.",
+    url: control,
+    lyrics: [
+      {
+        verse: [
+          "They send me away to find them a fortune",
+          "A chest filled with diamonds and gold",
+          "The house was awake",
+          "With shadows and monsters",
+          "The hallways, they echoed and growled",
+        ],
+      },
+      {
+        verse: [
+          "I sat alone in bed till the morning",
+          "I'm crying, they're coming for me",
+          "And I tried to hold these secrets inside me",
+          "My mind's like a deadly disease",
+        ],
+      },
+      {
+        verse: [
+          "I'm bigger than my body",
+          "I'm colder than this home",
+          "I'm meaner than my demons",
+          "I'm bigger than these bones",
+        ],
+      },
+      {
+        verse: [
+          "And all the kids cried out",
+          "Please, stop, you're scaring me",
+          "I can't help this awful energy",
+          "Goddamn right, you should be scared of me",
+          "Who is in control?",
+        ],
+      },
+      {
+        verse: [
+          "I paced around for hours, I'm empty",
+          "I jumped at the slightest of sounds",
+          "And I couldn't stand the person inside me",
+          "I turned all the mirrors around",
+        ],
+      },
+      {
+        verse: [
+          "I'm bigger than my body",
+          "I'm colder than this home",
+          "I'm meaner than my demons",
+          "I'm bigger than these bones",
+        ],
+      },
+      {
+        verse: [
+          "And all the kids cried out",
+          "Please, stop, you're scaring me",
+          "I can't help this awful energy",
+          "Goddamn right, you should be scared of me",
+          "Who is in control?",
+        ],
+      },
+      {
+        verse: [
+          "I'm well acquainted",
+          "With villains that live in my bed",
+          "They beg me to write them",
+          "So they'll never die when I'm dead",
+        ],
+      },
+      {
+        verse: [
+          "And I've grown familiar",
+          "With villains that live in my head",
+          "They beg me to write them",
+          "So I'll never die when I'm dead",
+        ],
+      },
+      {
+        verse: [
+          "I'm bigger than my body",
+          "I'm colder than this home",
+          "I'm meaner than my demons",
+          "I'm bigger than these bones",
+        ],
+      },
+      {
+        verse: [
+          "And all the kids cried out",
+          "Please, stop, you're scaring me",
+          "I can't help this awful energy",
+          "Goddamn right, you should be scared of me",
+          "Who is in control?",
+        ],
+      },
+      {
+        verse: [
+          "And all the kids cried out",
+          "Please, stop, you're scaring me",
+          "I can't help this awful energy",
+          "Goddamn right, you should be scared of me",
+          "Who is in control?",
+        ],
+      },
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-xylDmjQJq3abCgN3-M85PDA-t500x500.jpg",
+  },
+  {
+    id: 85,
+    title: "Bad Bitch",
+    artist: "Bebe Rexha",
+    description:
+      "Bad Bitch is an empowering pop track by Bebe Rexha. Released in 2020, it celebrates self-confidence, independence, and embracing one's individuality.",
+    url: badBitch,
+    lyrics: [
+      {
+        verse: [
+          "You're sayin' that you're tired of all your empty habits",
+          "You want something that's deeper 'cause you're over the generics",
+          "You're fuckin' with them basics when you really want the baddest",
+          "So come on, baby, get it, 'cause to miss it, it would be tragic",
+        ],
+      },
+      {
+        verse: [
+          "You say you want a bad bitch, baby, now you have it",
+          "Now you got a bad bitch, show me you can handle this",
+          "Say you want a bad bitch, baby, now you have it",
+          "Now you got the baddest, show me you can handle this",
+        ],
+      },
+      {
+        verse: [
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "Show me you can handle this",
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "Show me you can handle this",
+          "Ooh, yeah, yeah, yeah",
+          "Ooh, yeah, yeah, yeah",
+        ],
+      },
+      {
+        verse: [
+          "You know I can handle it",
+          "You know I can handle it",
+          "When you throw that thang back",
+          "At me like collateral",
+          "You be goin' all night",
+          "When you on that adderall",
+          "We be goin' all night",
+          "When you on that adderall",
+          "Bad bitch, bad bitch",
+          "You ain't never average",
+          "Get some double C's on your bag with the brass, oh",
+          "Bad bitch, bad bitch",
+          "You ain't never average",
+          "St. Laurent jeans with the St. Laurent bag too",
+        ],
+      },
+      {
+        verse: [
+          "You say you want a bad bitch, baby, now you have it",
+          "Now you got a bad bitch, show me you can handle this",
+          "Say you want a bad bitch, baby, now you have it",
+          "Now you got the baddest, show me you can handle this",
+        ],
+      },
+      {
+        verse: [
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "Show me you can handle this",
+          "Ooh, yeah, yeah, yeah",
+          "Ooh, yeah, yeah, yeah",
+        ],
+      },
+      {
+        verse: [
+          "I pay my own bills and I pay my own rent",
+          "'Cause I'm indepen-independent",
+          "I buy my own rings and I do my own things",
+          "'Cause I'm indepen-independent",
+          "I know it really hurts, I know it ain't fair",
+          "You're not allowed to touch, but you can stare",
+          "Know it really hurts, know it ain't fair",
+          "So keep sayin' your prayers",
+        ],
+      },
+      {
+        verse: [
+          "Say you want a bad bitch, baby, now you have it",
+          "Now you got a bad bitch, show me you can handle this",
+          "Say you want a bad bitch, baby, now you have it",
+          "Now you got the baddest, show me you can handle this",
+        ],
+      },
+      {
+        verse: [
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "(Bad bitch, bad bitch)",
+          "Show me you can handle this",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/bb3a8f846d989d707566104a53f62ff1/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 86,
+    title: "Savage",
+    artist: "Bahari",
+    description:
+      "Savage is a fierce pop track by Bahari. Released in 2019, it combines empowering lyrics, infectious hooks, and Bahari's captivating vocals, creating an anthem of strength and resilience.",
+    url: savage,
+    lyrics: [
+      {
+        verse: [
+          "I am the Sun, you know you need me",
+          "And you might get burned if you take too much",
+          "Don't get addicted 'cause, I'm gonna fade you like that rush",
+          "Is that blood on me or blush?",
+          "So what",
+        ],
+      },
+      {
+        verse: [
+          "You know I'm not a saint but I can make you pray",
+          "So get down on your knees, and give me a reason I should stay",
+          "Trapped inside this madness, I know you wanna have this",
+          "So I can take advantage",
+        ],
+      },
+      {
+        verse: [
+          "Savage, savage",
+          "When you touch me you take me to heaven",
+          "When you hold me my body's a weapon",
+          "If you think that you can save me, break me down, and tame me",
+          "Here's your chance to do some damage, savage",
+        ],
+      },
+      {
+        verse: [
+          "I am the tide, I know you're drowning",
+          "You're on a ride, be careful who you trust",
+          "Don't get it twisted 'cause, I could be really into us",
+          "Or I can leave you just because, because",
+        ],
+      },
+      {
+        verse: [
+          "You know I'm not a saint but I can make you pray",
+          "So get down on your knees, and give me a reason I should stay",
+          "Trapped inside this madness, I know you wanna have this",
+          "So I can take advantage",
+        ],
+      },
+      {
+        verse: [
+          "Savage, savage",
+          "When you touch me you take me to heaven",
+          "When you hold me my body is a weapon",
+          "If you think that you can save me, break me down, and tame me",
+          "Here's your chance to do some damage, savage, savage, savage",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/bb94816d49f1deda93fdfec69dadcfef/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 87,
+    title: "Bad Guy",
+    artist: "Billie Eilish",
+    description:
+      "Bad Guy is a breakthrough hit by Billie Eilish. Released in 2019, it showcases Eilish's unique style, combining whispered vocals, dark humor, and genre-blending production.",
+    url: badGuy,
+    lyrics: [
+      {
+        verse: [
+          "White shirt now red, my bloody nose",
+          "Sleepin', you're on your tippy toes",
+          "Creepin' around like no one knows",
+          "Think you're so criminal",
+          "Bruises on both my knees for you",
+          "Don't say thank you or please",
+          "I do what I want when I'm wanting to",
+          "My soul so cynical",
+        ],
+      },
+      {
+        verse: [
+          "So you're a tough guy",
+          "Like it really rough guy",
+          "Just can't get enough guy",
+          "Chest always so puffed guy",
+          "I'm that bad type",
+          "Make your mama sad type",
+          "Make your girlfriend mad type",
+          "Might seduce your dad type",
+          "I'm the bad guy, duh",
+        ],
+      },
+      { verse: ["I'm the bad guy"] },
+      {
+        verse: [
+          "I like it when you take control",
+          "Even if you know that you don't own me",
+          "I'll let you play the role",
+          "I'll be your animal",
+          "My mommy likes to sing along with me",
+          "But she won't sing this song",
+          "If she reads all the lyrics",
+          "She'll pity the men I know",
+        ],
+      },
+      {
+        verse: [
+          "So you're a tough guy",
+          "Like it really rough guy",
+          "Just can't get enough guy",
+          "Chest always so puffed guy",
+          "I'm that bad type",
+          "Make your mama sad type",
+          "Make your girlfriend mad type",
+          "Might seduce your dad type",
+          "I'm the bad guy, duh",
+        ],
+      },
+      {
+        verse: ["I'm the bad guy", "Duh", "I'm only good at bein' bad, bad"],
+      },
+      {
+        verse: [
+          "I like when you get mad",
+          "I guess I'm pretty glad that you're alone",
+          "You said she's scared of me?",
+          "I mean, I don't see what she sees",
+          "But maybe it's 'cause I'm wearing your cologne",
+        ],
+      },
+      {
+        verse: [
+          "I'm the bad guy",
+          "I'm the bad guy",
+          "Bad guy, bad guy",
+          "I'm the bad",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 88,
+    title: "Toxic",
+    artist: "Britney Spears",
+    description:
+      "Toxic is a pop classic by Britney Spears. Released in 2003, it became an instant hit with its seductive lyrics, catchy hooks, and iconic chorus.",
+    url: toxic,
+    lyrics: [
+      {
+        verse: [
+          "Baby, can't you see I'm calling?",
+          "A guy like you should wear a warning",
+          "It's dangerous",
+          "I'm falling",
+        ],
+      },
+      {
+        verse: [
+          "There's no escape, I can't wait",
+          "I need a hit, baby, give me it",
+          "You're dangerous",
+          "I'm loving it",
+        ],
+      },
+      {
+        verse: [
+          "Too high, can't come down",
+          "Losing my head, spinning 'round and 'round",
+          "Do you feel me now?",
+        ],
+      },
+      {
+        verse: [
+          "With a taste of your lips, I'm on a ride",
+          "You're toxic, I'm slipping under",
+          "With a taste of a poison paradise",
+          "I'm addicted to you",
+          "Don't you know that you're toxic?",
+        ],
+      },
+      {
+        verse: ["And I love what you do", "Don't you know that you're toxic?"],
+      },
+      {
+        verse: [
+          "It's getting late to give you up",
+          "I took a sip from my devil's cup",
+          "Slowly",
+          "It's taking over me",
+        ],
+      },
+      {
+        verse: [
+          "Too high, can't come down",
+          "It's in the air and it's all around",
+          "Can you feel me now?",
+        ],
+      },
+      {
+        verse: [
+          "With a taste of your lips, I'm on a ride",
+          "You're toxic, I'm slipping under",
+          "With a taste of a poison paradise",
+          "I'm addicted to you",
+          "Don't you know that you're toxic?",
+        ],
+      },
+      {
+        verse: [
+          "And I love what you do",
+          "Don't you know that you're toxic?",
+          "Don't you know that you're toxic?",
+        ],
+      },
+      {
+        verse: [
+          "(Taste of your lips, I'm on a ride)",
+          "You're toxic, I'm slipping under",
+          "With a taste of a poison paradise",
+          "I'm addicted to you",
+          "Don't you know that you're toxic?",
+        ],
+      },
+      {
+        verse: [
+          "With a taste of your lips, I'm on a ride",
+          "You're toxic, I'm slipping under (toxic)",
+          "With a taste of a poison paradise",
+          "I'm addicted to you",
+          "Don't you know that you're toxic?",
+        ],
+      },
+      {
+        verse: [
+          "Intoxicate me now, with your loving now",
+          "I think I'm ready now (I think I'm ready now)",
+          "Intoxicate me now, with your loving now",
+          "I think I'm ready now",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/en/2/21/Britney_Spears_Toxic.png",
+  },
+  {
+    id: 89,
+    title: "Use Me",
+    artist: "Alec Benjamin",
+    description:
+      "Use Me is a heartfelt pop track by Alec Benjamin. Released in 2018, it combines introspective lyrics, delicate melodies, and Benjamin's emotive vocals, creating a deeply personal and relatable listening experience.",
+    url: useMe,
+    lyrics: [
+      {
+        verse: [
+          "My friends feel it's their appointed duty",
+          "They keep trying to tell me all you want to do is use me",
+          "But my answer yeah to all that use me stuff",
+          "Is I wanna spread the news that if it feels this good getting used",
+          "Oh you just keep on using me until you use me up",
+          "Until you use me up",
+        ],
+      },
+      {
+        verse: [
+          "My brother sit me right down and he talked to me",
+          "He told me that I ought not to let you just walk on me",
+          "And I'm sure he meant well yeah but when our talk was through",
+          "I said brother if you only knew you'd wish that you were in my shoes",
+          "You just keep on using me until you use me up",
+          "Until you use me up",
+        ],
+      },
+      {
+        verse: [
+          "Oh sometimes yeah it's true you really do abuse me",
+          "You get in a crowd of high class people and then you act real rude to me",
+          "But oh baby baby baby baby when you love me I can't get enough",
+          "I and I wanna spread the news that if it feels this good getting used",
+          "Oh you just keep on using me until you use me up",
+          "Until you use me up",
+        ],
+      },
+      {
+        verse: [
+          "Talking about you using me but it all depends on what you do",
+          "It ain't too bad the way you're using me",
+          "Cause I sure am using you to do the things you do",
+          "Ah ha to do the things you do",
+        ],
+      },
+    ],
+    cover: "https://m.media-amazon.com/images/I/A1c9LDGExmL._AC_SX679_.jpg",
+  },
+  {
+    id: 90,
+    title: "Gasoline",
+    artist: "Halsey",
+    description:
+      "Gasoline is a dark and atmospheric pop track by Halsey. Released in 2015, it delves into themes of emotional turmoil, vulnerability, and the need for self-expression.",
+    url: gasoline,
+    lyrics: [
+      {
+        verse: [
+          "Are you insane like me?",
+          "Been in pain like me?",
+          "Bought a hundred dollar bottle of champagne like me",
+          "Just to pour that motherfucker down the drain like me?",
+          "Would you use your water bill to dry the stain like me?",
+        ],
+      },
+      {
+        verse: [
+          "Are you high enough without the Mary Jane like me?",
+          "Do you tear yourself apart to entertain like me?",
+          "Do the people whisper ‘bout you on the train like me?",
+          "Saying that you shouldn't waste your pretty face like me?",
+        ],
+      },
+      { verse: ["And all the people say"] },
+      {
+        verse: [
+          "You can’t wake up, this is not a dream",
+          "You're part of a machine, you are not a human being",
+          "With your face all made up, living on a screen",
+          "Low on self esteem, so you run on gasoline",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh",
+          "I think there’s a flaw in my code",
+          "Oh, oh, oh",
+          "These voices won’t leave me alone",
+          "Well, my heart is gold and my hands are cold",
+        ],
+      },
+      {
+        verse: [
+          "Are you deranged like me?",
+          "Are you strange like me?",
+          "Lighting matches just to swallow up the flame like me?",
+          "Do you call yourself a fucking hurricane like me?",
+          "Pointing fingers 'cause you’ll never take the blame like me?",
+        ],
+      },
+      { verse: ["And all the people say"] },
+      {
+        verse: [
+          "You can’t wake up, this is not a dream",
+          "You're part of a machine, you are not a human being",
+          "With your face all made up, living on a screen",
+          "Low on self esteem, so you run on gasoline",
+        ],
+      },
+      {
+        verse: [
+          "Oh, oh, oh",
+          "I think there’s a flaw in my code",
+          "Oh, oh, oh",
+          "These voices won’t leave me alone",
+          "Well, my heart is gold and my hands are cold",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-000147892779-107hy9-t500x500.jpg",
+  },
+  {
+    id: 91,
+    title: "COPYCAT",
+    artist: "Billie Eilish",
+    description:
+      "COPYCAT is a bold and edgy pop track by Billie Eilish. Released in 2017, it showcases Eilish's unique style, combining whispered vocals, eerie production, and provocative lyrics.",
+    url: copycat,
+    lyrics: [
+      {
+        verse: [
+          "Don't be cautious, don't be kind",
+          "You committed, I'm your crime",
+          "Push my button anytime",
+          "You got your finger on the trigger, but your trigger finger's mine",
+        ],
+      },
+      {
+        verse: [
+          "Silver dollar, golden flame",
+          "Dirty water, poison rain",
+          "Perfect murder, take your aim",
+          "I don't belong to anyone, but everybody knows my name",
+        ],
+      },
+      {
+        verse: [
+          "By the way, you've been uninvited",
+          "'Cause all you say are all the same things I did",
+        ],
+      },
+      {
+        verse: [
+          "Copycat tryna cop my manner",
+          "Watch your back when you can't watch mine",
+          "Copycat tryna cop my glamour",
+          "Why so sad, bunny? Can't have mine",
+        ],
+      },
+      {
+        verse: [
+          "Call me calloused, call me cold",
+          "You're italic, I'm in bold",
+          "Call me cocky, watch your tone",
+          "You better love me, 'cause you're just a clone",
+        ],
+      },
+      {
+        verse: [
+          "By the way, you've been uninvited",
+          "'Cause all you say are all the same things I did",
+        ],
+      },
+      {
+        verse: [
+          "Copycat tryna cop my manner",
+          "Watch your back when you can't watch mine",
+          "Copycat tryna cop my glamour",
+          "Why so sad, bunny? Can't have mine",
+        ],
+      },
+      {
+        verse: [
+          "Mine",
+          "I would hate to see you go",
+          "Hate to be the one that told you so",
+          "You just crossed the line",
+          "You've run out of time",
+          "I'm so sorry, now you know",
+          "Sorry I'm the one that told you so",
+          "Sorry, sorry, I'm sorry, sorry",
+          "Psych",
+        ],
+      },
+      {
+        verse: [
+          "By the way, you've been uninvited",
+          "'Cause all you say are all the same things I did",
+        ],
+      },
+      {
+        verse: [
+          "Copycat tryna cop my manner",
+          "Watch your back when you can't watch mine",
+          "Copycat tryna cop my glamour",
+          "Why so sad, bunny? Can't have mine",
+        ],
+      },
+    ],
+    cover: "https://i1.sndcdn.com/artworks-mRH0n2LYzLpv-0-t500x500.jpg",
+  },
+  {
+    id: 92,
+    title: "Happier Than Ever",
+    artist: "Billie Eilish",
+    description:
+      "Happier Than Ever is a powerful and introspective track by Billie Eilish. Released in 2021, it explores themes of personal growth, resilience, and the complexities of fame.",
+    url: happierThanEver,
+    lyrics: [
+      {
+        verse: [
+          "When I'm away from you",
+          "I'm happier than ever",
+          "Wish I could explain it better",
+          "I wish it wasn't true",
+        ],
+      },
+      {
+        verse: [
+          "Give me a day or two",
+          "To think of something clever",
+          "To write myself a letter",
+          "To tell me what to do",
+        ],
+      },
+      {
+        verse: [
+          "Do you read my interviews?",
+          "Or do you skip my avenue?",
+          "When you said you were passing through",
+          "Was I even on your way?",
+        ],
+      },
+      {
+        verse: [
+          "I knew when I asked you to",
+          "Be cool about what I was telling you",
+          "You'd do the opposite of what you said you'd do",
+          "And I'd end up more afraid",
+        ],
+      },
+      {
+        verse: [
+          "Don't say it isn't fair",
+          "You clearly weren't aware that",
+          "You made me miserable",
+          "So if you really wanna know",
+        ],
+      },
+      {
+        verse: [
+          "When I'm away from you",
+          "I'm happier than ever",
+          "Wish I could explain it better",
+          "I wish it wasn't true",
+        ],
+      },
+      {
+        verse: [
+          "You call me again, drunk in your Benz",
+          "Driving home under the influence",
+          "You scared me to death, but I'm wasting my breath",
+          "'Cause you only listen to your fucking friends",
+        ],
+      },
+      {
+        verse: [
+          "I don't relate to you",
+          "I don't relate to you, no",
+          "'Cause I'd never treat me this shitty",
+          "You made me hate this city",
+        ],
+      },
+      {
+        verse: [
+          "And I don't talk shit about you on the internet",
+          "Never told anyone anything bad",
+          "'Cause that shit's embarrassing, you were my everything",
+          "And all that you did was make me fucking sad",
+        ],
+      },
+      {
+        verse: [
+          "So don't waste the time I don't have",
+          "And don't try to make me feel bad",
+        ],
+      },
+      {
+        verse: [
+          "I could talk about every time that you showed up on time",
+          "But I'd have an empty line 'cause you never did",
+          "Never paid any mind to my mother or friends, so I",
+          "Shut 'em all out for you 'cause I was a kid",
+        ],
+      },
+      {
+        verse: [
+          "You ruined everything good",
+          "Always said you were misunderstood",
+          "Made all my moments your own",
+          "Just fucking leave me alone",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/e/e8/Happier_Than_Ever_%28álbum%29_-_Billie_Eilish.png",
+  },
+  {
+    id: 93,
+    title: "Bellyache",
+    artist: "Billie Eilish",
+    description:
+      "Bellyache is a dark and catchy pop track by Billie Eilish. Released in 2017, it showcases Eilish's storytelling abilities, combining infectious hooks, whimsical production, and introspective lyrics.",
+    url: bellyache,
+    lyrics: [
+      {
+        verse: [
+          "Sittin' all alone",
+          "Mouth full of gum",
+          "In the driveway",
+          "My friends aren't far",
+          "In the back of my car",
+          "Lay their bodies",
+        ],
+      },
+      { verse: ["Where's my mind?", "Where's my mind?"] },
+      {
+        verse: [
+          "They'll be here pretty soon",
+          "Lookin' through my room for the money",
+          "I'm bitin' my nails",
+          "I'm too young to go to jail",
+          "It's kinda funny",
+        ],
+      },
+      {
+        verse: [
+          "Where's my mind?",
+          "Where's my mind?",
+          "Where's my mind?",
+          "Where's my mind?",
+        ],
+      },
+      {
+        verse: [
+          "Maybe it's in the gutter",
+          "Where I left my lover",
+          "What an expensive fate",
+          "My V is for Vendetta",
+          "Thought that I'd feel better",
+          "But now I got a bellyache",
+        ],
+      },
+      {
+        verse: [
+          "Everything I do",
+          "The way I wear my noose",
+          "Like a necklace",
+          "I wanna make 'em scared",
+          "Like I could be anywhere",
+          "Like I'm reckless",
+        ],
+      },
+      {
+        verse: [
+          "I lost my mind",
+          "I don't mind",
+          "Where's my mind?",
+          "Where's my mind?",
+        ],
+      },
+      {
+        verse: [
+          "Maybe it's in the gutter",
+          "Where I left my lover",
+          "What an expensive fate",
+          "My V is for Vendetta",
+          "Thought that I'd feel better",
+          "But now I got a bellyache",
+        ],
+      },
+      {
+        verse: [
+          "Maybe it's in the gutter",
+          "Where I left my lover",
+          "What an expensive fate",
+          "My V is for Vendetta",
+          "Thought that I'd feel better",
+          "But now I got a bellyache",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/7/7a/Bellyache_%28Official_Single_Cover%29_by_Billie_Eilish.png",
+  },
+  {
+    id: 94,
+    title: "Ocean Eyes",
+    artist: "Billie Eilish",
+    description:
+      "Ocean Eyes is a mesmerizing ballad by Billie Eilish. Released in 2016, it gained attention for its ethereal sound, delicate vocals, and vulnerable lyrics, marking the beginning of Eilish's meteoric rise.",
+    url: oceanEyes,
+    lyrics: [
+      {
+        verse: [
+          "I've been watching you for some time",
+          "Can't stop staring at those ocean eyes",
+          "Burning cities and napalm skies",
+          "Fifteen flares inside those ocean eyes",
+          "Your ocean eyes",
+        ],
+      },
+      {
+        verse: [
+          "No fair",
+          "You really know how to make me cry",
+          "When you give me those ocean eyes",
+          "I'm scared",
+          "I've never fallen from quite this high",
+          "Falling into your ocean eyes",
+          "Those ocean eyes",
+        ],
+      },
+      {
+        verse: [
+          "I've been walking through a world gone blind",
+          "Can't stop thinking of your diamond mind",
+          "Careful creature made friends with time",
+          "He left her lonely with a diamond mind",
+          "And those ocean eyes",
+        ],
+      },
+      {
+        verse: [
+          "No fair (no fair)",
+          "You really know how to make me cry",
+          "When you gimme those ocean eyes (those ocean eyes)",
+          "I'm scared (I'm scared)",
+          "I've never fallen from quite this high",
+          "Falling into your ocean eyes",
+          "Those ocean eyes",
+        ],
+      },
+      {
+        verse: [
+          "Da, da, da, da, da, da, da, da, da, da",
+          "Da, da, da, da, da, da, da, da, da, da",
+          "Hmm, hmm, hmm",
+        ],
+      },
+      {
+        verse: [
+          "No fair",
+          "You really know how to make me cry",
+          "When you gimme those ocean eyes",
+          "I'm scared",
+          "I've never fallen from quite this high",
+          "Falling into your ocean eyes",
+          "Those ocean eyes",
+        ],
+      },
+    ],
+    cover:
+      "https://upload.wikimedia.org/wikipedia/pt/a/a2/Ocean_Eyes_%28Official_Single_Cover%29_by_Billie_Eilish.png",
+  },
+  {
+    id: 95,
+    title: "Genius",
+    artist: "LSD",
+    description:
+      "Genius is a psychedelic pop track by the supergroup LSD, consisting of Labrinth, Sia, and Diplo. Released in 2018, it combines trippy production, infectious melodies, and the powerhouse vocals of Labrinth and Sia.",
+    url: genius,
+    lyrics: [
+      {
+        verse: [
+          "Do you think I'm stupid?",
+          "Do you think I'm bat-shit crazy, havin' you on my mind?",
+          "Do you think I'm helpless?",
+          "My algebra gon' equal you every time",
+        ],
+      },
+      {
+        verse: [
+          "Do you think I'm callin'?",
+          "Do you think I'm callin' out your name every night?",
+          "Girl, I have fallen for you",
+          "(What, what you say?)",
+        ],
+      },
+      {
+        verse: [
+          "Oh my God",
+          "Baby, baby, don't you see?",
+          "I got everything you need",
+          "O-only a genius could love a woman like she",
+        ],
+      },
+      {
+        verse: [
+          "Oh my God",
+          "Baby, baby, don't you see?",
+          "I got everything you need",
+          "O-o-only a genius could love a woman like she",
+        ],
+      },
+      {
+        verse: [
+          "I'm a ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "He's a genius",
+          "'Cause I love a woman like you",
+        ],
+      },
+      {
+        verse: [
+          "I'm a ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "He-he's a genius",
+          "'Cause I love a woman like you",
+        ],
+      },
+      { verse: ["Sia"] },
+      {
+        verse: [
+          "(Oh!)",
+          "You’ll be my Einstein, my Newton, my Galileo, and my Hawkings",
+          "Boy, put that pep in my step",
+          "Put your arm on my neck while I am walkin'",
+          "Please understand, yeah, I have fallen for you, you",
+          "(What, what you say?)",
+        ],
+      },
+      {
+        verse: [
+          "Oh my God",
+          "Baby, baby, don't you see?",
+          "I got everything you need",
+          "O-only a genius could love a woman like me",
+        ],
+      },
+      {
+        verse: [
+          "Sayin', oh my God (my God)",
+          "Baby, baby, don't you see? (yeah)",
+          "I got everything you need",
+          "O-o-only a genius could love a woman like me",
+        ],
+      },
+      {
+        verse: [
+          "I'm a ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "He's a genius",
+          "'Cause I love a woman like you",
+        ],
+      },
+      {
+        verse: [
+          "I'm a ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "A ge-ge-ge-ge-ge-ge-genius",
+          "He-he's a genius",
+          "'Cause I love a woman like you",
+        ],
+      },
+      {
+        verse: [
+          "Oh my God",
+          "Dot the I's and cross the T's",
+          "I got everything you need",
+          "Well, only a genius could love a woman like me",
+        ],
+      },
+      {
+        verse: [
+          "Oh my God",
+          "You’re the lock and I’m a key",
+          "I got everything you need",
+          "Well, only a genius could love a woman like me",
+        ],
+      },
+      {
+        verse: [
+          "(Oh, oh-oh, oh-oh)",
+          "'Cause I love a woman like you",
+          "(Oh, oh-oh, oh-oh)",
+          "He-he-he's a genius (oh)",
+          "'Cause I love a woman like you",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/6704dccfc405f8f840fc9498124ea8b8/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 96,
+    title: "No Time To Die",
+    artist: "Billie Eilish",
+    description:
+      "No Time To Die is a haunting and atmospheric track by Billie Eilish. Released in 2020 as the theme song for the James Bond film of the same name, it showcases Eilish's captivating vocals and emotional depth.",
+    url: noTimeToDie,
+    lyrics: [
+      {
+        verse: [
+          "I should have known",
+          "I'd leave alone",
+          "Just goes to show",
+          "That the blood you bleed is just the blood you owe",
+          "We were a pair",
+          "But I saw you there",
+          "Too much to bear",
+          "You were my life, but life is far away from fair",
+          "Was I stupid to love you?",
+          "Was I reckless to help?",
+          "Was it obvious to everybody else?",
+        ],
+      },
+      {
+        verse: [
+          "That I'd fallen for a lie",
+          "You were never on my side",
+          "Fool me once, fool me twice",
+          "Are you death or paradise?",
+          "Now you'll never see me cry",
+          "There's just no time to die",
+        ],
+      },
+      {
+        verse: [
+          "I let it burn",
+          "You're no longer my concern, mmm",
+          "Faces from my past return",
+          "Another lesson yet to learn",
+        ],
+      },
+      {
+        verse: [
+          "That I'd fallen for a lie",
+          "You were never on my side",
+          "Fool me once, fool me twice",
+          "Are you death or paradise?",
+          "Now you'll never see me cry",
+          "There's just no time to die",
+        ],
+      },
+      { verse: ["No time to die, mmm", "No time to die, ooh"] },
+      {
+        verse: [
+          "Fool me once, fool me twice",
+          "Are you death or paradise?",
+          "Now you'll never see me cry",
+          "There's just no time to die",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/5c8b9fe62c67cb0257ea76bcdf4ee06f/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 97,
+    title: "Play With Fire",
+    artist: "Sam Tinnesz",
+    description:
+      "Play With Fire is an anthemic pop-rock track by Sam Tinnesz. Released in 2020, it combines driving guitars, powerful vocals, and empowering lyrics, inspiring listeners to take risks and embrace their passions.",
+    url: playWithFire,
+    lyrics: [
+      {
+        verse: [
+          "Insane, inside the danger gets me high",
+          "Can't help myself got secrets I can't tell",
+          "I love the smell of gasoline",
+          "I light the match to taste the heat",
+        ],
+      },
+      {
+        verse: [
+          "I've always liked to play with fire",
+          "Play with fire, play with fire",
+          "Fire, fire",
+          "I've always liked to play with fire",
+        ],
+      },
+      {
+        verse: [
+          "I ride, I ride, the edge, the edge",
+          "My speed goes in the red",
+          "Hot blood, hot blood, these veins",
+          "These veins, my pleasure is their pain",
+          "I love to watch the castles burn",
+          "These golden ashes turn to dirt",
+        ],
+      },
+      {
+        verse: [
+          "I've always liked to play with fire",
+          "Play with fire, play with fire",
+          "Fire, fire",
+          "I've always liked to play with fire",
+        ],
+      },
+      {
+        verse: [
+          "Watching as the flames get higher",
+          "I've always liked to play with",
+        ],
+      },
+      {
+        verse: [
+          "Right of passage, classic maverick",
+          "Match in the gas tank",
+          "Oh that's wretched unstoppable legendary animal",
+          "Digital justice, now you're gonna know us",
+          "Hail to the king and queen of the ruckus",
+          "Yacht mMoney wired no denying",
+        ],
+      },
+      {
+        verse: [
+          "I've always liked to play with fire",
+          "Play with fire",
+          "I've always liked to play with fire",
+          "Play with fire",
+        ],
+      },
+      {
+        verse: [
+          "I've always liked to play with fire",
+          "Play with fire, fire, fire",
+          "I've always liked to play with fire",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/33e9f0f2674f25f442c653d7e23cc1ca/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 98,
+    title: "Wellerman",
+    artist: "Nathan Evans",
+    description:
+      "Wellerman is a sea shanty turned viral hit by Nathan Evans. Released in 2021, it gained popularity on social media platforms, showcasing the enduring appeal of traditional folk music with a modern twist.",
+    url: wellerman,
+    lyrics: [
+      {
+        verse: [
+          "There once was a ship that put to sea",
+          "The name of the ship was the Billy of Tea",
+          "The winds blew up, her bow dipped down",
+          "O blow, my bully boys, blow",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "She had not been two weeks from shore",
+          "When down on her, a right whale bore",
+          "The captain called all hands and swore",
+          "He’d take that whale in tow",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "Before the boat had hit the water",
+          "The whale’s tail came up and caught her",
+          "All hands to the side, harpooned and fought her",
+          "When she dived down low",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "No line was cut, no whale was freed",
+          "The Captain’s mind was not of greed",
+          "But he belonged to the whaleman’s creed",
+          "She took the ship in tow",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "For forty days, or even more",
+          "The line went slack, then tight once more",
+          "All boats were lost, there were only four",
+          "But still that whale did go",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "As far as I’ve heard, the fight’s still on",
+          "The line’s not cut and the whale’s not gone",
+          "The Wellerman makes his regular call",
+          "To encourage the Captain, crew, and all",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+      {
+        verse: [
+          "Soon may the Wellerman come",
+          "To bring us sugar and tea and rum",
+          "One day, when the tonguin’ is done",
+          "We’ll take our leave and go",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/4bcd0a23f7458e9a7f8f23346f48d9fb/264x264-000000-80-0-0.jpg",
+  },
+  {
+    id: 99,
+    title: "Valhalla Calling",
+    artist: "Miracle of Sound",
+    description:
+      "Valhalla Calling is an epic and cinematic track by Miracle of Sound. Released in 2019, it combines powerful vocals, sweeping orchestration, and lyrics that evoke themes of heroic battles and mythical realms.",
+    url: valhallaCalling,
+    lyrics: [
+      {
+        verse: [
+          "Ships on vigor of the waves are skimming",
+          "Barren summits to the verdant plains",
+          "Each horizon is a new beginning",
+          "Rise and reign",
+        ],
+      },
+      {
+        verse: [
+          "Far from the fjords and the ice cold currents",
+          "Ravens soar over new frontiers",
+          "Songs and sagas of a fate determined",
+          "Shields and spears",
+        ],
+      },
+      {
+        verse: [
+          "Vows of favour or the thrill of plunder",
+          "Pull together for the clan and kin",
+          "Clank of hammers and the crash of thunder",
+          "Pound within",
+        ],
+      },
+      {
+        verse: [
+          "Oh, ho, oh",
+          "The echoes of eternity",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Oh, ho, oh",
+          "To pluck the strings of destiny",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Valhalla calling me",
+        ],
+      },
+      {
+        verse: [
+          "Sails a' swaying on the crimson rivers",
+          "Blood and glory in the fighting fields",
+          "Shields a' shatter into splintered timbers",
+          "Iron and steel",
+        ],
+      },
+      {
+        verse: [
+          "Fires are rising and the bells are ringing",
+          "Glory take us into Odin's halls",
+          "Golden glimmer and the sound of singing",
+          "Asgard's call",
+        ],
+      },
+      {
+        verse: [
+          "Oh, ho, oh",
+          "The echoes of eternity",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Oh, ho, oh",
+          "To pluck the strings of destiny",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Valhalla calling me",
+        ],
+      },
+      {
+        verse: [
+          "Wind and the waves will carry me",
+          "Wind and the waves will set me free",
+          "Wind and the waves will carry me",
+          "Wind and the waves will set me free",
+        ],
+      },
+      {
+        verse: [
+          "Oh, ho, oh",
+          "The echoes of eternity",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Oh, ho, oh",
+          "To pluck the strings of destiny",
+          "Oh, ho, oh",
+          "Valhalla calling me",
+          "Valhalla calling me",
+        ],
+      },
+    ],
+    cover:
+      "https://e-cdn-images.dzcdn.net/images/cover/8d3327f8f056636780b1bfa11eb6149e/264x264-000000-80-0-0.jpg",
   },
 ];
 
