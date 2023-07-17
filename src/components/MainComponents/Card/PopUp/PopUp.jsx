@@ -30,8 +30,8 @@ export default function PopUp(props) {
       <div className="page-mask" onClick={() => setPopup(false)}></div>
       <div className="popup">
         <div className="column-one">
-          <div className="buttons">
-            <div className="mask" onClick={() => handlePlayPopup()}></div>
+          <div className="buttons" onClick={() => handlePlayPopup()}>
+            <div className="mask"></div>
             <img src={cover} />
             <button>
               <Play className="play" />
