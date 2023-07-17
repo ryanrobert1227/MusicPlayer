@@ -29,7 +29,6 @@ import countingStars from "./assets/musics/newMusics/Countingstars.mp3";
 import oFlyOn from "./assets/musics/newMusics/Oflyon.mp3";
 import deepDown from "./assets/musics/newMusics/Deepdown.mp3";
 import babyOneMoreTime from "./assets/musics/newMusics/Babyonemoretime.mp3";
-import highsAndLows from "./assets/musics/newMusics/Highsandlows.mp3";
 import aThousandYears from "./assets/musics/newMusics/Athousandyears.mp3";
 import attention from "./assets/musics/newMusics/Attention.mp3";
 import unavailable from "./assets/musics/newMusics/Unavailable.mp3";
@@ -2699,92 +2698,6 @@ const data = [
       },
     ],
     cover: "https://m.media-amazon.com/images/I/81tjVNc+-yL._AC_SX679_.jpg",
-  },
-  {
-    id: 33,
-    title: "Highs & Lows",
-    artist: "Prinz, Gabriela Bee",
-    description:
-      "Highs & Lows is an uplifting pop collaboration between Prinz and Gabriela Bee. Released in 2022, it combines feel-good melodies with empowering lyrics, reminding listeners to embrace both the highs and lows of life.",
-    url: highsAndLows,
-    lyrics: [
-      {
-        verse: [
-          "You know that I'll be there for the highs and lows",
-          "Give you mine if your heart gets broke (ME13)",
-          "By your side when you're all alone",
-          "I will be there",
-        ],
-      },
-      {
-        verse: [
-          "And I'll be there for the highs and lows",
-          "Give you mine if your heart gets broke",
-          "By your side when you're all alone",
-          "I will be there (Ayy, Prinz)",
-          "And I'll be",
-        ],
-      },
-      {
-        verse: [
-          "I'll be there through the highs and lows",
-          "We all know life gets tough, when you're by yourself, it's a lonely road",
-          "If you ever need someone, stop crying around and call my phone and",
-          "I will be there (Yo, look)",
-          "These highs and lows are a part of life",
-          "Live every day like it's your last, I left my past, the future's bright",
-          "If you leave the dark, you'll find the light",
-          "If you're going through highs and lows, remember",
-          "I will be there",
-        ],
-      },
-      {
-        verse: [
-          "And I'll be there for the highs and lows",
-          "Give you mine if your heart gets broke",
-          "By your side when you're all alone",
-          "I will be there",
-          "You might also like",
-          "​​​it’s yours",
-          "Omah Lay",
-          "I Believe",
-          "Asake",
-          "​fukumean",
-          "Gunna",
-        ],
-      },
-      {
-        verse: [
-          "I feel like I take life easy, you'll never see me on the driver's wheel",
-          "Always the passenger's side of the journey, let me sit back and enjoy my meal",
-          "Nonchalant, I keep myself to myself",
-          "You ain't gonna hear my plans, I keep my circle small",
-          "Seen too many man try giving their helping hand (Haha)",
-          "They see me winning, I'm making more and I'm speaking less",
-          "I prove them wrong every time I sing, they make a mistake and they second-guess",
-          "They know I got G-O-D on my side and He told me",
-          "I will be there",
-        ],
-      },
-      {
-        verse: [
-          "And I'll be there for the highs and lows",
-          "Give you mine if your heart gets broke",
-          "By your side when you're all alone",
-          "I will be there",
-        ],
-      },
-      {
-        verse: [
-          "And I'll be there for the highs and lows",
-          "Give you mine if your heart gets broke",
-          "By your side when you're all alone",
-          "I will be there (ME13)",
-        ],
-      },
-    ],
-    cover:
-      "https://e-cdn-images.dzcdn.net/images/cover/c8d3a3d3b5e23add6c0404c857aef28a/264x264-000000-80-0-0.jpg",
   },
   {
     id: 34,
