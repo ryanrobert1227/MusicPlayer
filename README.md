@@ -19,7 +19,7 @@ Bem-vindo ao Aplicativo de Player de Música! 🎵🎧 Este projeto apresenta um
   
 ## Primeiros Passos
 
-1. Clone este repositório: git clone https://github.com/seunome/music-player-app.git
+1. Clone este repositório: git clone git@github.com:ryanrobert1227/MusicPlayer.git
 2. Navegue até o diretório do projeto: cd music-player-app
 3. Instale as dependências: npm install
 4. Inicie o servidor de desenvolvimento: npm run dev
